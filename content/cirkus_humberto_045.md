@@ -1,8 +1,9 @@
 ---
+title: XIV
 contentType: prose
 ---
 
-## XIV
+  
 
 Karasovo Vašek z Horní Sněžné je tedy velkým pánem, je direktor. Ale sám se tomu jen trpce pošklebuje, když mu Kerholec tiskne blahopřejně ruku a když vzpomíná, že mu to prorokoval. Jakápak sláva s direktorstvím, když je to vlastně jen pro likvidaci. Nicméně v Kerholcovi hrají ještě staré žilky, a míní tedy, že by se to mělo přece jen zapít. Vaškovi se nechce, ale nakonec se shodnou na půl cestě: po představení půjdou do tátova vozu, uvaří si punč a vzkážou pro seržána Vosátku. I sedí pak ti tři staří cirkusoví mroži se svým dorostlým tuleněm zase jednou pohromadě na čtyřech kolech, v železných kamínkách to důvěrně praská, ze sklenic se kouří a v tom dýmu jim vyvstává uplynulý život, život zaplněný prací a dřením, a přece krásný, pestrý, měnivý a veselý.
 

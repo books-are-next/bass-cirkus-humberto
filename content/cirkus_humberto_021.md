@@ -1,8 +1,9 @@
 ---
+title: VII
 contentType: prose
 ---
 
-## VII
+  
 
 Historka s dvojitou krávou byla švanda, která měla vážné pozadí: Vašek čím dál tím víc mluvil řečí, která nebyla žádný jazyk. V cirkuse užívali všichni hantýrky, která byla složena z francouzských, italských a anglických výrazů, čeští dělníci do svých českých rozhovorů vplétali pokroucená německá slova, ale Vašek k tomu všemu přibíral, dontérem počínajíc, všeliké výrazy ze všech řečí, které kolem sebe slyšel. A volalo se tu i hovořilo francouzsky, anglicky, italsky a španělsky, Gevaertsové spolu mluvili švédsky, paní Berwitzová se Steenhouwerem hovořívala holandsky, Roméo klel nebo se dovolával boha arabsky a turecky, Cirkus Humberto byl jako jazyková archa Noemova, kde měli od každé řeči do páru. Dospělí si na to navykli, ale u hocha, který v tom žil jako Vašek, nastávalo z toho v hlavě babylonské zmatení. Někdy promluvil tak, že mu už vlastní táta nerozuměl a musel si to dát přeložit; ale když Vašek začal říkat i „mašalah“, uznal Bureš, že už je nejvýš na čase ochránit jeho českou dušičku před úplným zmatkem.
 
@@ -10,35 +11,35 @@ Tehdy vyhrabal Bureš vzadu v osmičce balík knížek svázaných motouzem, a k
 
 Poslouchali zprvu s úsměvem jeho patetickou deklamaci, ale najednou zvážněli a sledovali básnické vyprávění s odborným zájmem:
 
-Heřman všeliké hrůzy prost  
+_Heřman všeliké hrůzy prost  
 projíždí tam pouště a lesy,  
 novou konaje myslivost  
-jakoby zvyklý, potvory děsí.
+jakoby zvyklý, potvory děsí._
 
-Jednou žena se za pardem  
+_Jednou žena se za pardem  
 od komonstva se vzdaluje svého;  
 kůň tu zarazí v běhu svém  
-a hluk dopadá ucha i jeho.
+a hluk dopadá ucha i jeho._
 
-Rychle tam bodá, odkud ten řev,  
+_Rychle tam bodá, odkud ten řev,  
 ač se kůň mu příčí a brojí,  
 dojel a vidí, an zápasí lev  
-se dvěma tygry v náramném boji.
+se dvěma tygry v náramném boji._
 
-„Jednomu na dva se pomoci má!“  
+_„Jednomu na dva se pomoci má!“  
 praví a dřevce svého se chopí,  
 a než ho dravstvo to znamená,  
-v tygra jednoho zarazí kopí.
+v tygra jednoho zarazí kopí._
 
-Skočí s koně a vytasí meč,  
+_Skočí s koně a vytasí meč,  
 aby druhou potvoru ubil;  
 ale než ji dohonil v seč,  
-již lev svou drápou byl zhubil.
+již lev svou drápou byl zhubil._
 
-I chvěl hřívou, se zvedaje,  
+_I chvěl hřívou, se zvedaje,  
 obou tygrů a svou krví zbrocen,  
 vděčné k ochránci vzhledaje,  
-lehnul k nohoum jeho mu zkrocen.
+lehnul k nohoum jeho mu zkrocen._
 
 Tady sebou pohnul Malina. Měl patrně nějakou námitku, ale počkal, až jak to dopadne. Poslouchali tedy, jak Heřman ovázal lva a jak ten šel za ním až do městské brány a jak potom žili v Čechách, až rytíř umřel, a lev „žalostí hrůzně řval, nejedl, nepil, třetí den pošel“.
 
@@ -76,10 +77,10 @@ Tomuto obratu v znaleckém rozboru básně se musel už i Bureš dát do smíchu
 
 Zdálo se, že tím je báseň definitivně schválena, ale Karas otec ještě měl nějakou starost. Jak prý to bylo tam s tím průvodcem a s vladykou. Bureš musel chvilku hledat v paměti, než konečně to místo znovu odříkal:
 
-Kudy stoupal, mu po boku byl,  
+_Kudy stoupal, mu po boku byl,  
 každý se divil průvodci tomu,  
 a když vladyka poselství sdil,  
-následoval jej do Čech domů.
+následoval jej do Čech domů._
 
 „To je to, čemu nerozumím,“ přikývl Karas, „jak to, že ten vladyka to poselství zdil. To je zazdili cihlama nebo co?“
 
@@ -119,19 +120,19 @@ Touto obecně uznanou pravdou byla nakonec báseň schválena a rozhodnuto, že 
 
 Bureš viděl, že už i Vašek je zachvácen cirkusáckým cítěním, ale utěšoval se tím, že v jeho mladé duši je ještě místo i pro jiné city. A umiňoval si, že je bude nyní horlivě pěstovat, aby zachránil toto dítě vyšším úkolům i národu. Už příštího dne mu před polednem deklamoval:
 
-Slyš, kterako zdaleka temný hluk  
+_Slyš, kterako zdaleka temný hluk  
 ty hory a doly probíhá!  
 Hle, táhne se nějaký v rozbroji pluk  
 a trub jeho válku budící zvuk  
 se strašno po kraji rozlíhá,  
 a pakli se zbrojnošů statných ptáš:  
-„Toť jest Žižka, Žižka, vedoucí ředitel náš!“
+„Toť jest Žižka, Žižka, vedoucí ředitel náš!“_
 
 Stará Šírova romance opravdu zaujala Vaškovu fantazii, že měl hlavu plnou vítězného vojevůdce; a Burešovi dala příležitost, aby mu na schůdkách maringotky vyprávěl, kdo byl jednooký hrdina a jakou válečnou slávou slynuli staří Čechové. Vašek naslouchal napjatě, každé slovo hltal – to byly pravé příběhy pro klukovskou obrazotvornost. Jen v jednom cítil jakýsi nesoulad, o němž Bureš neměl ani tušení: Šírův refrén v něm vzbudil jasnou představu, že Žižka, vedoucí ředitel náš, vypadal tak nějak jako Petr Berwitz, když předvádí skupinu rapů ve volné drezúře, a s tím tedy se těžko sloučilo líčení Žižky jednookého.
 
 Ale Bureš horlivě utvrzoval ve Vaškovi správnou představu: hned vzápětí přišel s Vocelovou básničkou o sběhu na Staroměstském rynku, kde dva zamlklí muži naslouchají vyprávění o smrti mistra Jana, jeden král Václav,
 
-druhý druhý tichý muž tam stoji  
+_druhý druhý tichý muž tam stoji  
 v kroji slovanském,  
 hlavu níže kloní hledí  
 na tu pražskou zem;  
@@ -141,14 +142,14 @@ vojína až z rozjímání
 vybudí jilce chřest;  
 hlavu plnou hněvu zdvihna  
 plaší z duše sen **–**pod přilbou, hle! září hrůzně  
-jedno oko jen.
+jedno oko jen._
 
 Tento zlověstně uťatý závěr velmi působil na Vaška, který si dával básničku znovu a znovu opakovat. A neméně se mu líbil závěr romance Čelakovského:
 
-Sezimovo tělo čni tam nad lomem,  
+_Sezimovo tělo čni tam nad lomem,  
 záře z hradu svití ještě nad borem,  
 kudy roty táhnou dál na Kakusice,  
-„Kdož jste boži bojovníci“ zpívajíce**.**
+„Kdož jste boži bojovníci“ zpívajíce**.**_
 
 Tyhle věci uměl Bureš přednášet, přimračené oko šlehalo blesky hněvu a vzpoury, levice svírala hruď, pravice se pateticky vznášela, hlas duněl a hřímal; Vašek zíral na něho ve zbožné úctě, cítě bezděky, že ho ty podivné, neslýchané verše unášejí ještě do jiných krás, než byla poutavá lepost cirkusu a zvěřince kolem. Bureš deklamoval většinou zpaměti a znalec by byl poznal, že jeho repertoár je trochu zastaralý, že česká poezie v těch letech už byla zase o kus dál. Ale pro Vaška to bylo všecko nové a povznášející, zaplňovalo to jeho mysl novými zájmy; netrvalo dlouho a Vašek seděl s Burešem u knížek a sám si pomalu slabikoval jejich obsah.
 
@@ -164,10 +165,10 @@ Měkkosti však nepodléhali a Vašek se bezděky od nich učil přijímat živo
 
 To třeba, když už Vašek uměl plynně číst, poručil mu Bureš, aby se naučil nazpaměť „Horymírův skok“. A jednoho dne stál Vašek na schůdkách maringotky a dětským hlasem recitoval:
 
-Co lid všechen spěchá k Vyšehradu?  
+_Co lid všechen spěchá k Vyšehradu?  
 Co ten četný shon as znamená?  
 Rytíř jeden, spáchav hroznou zradu,  
-mečem skončit dnes život má.
+mečem skončit dnes život má._
 
 Pět dospělých mužů naslouchalo dál, jak byl rytíř Horymír odsouzen k smrti, že zapálil stříbrné doly, a jak si vyžádal jako poslední milost, aby se směl projet na svém Šemíku, a jak pak s ním přeskočil vyšehradské hradby i skálu a všichni jen „spatří letět ho k Radotínu“. Pěkný rytmus Jana Jindřicha Marka je ukolébal v příjemný poslech, že se jim to velmi líbilo; ale vtom už se prodrala skutečnost jejich sněním a seržán Vosátka luskl prsty:
 

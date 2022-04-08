@@ -1,8 +1,9 @@
 ---
+title: XI
 contentType: prose
 ---
 
-## XI
+  
 
 Hagenbeckové se možná jen řídili biblí, když prorokovali Vaškovi sedm hubených let, ale jejich věštba se skutečně shodovala s pravdou. Tak nějak na sedm let se to protáhlo, než se rozkývané poměry ustálily a než mohli senzálové burz, prokuristé bank a správní radové akciových společností hlásat rozbřesk nové konjunktury. Ale pro Cirkus Humberto vlekla se strastná léta nuzování ještě dál, přitažený opasek nebylo možno povolit. Úrok vydatně mrvil jejich dluhy, že se jim plevelily jako kokotice. Obchody se už hnuly, stan býval zas natřískán, ale oni pořád jen vyráželi klín klínem. Rozmrzelý a rychle stárnoucí Berwitz láteřil, jaká je to mizérie, že jediné překvapení, které nečekaně přijde, jsou škody a ztráty a nikdy žádný nenadálý zisk. Vašek sledoval průběh jejich obchodů chladnokrevněji a viděl přesně, kde je chyba. Vozili s sebou příliš mnoho zvěře. Berwitz, zamilovaný do svého podniku, nakoupil na sklonku konjunktury tolik drahocenných zvířat, že nyní nestačili na ně vydělávat. Stan se nezvětšil, vstupné se nezměnilo, a oni měli šest slonů místo jednoho, vozili dvanáct tygrů místo tří, osm lvů místo pěti, sedm medvědů místo čtyř a podobně byla rozmnožena i drobná zvěř menažerijní. Pane, to bylo chřtánů, které třikrát denně řvaly o nakrmení. Ale nešlo jen o tuny sena, čtvrtky zabitých koní, pytle obilin a hromady řípy a mrkve, přírůstek klecí znamenal víc vozů, víc tažných koní, víc kočí a krmičů, víc správek, víc mazadel, víc mýtného a mostného – všeho víc ve výdejích a ani haléř víc nad maximum starých příjmů. Tu byl kořínek jejich vytrvalé tísně, ale před Berwitzem se o tom nesmělo ani hlesnout. Vašek úporně hledal prostředky, jak to spravit, a našel jen jeden jediný, který neznamenal ještě spásu, ale mohl aspoň trochu zlepšit jejich poměry. Ubrat v programu nesměl, připadl tedy jednoho dne na myšlenku, že naopak něco přidá, ale za zvláštní vstupné.
 

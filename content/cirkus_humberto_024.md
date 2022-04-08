@@ -1,8 +1,9 @@
 ---
+title: X
 contentType: prose
 ---
 
-## X
+  
 
 Úspěch! Úspěch – jaká to vzpružina pro chtivé Vaškovo srdce! Jak to v něm náhle všechno vzkypělo touhou po činnosti, po uplatnění, po vyniknutí! Stačí mu vůbec tento stan s konírnami a se zvěřincem? Sedmiletému klukovi je to všecko málo. Ráno nemůže dospat, už aby byl venku u vozů se zvěří nebo v koňských stájích. Čištění a krmení čtyř bandurků už si převzal úplně sám. Hans jen někdy stojí u kůlu a poučuje ho: „Kartáčuj vždy tou rukou, která je blíž hlavě. Nikdy nekartáčuj tak dlouho, až se ti ukáže bílý prášek. Hřeblo je na kartáč, a ne na koně. Na oči a na hubu měj pokaždé zvláštní hadr. Kopyto musíš čistě umýt a pak namazat mastí. Kopyto se čistí jen dřevěným nožem.“ A Vašek poctivě obsluhuje své čtyři svěřence, načesává jim čupřinu, hřívu i dlouhý ocas, čistí žlaby, kydá hnůj, vybírá pro svou obůrku nejdelší slámu. Za půl roku zná všecky kočovské praktiky a nejednou stojí vedle Hanse, když velcí koně opouštějí stáj, kouká znalecky na jejich chod, kritizuje našlapování, pozoruje i cizí koně, rozpoznává plošší kopyto a strmější, kozlí, stále veden Hansem k jeho životní zásadě, že kopyto je nejdůležitější věc, na něm že je váha koně i s jezdcem.
 

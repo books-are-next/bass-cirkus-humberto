@@ -1,8 +1,9 @@
 ---
+title: XIII
 contentType: prose
 ---
 
-## XIII
+  
 
 Malá Helenka Berwitzová se vrací k jezdecké práci. Celou zimu byla jí ušetřena, aby se výhradně mohla věnovat cvičení u madam Delaglio.
 

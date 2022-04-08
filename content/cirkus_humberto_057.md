@@ -1,12 +1,15 @@
 ---
+title: XI
 contentType: prose
 ---
 
-## XI
+  
 
 Telegramy, před nimiž lidé trnou hrůzou, byly nejběžnější korespondenční prostředek divadelní kanceláře Karasovy. Stálo to peníze, ale ředitel se tím vykupoval z nejistot dlouhého čekání. Naučil se zápasit s časem, jak jej na to kdysi upozornil pan Gaudeamus. Tisíce depeší otvíral zcela mechanicky, jako by šlo o konvenční gratulace, ale nad jednou, která přišla z Rotterdamu, náhle zaváhal. Pak ji otevřel a četl:
 
-přijeď helena zraněna kranz
+_přijeď helena zraněna kranz_
+
+  
 
 Za dvě hodiny nato seděl s Petříkem a Steenhouwerem v drážďanském rychlíku. V Lipsku měl kdy koupit velkou kytici fialek. V Rotterdamu je očekával sám Kranz, zestárlý, ale stále pln životní síly.
 

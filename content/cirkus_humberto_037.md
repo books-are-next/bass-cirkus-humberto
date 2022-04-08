@@ -1,8 +1,9 @@
 ---
+title: VI
 contentType: prose
 ---
 
-## VI
+  
 
 „Přála bych si, aby svatba byla tichá,“ pronesla Anežka Berwitzová.
 

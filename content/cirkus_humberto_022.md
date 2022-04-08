@@ -1,8 +1,9 @@
 ---
+title: VIII
 contentType: prose
 ---
 
-## VIII
+  
 
 Paní Anežka Berwitzová byla smutná: jedno ze tří lvíčat zašlo. Bylo od narození slaboučké, zimomřivé, nijak se nemělo k světu jako obě druhá. Běžela si s tím postesknout ke kapitánu Gambierovi. On jen pokrčil rameny.
 

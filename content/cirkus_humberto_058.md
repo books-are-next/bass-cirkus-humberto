@@ -1,8 +1,9 @@
 ---
+title: XII
 contentType: prose
 ---
 
-## XII
+  
 
 Každého citu dostane lidské srdce svou mírku. Nevyžije-li jej včas, vyrazí zabrzděný cit jindy a jinde a často mnohem bouřlivěji. Táta, který řádně nespotřeboval své tátovství, stane se vášnivým dědečkem, aby si u vnuka dobral, co u syna neužil. Tohle postihlo Václava Karase. Když se mu narodil Petříček, byl Karas příliš zapřažen, aby si s ním vyhrál jeho dětství; nad kolébkou vnučky Lidušky se v něm však probudil potlačený cit a Karas byl snad více pohnut a dojat než otec toho drobečka s matkou dohromady. Den před radostnou událostí byl si jist, že jeho budoucnost jsou koně lvi, tygři a sloni; den po ní byla všecka ta vzácná zvěř vytlačena bezbranným lidským tvorečkem.
 

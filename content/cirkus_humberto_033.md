@@ -1,16 +1,19 @@
 ---
+title: II
 contentType: prose
 ---
 
-## II
+  
 
 Je překrásná neděle v březnu, podél nábřeží poletují rackové, z věže Svatého Pavla odbíjí desátá hodina. Slečna Helena Berwitzová vybíhá drobnými krůčky z domu svých rodičů. V chůzi ještě si zapíná rukavičku. Za rohem se zastavuje, rozevírá pompadúrku a chvatným pohybem z ní vytrhává malé psaníčko. Zapamatovala si dobře, co tam napsal? Je to tak překvapující a rozkošné, že to musí znovu a znovu číst:
 
-Milovaná Helenko!
+_Milovaná Helenko!_
 
-Pamatuješ se ještě na slib, který jsme si kdysi dali na stupních Cirkusu Humberto? Je to už mnoho a mnoho let, byli jsme malé děti. Ale já na něj nezapomněl, po celou tu dobu nosím v srdci Tvůj drahý obraz a vzpomínka na Tebe hoří v mé touze, ať mne umělecká cesta vede ve světě kamkoli. Nyní však mne přivedla do Tvého domova, jsem angažován jako první tanečník k hamburskému divadlu a dneska jsem přijel. Má první vzpomínka platí Tobě, Ty kouzelná lásko mého dětství a hvězdo mého života. Cítíš-li ještě nějakou náklonnost ke mně, přijď, prosím, v neděli o 10. hodině k divadlu a přines mi před mým vystoupením kus štěstí a naděje. Líbá Tě Tvůj věrný a nezapomínající
+_Pamatuješ se ještě na slib, který jsme si kdysi dali na stupních Cirkusu Humberto? Je to už mnoho a mnoho let, byli jsme malé děti. Ale já na něj nezapomněl, po celou tu dobu nosím v srdci Tvůj drahý obraz a vzpomínka na Tebe hoří v mé touze, ať mne umělecká cesta vede ve světě kamkoli. Nyní však mne přivedla do Tvého domova, jsem angažován jako první tanečník k hamburskému divadlu a dneska jsem přijel. Má první vzpomínka platí Tobě, Ty kouzelná lásko mého dětství a hvězdo mého života. Cítíš-li ještě nějakou náklonnost ke mně, přijď, prosím, v neděli o 10. hodině k divadlu a přines mi před mým vystoupením kus štěstí a naděje. Líbá Tě Tvůj věrný a nezapomínající_
 
-Paolo Roméo
+_Paolo Roméo_
+
+  
 
 Ano, už je to hrozně dávno, už je to skoro jen sen. Ale Helena je tím lístkem vzrušena, jako by jí projel elektrický proud. Paolo, krásný Paolo… Co s ním bylo, s tím snědým hochem, který jí tehdy pověděl, jak má provést žokejský skok? Přece je tedy z něho tanečník, jak tehdy chtěl? A jak to, že opustil cirkus a rodinu? A že na ni nezapomněl, je od něho opravdu roztomilé. Byla to jen taková dětská pošetilost, to zaslíbení tehdy, ale přece jen to trošičku zavazuje. A je-li to pravda, že on je ještě do ní zamilován… A proč by nebyl? Mužští jsou takoví směšní, jako tuhleten s tím bílým šeříkem. Tři týdny jí už večer co večer posílá kytici bílého šeříku, teď před jarem, jaký je to výdej! A vůbec se neobjeví, ani znamení nějaké nedá, lísteček, vizitku, oslovení, nic, nic, nic než jen ten šeřík, těžký a nádherný. Kdo to je? Boháč musí být a člověk znamenitého vkusu; ale starý? mladý? krásný? šeredný? Nic z toho nelze uhodnout. Alice Kerholcová říká, že to bude starý, vyžilý a ohavný dědek, který se ani neodváží objevit, ale tohle je taky jenom dohad a Alice jej říká se smíchem, aby pozlobila Helenu. Alice má na Helenu tajnou pifku, že se sama nestala první krasojezdkyní, když Helenina matka v přechodu přestala jezdit. Jenže to je nesmysl, Helena přece byla odmalička vychována pro krasojízdu a vysokou školu, to bylo samozřejmé, že dcera ředitele je něco víc než žena placmistrova. A pak má mít ta zrzavá ženská taky trochu rozumu, propána, máma tří dětí nemůže mít takové tělo jako mladé děvče, to uznávají všichni. Proto jí chce Alice neznámého ctitele zesměšnit, ale to je hloupost; mnohem spíš je to vysoká, svrchovaně diskrétní osobnost, která se jednoho dne přihlásí. A jsou-li takoví oddaní ctitelé, proč by nemohl být stále do ní zamilován Paolo? Bývala prý už jako holčička hezká, říkají rodiče, to by tedy nebylo nic divného, kdyby v něm zanechala nepohasínající dojem. Všichni jí píší a vzkazují, že je jejich snem, že po ní touží, že na ni nemohou zapomenout – proč by to neplatilo i pro toho ohnivého hocha? Jen jestli ho pozná po tolika letech! Tenhle tlustý vousáč u divadelního kandelábru to nemůže být, tamhleten v haveloku taky ne, ale… Paolo! Bože, ten je krásný!
 

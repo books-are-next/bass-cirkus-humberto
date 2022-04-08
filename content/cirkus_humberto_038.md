@@ -1,8 +1,9 @@
 ---
+title: VII
 contentType: prose
 ---
 
-## VII
+  
 
 „Pozdrav bůh, inšpektore!“
 

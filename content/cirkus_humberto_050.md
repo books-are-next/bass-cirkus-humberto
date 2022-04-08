@@ -1,8 +1,9 @@
 ---
+title: IV
 contentType: prose
 ---
 
-## IV
+  
 
 Nejspokojenější v novém prostředí byl snad Antonín Karas. Jeho první čin byl, že před prahem ředitelny, než do ní vstoupil, vyňal portmonku a těžkými prsty z ní vylovil papírek. Rozbalil jej: byl v něm lesklý dvacetifenik. Ten dvacetifenik, jejž Vašku dostal, když poprvé nosil lvíčata. Nyní vytáhl Antonín Karas z kapsy kladivo a hřebík, poklekl a památný ten penízek přibil pro štěstí na práh. Pak teprve vstoupil dovnitř.
 
@@ -26,10 +27,12 @@ Výstava, výstava, výstava bylo jediné heslo města i země. Všechno bylo ob
 
 A ti, kteří ještě chtěli této mladosti užít, zpívali si nejnovější odrhovačku:
 
-Kdo máš prach a nejsi cápek  
+_Kdo máš prach a nejsi cápek  
 a miluješ legraci,  
 zajdi sobě na výstavu  
-po té denní štrapáci…
+po té denní štrapáci…_
+
+  
 
 A večer jim všechny kapely ve výstavních restauracích a vinárnách musely znovu a znovu hrát Šeborův pochod „My jsme páni od fontány…“ Kuplet, který se stal hymnou.
 

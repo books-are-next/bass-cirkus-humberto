@@ -1,8 +1,9 @@
 ---
+title: XIV
 contentType: prose
 ---
 
-## XIV
+  
 
 O nečekaném setkání s donem José Lebedou se mezi osmičkáři za zády Vosátkovými mnoho mluvilo. Odhalilo jim kus minulosti, o níž kamarád mlčel.
 
@@ -144,17 +145,17 @@ Valný podíl na libretním žánru osmičkářů měla hospoda U námořníkovy
 
 „Jak přišel ten ohava Moesecke k tomuhle pokladu?“ to byla bezděčně jejich první vzájemná otázka. Ale tihle světoběžníci se netrápili nějakou záhadou. Kerholec první si pošoupl klobouk do týla a už se s Vosátkou postavili k pultu, aby paní Moeseckovou řádně vyzpovídali. A Vosátka brzo pomrkával po Kerholcovi, to že není jen tak, ta že se vyzná, panečku, ta umí odseknout jako sekyrečkou; a Kerholec přikyvuje, ta žena je tažená, Ferenc, ta žena je tažená; a už si přiťukávají a už zvedají číše na její krásu, už popleskávají prsty o hranu pultu a objednávají znovu, ďas ví, kamarádi moji, v čem to je, že se hned jinak pije, když tu místo odulého pančovníka rejdí taková molet osůbka! I trunčí se toho večera do haleluja a zvláště seržán Vosátka je všecek rozkocouřený, už jim neříká „Slavný senáte“ a „Vysoká Porto“, je samá americká španělština, Adéle Moeseckové říká „Ňa Misia“ a „dulce pebete“ a „mío damasco“ a ke všemu začíná i zpívat. S narudlou jizvou, s očima přimhouřenýma se naklání k Adéle a lehounce pobzukuje jakousi cizokrajnou píseň. Je to pomalé tango milonga, jedna z oněch tristes, které se zpívají na pampách a v nekonečných, stále improvizovaných slokách oslavují krásu ženy.
 
-Smrt nesou mi ty oči její,  
+_Smrt nesou mi ty oči její,  
 ty oči jako drahokam.  
 Otevře-li je, pobíjejí.  
-A zavře-li je, umírám.
+A zavře-li je, umírám._
 
 Takhle ještě svého seržána neviděli: najednou byl z něho mexický dravec, taková puma nějaká, která jde za kořistí, všechno v něm hrálo, všechno v něm jiskřilo jako elektřinou, a ta černá ženská, která mu najednou připomněla krasavice Nové Granady, na té bylo přímo vidět, jak na ni ty jiskry přeletují a jak se už všecka pod nimi zapaluje. Kerholec byl taky divoch, když přišel k sukni, a setsakra uměl zahrát na ženskou, ale proti seržánovi bezděky ustupoval, kdepak, ten šel vpřed, jako by měl skočit batúdu přes šestnáct koní, zab koně, zlom vaz, allez! Teď tu stojí, s číší ve třech nezchromených prstech, otlučený, ale nezdolatelný bitec, a načíná novou španělskou sloku:
 
-Dovolte, aby se vám řeklo,  
+_Dovolte, aby se vám řeklo,  
 že vaše krása je zlá věc,  
 pro oči ráj, pro duši peklo  
-a pro můj váček očistec.
+a pro můj váček očistec._
 
 Prásk! letí vypitá číše na zeď a seržán komanduje:
 
@@ -226,7 +227,7 @@ Pomalu, pomalounku sahá Kerholec po klice svých dveří, pomalu, pomalounku p�
 
 V tu chvíli sedí seržán Ferenc Vosátka s Adélou Moeseckovou za zavřenými dveřmi Námořníkovy nevěsty, probírá se jejími černými vlasy a zpívá:
 
-Tvé oči černé se mne ptají,  
+_Tvé oči černé se mne ptají,  
 ty oči tvé mne prosí též,  
 ty oči tvé mnou pohrdají  
-a očima mne zabiješ!
+a očima mne zabiješ!_

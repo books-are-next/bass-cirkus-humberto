@@ -1,8 +1,9 @@
 ---
+title: II
 contentType: prose
 ---
 
-## II
+  
 
 To byl tedy nový svět obou Karasů. Od svítání do tmy, někdy i hluboko do noci zaplněn prací, která šla za sebou v přísném, nezměnitelném pořádku, zdánlivě zabírala všechen čas, hodinu po hodině, a přece téměř denně připravila nějakou nečekanou událost, která vyžadovala okamžitý zásah, rychlou improvizaci, důvtip a praktiku. V tom právě vynikal Kerholec, jak si se vším ihned věděl rady, kterak uměl na všechno jít. A jeho česká parta byla jako železná garda Cirkusu Humberto, vržena vždy na nejtěžší, nejodpovědnější úkoly; znamenalo to opravdovou dřinu a napětí, ale zároveň také jakési výjimečné postavení. Ostatní děláci chodili kolem mužů z osmičky s jistou úctou a umělci jednali s nimi jako se sobě rovnými.
 
@@ -29,6 +30,8 @@ Všechno vypadalo navenek stále stejné, a přece jak rozdílný byl tu najedno
 „Dunaj se vlévá do Černého moře,“ poznamenal Bureš.
 
 „Pro mne a za mne…,“ mávl rukou Malina.
+
+  
 
 Druhého dne po této rozprávce přišel o polední přestávce i ředitel Berwitz zhlédnout ten malý zázrak. Prohlédl si hlavy zvířat a prohlásil, že pro jeho vkus mají koňské hlavy trochu silné žuchvy, ale jinak že jsou bez vady stejně jako slon. A obrátiv se ke Karasovi, nadhodil mu, že by mohl příležitostně vyřezat třebas dva vzpínající se koně, které by umístili před bránu nebo by je dávali k některé lóži, kterou by chtěli označit jako „královskou“.
 
@@ -81,5 +84,7 @@ V tu chvíli Bureš zařval, až se zvěř kolem vyděsila, a začal se svíjet 
 „Jaká konina, Honzo?“ durdil se staroch. Ale nemohl z rozřehtaného Bureše dostat žádné vysvětlení. Proto se obrátil a mašíroval zpátky k osmičce.
 
 „Anton, neřezej kozu. Bureš říká, že je to konina. A já tomu vůbec nerozumím.“
+
+  
 
 Antonín Karas starší našel tedy v cirkuse celkem dobré bydlo, lepší než čekal. Ale velké starosti mu dělal Vašíček. Co se s Vaškem dálo, na to nechtěl Karas ani pomyslet, natožpak to vidět.

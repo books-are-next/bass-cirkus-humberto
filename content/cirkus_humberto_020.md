@@ -1,8 +1,9 @@
 ---
+title: VI
 contentType: prose
 ---
 
-## VI
+  
 
 Museli přiznat Achmedu Roméovi, že Vaška zbytečně netýral. Věděl, že protahování svalů, ohýbání páteře a uvolňování kloubů jsou strašně bolestné procedury, a znal ze zkušenosti, kolik dětí se přitom vyděsí tak, že s tuhostí těla ztratí i odvahu ducha. Ale není nic pro pohled truchlivějšího než dítě, které dělá své povinné kejkle jen proto, že musí a že se bojí. Čím okamžitě vítězili arabští, berberští a marokánští akrobaté, když v celých rodinných skupinách vtrhli do evropských cirkusů a pouťových buď, to byla právě ohnivost jejich produkce, divoký zápal, který přecházel už i na malá batolátka, že sama nabíhala na zdvižené nohy otce ležícího zády na zemi a vyžadovala si, aby jimi aspoň pohazoval ve vzduchu. Ikarská produkce se rozvinula vždy jako bouřlivé víření v přemetech a skocích a Achmed dbal, aby žádný z jeho žáků neztrácel, čemu sám říkal plamen. Sám někdy, když leže na zádech chytal a vyhazoval svá děcka a hoši kroužili vzduchem a přeletovali se, byl zasažen dravostí produkce jako horečkou, byl zachvácen tempem jako posedlostí, že najednou začal s hlavou na podložce zpívat súru koní z koránu: „Při koních soptících, kopyty jiskřících, při koních šturmem se za jitra ženoucích, při koních ve cvalu v prachu se kryjících, při koních čelo vojsk vítězně bíjících!“ A nohy Achmedovy pak hrály furioso a děti lítaly jako meteory a produkce byla jako ohňostroj a lidé začínali tleskat, ještě než Achmed dozpíval súru.
 
@@ -112,7 +113,7 @@ Dlouho nechtěl nikdo s pravdou ven, až Vašek, aby se obhájil, odpověděl:
 
 „Snad double cow,“ odpověděl pan Harwey. „To anglicky znamená dvojí kráva.“
 
-Další vyšetřování ukázalo, že je to správné. Světoběžní kluci přišli při hře s Vaškem na to, že Vašku je složeno z francouzského vache a z německého Kuh, a že tedy je to dvakrát kráva. A Paolo z toho tedy hned složil anglickou double cow.
+Další vyšetřování ukázalo, že je to správné. Světoběžní kluci přišli při hře s Vaškem na to, že _Vašku_ je složeno z francouzského vache a z německého Kuh, a že tedy je to dvakrát kráva. A Paolo z toho tedy hned složil anglickou double cow.
 
 Byl z toho kolem velký chechtot, že Achmed Roméo zapomněl i na pohlavky a kopance. Jen Vašek, pobledlý, držel opět bič a stál mezi ostatními. Teď, když se mu dostalo vysvětlení té nadávky, pochopil, že to byla nebezpečná přezdívka, která by mu otrávila celý život zde. Najednou tedy zapráskal bičem a vykřikl:
 

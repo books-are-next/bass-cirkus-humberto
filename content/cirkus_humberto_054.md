@@ -1,8 +1,9 @@
 ---
+title: VIII
 contentType: prose
 ---
 
-## VIII
+  
 
 Petříček však přestával být Petříčkem. Najednou mu byly všecky šaty malé, drobná kostra se začala natahovat, tělo překotně rostlo, dohánějíc a převyšujíc nepříliš vysokého tátu. Mozkové buňky, ovládající pohyby, najednou si nevěděly rady se vší tou nově přirostlou hmotou, vlekly nohama, jako by na nich bylo závaží, klátily rukama, jako by to byla cizí tělesa. Bylo potřebí nějaké hmotné posily pro všechnu tu novou váhu a Petříček, ten útlý drobný Petříček, spltl na posezení půl bochníku chleba. Táta, strýc a děda se chechtali, ale Helena se křižovala, že hoch z toho ještě onemocní. Opravdu, nevypadal dobře, pleť mu pobledla a byla plna vyrážek a nečistot. I jeho jemný, mazlivý hlas se mu lámal, chvilku ječel kvičivě ve vysokých tónech, vzápětí klesl a zněl, jako když ochraptí. Ve škole se smáli, že Ellahop kokrhá, a učitel zpěvu ho propustil z hodiny. Helena poplašena všemi těmi změnami zavolala k němu lékaře. Přišel, prohlédl Petříka, proklepal, usmál se, a když ho odeslal, aby se šel obléknout, pravil matce klidně:
 

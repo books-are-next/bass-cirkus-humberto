@@ -1,8 +1,9 @@
 ---
+title: V
 contentType: prose
 ---
 
-## V
+  
 
 Mohutné fanfárové marše dští trioly do nástupu siláckých atletů, překotné kvapíky ubíhají pod kmitem zlatých kuželů a pod perlením barevných míčků ekvilibristických čísel, valčíky se touživě plouží tmou a ovíjejí mámivou krásu žen na scéně, polky skočmo uvádějí padavé a potácivé komiky, italské, španělské, americké rytmy plní vzduch i sluch dráždivou směsí exotiky od všech oceánů a česká starosvětská sousedská či obkročák tvoří srdečné domácké výplně všeho toho nevídaného a neslýchaného. Baculatý pan Pacák zná svou věc a čeští muzikanti pod jeho taktovkou sviští smyčci, troubí a hudou, bijí v kotle, bubny i střmen se vší tou zpěvně melodickou i tanečně rytmickou vášnivostí, která pulsuje krví lidu, z něhož vyšli.
 

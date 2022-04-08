@@ -1,8 +1,9 @@
 ---
+title: VII
 contentType: prose
 ---
 
-## VII
+  
 
 Kdyby byly postupně uhynuly všecky kořínky, které udržovaly štíhlou bylinku Helenina života v plné síle, o jednom věřila, že nezajde a zajít nemůže. Byla to její láska k Petříčkovi. Ale také tu začínal osudný chod věcí nahlodávat.
 

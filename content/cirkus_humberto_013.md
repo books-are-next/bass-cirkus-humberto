@@ -1,8 +1,9 @@
 ---
+title: VIII
 contentType: prose
 ---
 
-## VIII
+  
 
 Ráno vstal a snídal Vašek s ostatními a rovnou s nimi do koňské stáje. Hans ho tam uvítal širokým „Morchen“ a hned před ním otevřel dvířka k ohrádce ponyů. Bez dlouhých řečí bylo už jako smluveno, že Vašek se bude pod Hansovým dozorem starat o ty malé strakáče. A kluk začínal svou službu jako starý znalec zvířat: měl v kapse kousek třtinového cukru od snídaně a tajně ukrojený krajíc chleba. Mary dostala cukr s kouskem chleba, ti tři druzí shetlandíci, Fricek, Lady a Miss, dostali aspoň kousek chleba z jeho malé dlaně. Karas otec už se naplno pouštěl do stájní práce i do vší ostatní rachoty. A bylo jí toho dne od božího rána vrchovatě, protože se balila a nakládala spousta věcí ze skladišť. Kerholec komandoval všude a ostře zapřahal Karase, který zase neopominul si přivolávat Vašíčka na výpomoc. Vašek si vyřídil s Hansem ranní nakrmení poníků a vklouzl pak jako střela vedle do zvěřince, aby se podíval na ranní práci kapitána Gambiera se lvy, tygry a medvědy. Ale sotva se s ním pozdravil a stoupl si ke kleci, už se ozvalo ode dveří tátovo „Vašku!“ A ozývalo se pak každé chvíle ve všech prostorách cirkusu i zvěřince, takže je brzy přejímali i ostatní lidé a Vašek se najednou pro všechny ostatní jmenoval „Vašku“.
 

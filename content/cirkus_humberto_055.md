@@ -1,8 +1,9 @@
 ---
+title: IX
 contentType: prose
 ---
 
-## IX
+  
 
 Strýc Steenhouwer byl útěkem Heleniným všecek roztřesen.
 
@@ -32,18 +33,24 @@ Tak se zas život kolem Václava Karase urovnal do klidného toku. Nebyl to živ
 
 Jednou se přihodila maličkost, která však velmi Karase zaujala. V poště ležela pro něho pohlednice, obrázek mohutného oceánského parníku. A k němu bylo připsáno:
 
-Když volá tamtam,  
-volá sem-sem.                                                           Seržán Vosátka
+_Když volá tamtam,  
+volá sem-sem.                                                           Seržán Vosátka_
+
+  
 
 Karas prohlížel lístek ze všech stran, zanesl jej do staré humbertovský party, všichni to četli, zkoumali a obraceli, ale jen vrtěli hlavou a výklad nenašli. To dvojverší zůstalo záhadou. Smáli se, to že byl asi Ferenc řádně natrunčen, když si vzpomněl na pražské přátele a zablábolil na pohlednici takový nesmysl. Vašek však tomuhle nevěřil. Rukopis byl pevný a energický, adresa i text byly napsány pečlivě a čistotně. Naplňovalo ho to neklidem. Pohlednice stále ležela na jeho stole jako věc nevyřízená; a večer, když uléhal, ozvalo se mu vždy znovu:
 
-Když volá tamtam,  
-volá sem-sem.
+_Když volá tamtam,  
+volá sem-sem._
+
+  
 
 Co vlastně dělá Ferenc Vosátka, kdysi tulák a dobrodruh, nyní velký hamburský restauratér? Co dělá Hamburk, který jim byl tak dlouho zimním domovem? A co dělá – a Vašku jako by to i v myšlenkách jen tichounce zašeptal – Růženka? Pojala ho touha zajet si tam a podívat se po tom milém, starém působišti. Mohl to podniknout jako zájmovou cestu, hamburské varieté mělo teď slavnou pověst a v jeho programech vždy bylo něco, co stálo jiným direktorům za zhlédnutí. Ale Vašek věděl, že tenhle profesionální důvod bude jen záminka a že ho víc vábí melancholická vzpomínka. Odsouval tu cestu na vhodnější dobu, ale čím déle ji odkládal, tím naléhavěji mu v mysli znělo Vosátkovo dvojverší. A zdálo se mu, že v tom vábení do dálky je právě jeho záhadný smysl:
 
-Když volá tamtam**,  
-**volá sem-sem.
+_Když volá tamtam**,  
+**volá sem-sem._
+
+  
 
 A jednoho dne se rozhodl, zařídil věci na nejbližší dny a odejel.
 
@@ -103,8 +110,10 @@ Zamlklé oči klouzaly pomalu po jeho postavě.
 
 „Ano. Dala jsem jej na poštu podle jeho příkazu. Seržán mi řekl: ‚Nevrátím-li se do roka a do dne, dej tento lístek na poštu. A až přijde Vašku, řekni mu, že mu vzkazuji: Pořádný mužský nezapomíná pro prapor na ženské a nezapomene pro ženské na prapor. Já jsem si to mnohokrát v životě popletl, ale nakonec jsem to vyrovnal.‘ Tak řekl seržán.“ Karas stál jako u vidění. To tedy bylo tajemství veršů
 
-Když volá tamtam,  
-volá sem-sem.
+_Když volá tamtam,  
+volá sem-sem._
+
+  
 
 Vosátka slyšel kubánské bubny svolávat do zápasu a šel za jejich voláním. A co mu vzkázal… Věděl seržán, co se děje s Helenou? Dává jemu Vaškovi, vinu? Nebo jen tušil, že se něco takového může stát, a chtěl Vaška upozornit? Odejel-li více než před rokem, sotva znal jejich případ. Staří tenťáci si nedopisovali. Pak tedy jen předpokládal, že ke krizi u nich muže dojít, a chtěl ho vyburcovat. Měl pravdu, to Karas uznával: kdyby Vašku nebyl tak posediv svým divadlem, poznal by asi dřív, co v Heleně zrálo.
 

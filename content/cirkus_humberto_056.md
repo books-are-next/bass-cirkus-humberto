@@ -1,8 +1,9 @@
 ---
+title: X
 contentType: prose
 ---
 
-## X
+  
 
 Dva zlaté copy se zapletly v těžký vrkoč, do oušek vklouzly tyrkysové náušnice, ruka s pudřenkou přejela po hrdle a po čele a dvě vlahé oči se rozzářené zhlížely v zrcadle, které obráželo mladou, kypivě baculatou postavičku, za níž mateřské ruce už natřásaly večerní šatečky ze světle modrého hedvábí. Poprvé do tanečních hodin – to byl pramen opojivého rozčilení slečny Emílie Kostečkové i její matinky Marie Kostečkové, rozené Varhanářové, choti továrníka pánského prádla a kravat Jaroslava Kostečky v Praze II, Těšnov 17, sklad a detail Praha I, Celetná 47.
 
@@ -40,10 +41,12 @@ Pan Kostečka si nasadil zase skřipec a otevřel list papíru.
 
 „Rukopis má úhledný, není to žádná kaligrafie, takové ‚S Bohem začato‘, jak to napíše s těmi kudrlinkami náš účetní, to by asi nesvedl, no, ale prosím, básník není puchaltr. A na profesora píše pěkně čitelně. To máme mezi odběrateli profesory, že to člověk musí vždycky třikrát luštit, chtějí-li širtynk nebo šifon. Tak tedy báseň. Báseň na naši Emilku! Podívejme se!
 
-K Vám, krásná Neznámá, jež blahem plníte  
+_K Vám, krásná Neznámá, jež blahem plníte  
 rovnici Života, než rozřeší ji Styx,  
 mé letí verše, o nichž nevíte,  
-nesouce Touhu mou po luzném onom X.
+nesouce Touhu mou po luzném onom X._
+
+  
 
 No prosím. Tak se mi zdá, že by to Vrchlický na naši Emilku líp ani nenapsal.“
 
@@ -53,7 +56,9 @@ Pomalu, uznale pokyvuje hlavou, přečetl továrník Kostečka ještě tři slok
 
 „Ba, ha, Jaroslave,“ odpověděla paní Kostečková s očima plnýma slz, berouc si zpět rukopis, „když jsem tam u Linků četla:
 
-K Vám, krásná Neznámá, jež blahem plníte…
+_K Vám, krásná Neznámá, jež blahem plníte…_
+
+  
 
 říkala jsem si: Bože, bože, jestlipak tebe kdy potrefilo takové štěstí, aby tě někdo opěvoval…“
 
@@ -95,11 +100,11 @@ Manželé Kostečkovi šli spát, ale dlouho nemohli usnout.
 
 Druhého dne požádal továrník Kostečka svého důvěrného obchodního přítele pana Salzmanna, aby mu opatřil informaci na Václava a Petra Karase v Karlíně. Agentura ji dodala za několik dní. Kostečka se ženou četli ty dva listy s velkou zvědavostí:
 
-**_„_**Karas Václav, spolupodnikatel Théâtre Variété Humberto v Karlíně.
+**_„_**_Karas Václav_, spolupodnikatel Théâtre Variété Humberto v Karlíně.
 
 Tázaný pochází odněkud z jižních Čech. Roku 1890 převzal artistické vedení divadla Varieté na vlastní účet jako nájemce, kdežto dosavadní majitel Achilles Breburda má provoz restaurační. Zdá se, že oba podnikatelé jsou spolu asociováni ještě vzájemnými podíly na zisku. Tázaný jest obecně oceňován jako prvotřídní odborník, který dobře rozumí své věci. Podnik se za jeho řízení těší velké oblibě a jeho dosavadní prosperita je nepochybná. Rodinné poměry tázaného jsou nejasné. Manželka Helena, původem artistka, žije za hranicemi, podle jedněch u svých rodičů, podle jiných v angažmá. Jinak žije tázaný velmi spořádaně a jeho jmění přesahuje 100 000 zl. Žádaný úvěr lze mu povolit.
 
-Karas Petr, posluchač univerzity, Karlín.
+_Karas Petr_, posluchač univerzity, Karlín.
 
 Tázaný je syn artistického podnikatele a nájemce divadla Varieté Václava Karase a jeho manželky Heleny, artistky. Studie na gymnáziu v Truhlářské ulici konal s vyznamenáním a také univerzitní zkoušky skládá dochvilně a s velkým úspěchem. Pro podnik svého otce nejeví žádný zájem, nýbrž připravuje se na profesuru. Týž jest povahy poněkud nepraktické, ale ve výdajích je šetrný. Poslední dobou má známost, prý s dcerou nějakého zámožného továrníka, ale oficielní zasnoubení nebylo vyhlášeno. Žádaný úvěr lze mu povolit se zárukou otce nebo příštího tchána.“
 

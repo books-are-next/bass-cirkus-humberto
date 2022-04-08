@@ -1,8 +1,9 @@
 ---
+title: X
 contentType: prose
 ---
 
-## X
+  
 
 Rozhodnutí sice padlo, ale Bureš-Smetana se nedovedl okamžitě odtrhnout od cirkusu, který mu tak přirostl k srdci. Bylo to pro všecky velkým překvapením, když se dověděli, že nynější partafír stavěčů je teď bohatý mlynář, a sám Petr Berwitz přišel přátelsky pogratulovat autoru svých pantomim k neočekávané změně osudu. Byl přitom docela rád, když mu Bureš oznámil, že do Prahy nespěchá a že zůstane na svém místě až do Budapešti, odkud bude mít cestu pohodlnější. Ale ani tam neodjel hned prvního dne, pořád to loučení oddaloval, ačkoli už bylo na jeho nových šatech a na obuvi vidět, že se chystá přejít do nových poměrů.
 

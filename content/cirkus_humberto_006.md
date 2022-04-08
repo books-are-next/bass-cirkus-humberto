@@ -1,15 +1,20 @@
 ---
+title: I
 contentType: prose
 ---
 
-## I
+  
 
 HVĚZDY  
 NECHTE SI  
 OKÉNKO  
 31\. V. 1925
 
-Prezident O’Harrieh
+  
+
+_Prezident O’Harrieh_
+
+  
 
 Tento inzerát se objevil v listopadu 1924 na celé stránce časopisu Program, odborného týdeníku Mezinárodní federace varietních a cirkusových umělců. Vzbudil nesmírnou pozornost tajemným obsahem i neobvyklou formou. Kterýpak artista se nepovažuje za hvězdu? A jaký závažný důvod mohl přimět ctihodného prezidenta, aby doporučil členstvu vynechat představení, tedy věc, které se jevištní nebo manéžový umělec dopustí jen tehdy, když ho nemoc či neštěstí tiskne na obě lopatky? A věc, která znamená ztrátu toho nejnedotknutelnějšího, co artista zná, zač se bije a proč nasazuje život, – ztrátu gáže?
 
