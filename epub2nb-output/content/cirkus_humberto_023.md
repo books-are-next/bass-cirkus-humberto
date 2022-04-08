@@ -1,8 +1,9 @@
 ---
+title: IX
 contentType: prose
 ---
 
-## IX
+  
 
 Pan Selnicki dostal svou láhev johannisberského.
 
@@ -168,8 +169,8 @@ V přestávce vybral ten den se lvíčetem o nějakou marku méně, protože byl
 
 A z toho hned přešel do zpěvného:
 
-Trpajzlík, trpajzlík  
-nedosáhne na majzlík! —
+_Trpajzlík, trpajzlík  
+nedosáhne na majzlík! —_
 
 což si prozpěvoval, ještě když nasedal pod Hansovým dohledem na Mary.
 

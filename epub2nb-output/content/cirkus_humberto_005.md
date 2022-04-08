@@ -1,5 +1,6 @@
 ---
+title: ČÁST PRVNÍ
 contentType: prose
 ---
 
-# ČÁST PRVNÍ
+

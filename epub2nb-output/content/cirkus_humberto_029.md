@@ -1,8 +1,9 @@
 ---
+title: XV
 contentType: prose
 ---
 
-## XV
+  
 
 Pan Gaudeamus přijel nenadále z Berlína a rovnou z nádraží šel za ředitelem Berwitzem.
 

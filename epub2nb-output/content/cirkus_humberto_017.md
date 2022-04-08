@@ -1,8 +1,9 @@
 ---
+title: III
 contentType: prose
 ---
 
-## III
+  
 
 To si Karas hned první den Vaškova cvičení zaskočil k modré maringotce, aby viděl, jak to synovi jde. Ale co spatřil, nad tím mu srdce ustrnulo hrůzou. Ten Berber, ten machometán stál tam u schůdků, levou nohu měl o jeden z nich opřenu, že mu šlo stehno vodorovně. A Vašek ležel zády přehozen přes stehno, hlava a ruce mu visely na jedné straně, nohy na druhé a ten divoch, ten násilník tiskl mu oběma rukama hrudník a kolena dolů, nic jinak, než jako by chtěl Vaškovi zlámat páteř.
 

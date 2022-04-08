@@ -1,8 +1,9 @@
 ---
+title: IV
 contentType: prose
 ---
 
-## IV
+  
 
 Tak se Monsieur Alfred a Madame Sylvia stali nenadále jedinými vládci nad firmou Cirkus Humberto. Podnik měl společnou prací tří generací znamenitý základ a Petr byl odhodlán rozvinout jej podle svých zálib, které se značně lišily od střídmého vkusu jeho otce. Tu zimu, kdy ještě nosili smutek, věnoval pečlivě obnově veškerého zařízení a šití nových, fantastických kostýmů. K pohádkově něžným úborům, které se uchovávaly ještě z dob babiččiných, přibývaly nové, prudkých, silných barev, exotických linií, plné zlata a stříbra a třpytného flitru. Poprvé oblékl Petr uvaděče a sluhy do jednotné zelené livreje, štolby a stájníky do modré, muzikanty do šarlatově rudé. Zároveň začal rozšiřovat zvěřinec.
 

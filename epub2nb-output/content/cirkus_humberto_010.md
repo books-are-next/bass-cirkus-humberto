@@ -1,8 +1,9 @@
 ---
+title: V
 contentType: prose
 ---
 
-## V
+  
 
 Při tom posledním napití u Námořníkovy nevěsty, k němuž ho Kerholec vyzval, rozbřesklo se Antonínu Karasovi už nad slunce jasněji, že jednal správně a že by bylo čirý nesmysl zahodit tuto znamenitou příležitost. Jako by z něho všecka starost spadla, pošoupl si klobouk do týla a připíjel si s Kerholcem: „Ty kluku stará, na tvý zdraví, kujóne, dyž se tak vyznáš!“ A Kerholec odpovídal: „Na tvý, ty skopčáku, ty zednická třísko, ať sem trajcén, esli nebudeš u Berwitze paltafír!“ A Hein Moesecke sípal zarostlým krkem: „Ať slouží, natočíme ještě jednu, ne? Neříkal jsem to, že Hampuch dá živobytí, ne? Karlšen, já si napěním taky jednu, ne? Správné přiťuknutí je vždycky ve třech, pánové, zum Wohlsein!“
 

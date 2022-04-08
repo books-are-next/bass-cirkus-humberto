@@ -1,10 +1,13 @@
 ---
+title: XII
 contentType: prose
 ---
 
-## XII
+  
 
 Den po té rozmluvě přišel pan Gaudeamus znovu za Vaškem.
+
+  
 
 „Přemýšlel jsem, mladý příteli, o tom, co jste mi včera řekl,“ zahájil rovnou rozhovor, „a musím vám říci, že mi to imponovalo. Takhle zápasit, a možná že bez naděje, saprlot, k tomu je třeba charakteru. Jen jedno si nedovedu vysvětlit: jak jste se mohl s tak lehkým srdcem rozloučit s existencí Cirkusu Humberto? Vy přece jste už připraven na to, že tento podnik zahyne…“
 

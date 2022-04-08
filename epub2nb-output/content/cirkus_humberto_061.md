@@ -1,8 +1,9 @@
 ---
+title: XV
 contentType: prose
 ---
 
-## XV
+  
 
 Depeše z Berlína oznamuje, že tanečnice Ludmila Humberto měla o svém debutním večeru nesmírný úspěch. Václav Karas má telegram rozprostřený před sebou na stole. S bradou opřenou o sepjaté ruce zírá na ten papír a usmívá se. Čte ty dva řádky znovu a znovu, pak se mu rozplývají a papír depeše se nějak rozlévá. Václav Karas jako by se díval na velikou mapu, v mapu svého života.
 

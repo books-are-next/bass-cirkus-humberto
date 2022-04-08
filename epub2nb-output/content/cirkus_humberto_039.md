@@ -1,8 +1,9 @@
 ---
+title: VIII
 contentType: prose
 ---
 
-## VIII
+  
 
 Karasové se dohodli, že se nikomu ani nezmíní o tom, co zpozorovali. Karas otec se dlouho u rodičky nezdržel. Byla všecka vysílená a zesláblá, rodila těžce, se strašnými bolestmi. Dítě bylo tvoreček nevzhledný, slaboučký, vrásčitý – Vašek nad ním cítil radost i úlek zároveň. Bába, doktor i Berwitzovi ho uklidňovali, že se dítě brzo spraví, že zesílí, ale bolestného strachu ho tím nezbavili. A slzy mu už docela vyhrkly z očí, když se vrátil k Heleně a viděl ji mátožnou a smrtelně bledou ležet bez vlády, jako by umírala. Místo radosti cítil už jen těžké výčitky, že tohle je jeho dílo, že to krásné dívčí tělo tak zničil.
 

@@ -1,8 +1,9 @@
 ---
+title: XII
 contentType: prose
 ---
 
-## XII
+  
 
 Odjížděli zhruba všichni jako před rokem, i pan Achmed Roméo si znovu plácl s principálem na dalších deset měsíců. Ale nechybělo mnoho a osmička by byla přišla o jednu svou významnou osobnost: seržán Ferenc Vosátka se octl ve velkém pokušení odpadnout a opustit partu i cirkus.
 

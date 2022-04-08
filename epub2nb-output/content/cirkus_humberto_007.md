@@ -1,8 +1,9 @@
 ---
+title: II
 contentType: prose
 ---
 
-## II
+  
 
 Začátek… Kde vlastně byl začátek? Patrně u té malé sklenice bledého, řídkého a slabě zpěněného piva, kterou postavili před Antonína Karase na plechový výčepní pult. Hein Moesecke se jmenoval ten šenkýř a krčma slula U námořníkovy nevěsty. Bylo to v jedné z těch klikatých, nebezpečných uliček, které se rozbíhají v Hamburku na konci Reeperbahn vlevo i vpravo. Chodívali tam čeští dělníci sníst kousek bůčku krájeného vlastní kudlou a vypít sklenici nejlevnějšího piva. Toho dne však Antonín Karas nešel za krajany; vracel se z Altony úplně skleslý na duchu, a když minul křižovatku U čtyř rohů, kde uprostřed města královský stát pruský hraničil se svobodným hanzovním městem Hamburkem, odevzdal se už úplně proudu lidí jako loď, která ztratila řízení. Vráželi do něho, strkali sem tam, zabrali ho jakýmsi jednotným tlakem a unášeli dál, od ulice k ulici, podél kanálů, přes mostky, po hlavní třídě; a pak to najednou osláblo a vyhodilo ho to na konci Reeperbahn a on už mechanicky dotlapal k Námořníkově nevěstě, jako ztroskotanec leze z mělčiny na břeh. A po celou tu hluchou cestu ho svírala jenom tupá představa, že není tu pro něho práce, že se už neuchytí a co teď s chlapcem, když všecko vsadil na jedinou kartu.
 
@@ -132,7 +133,11 @@ Jakýsi tuhý, podsazený pán řídkých světlých vlasů se pootočil od psac
 
 Antonín Karas je zavalen vděčností. Nejraději by se vrhl k sekretáři a políbil mu ruku, ale ten pán už se otočil, sňal brýle a začínal psát. A Kerholec tlačí Karase ze dveří. Teprve venku se zedník podívá na lístek a úžasem vytřeští oči. Na lístku jsou písmena, která zahlédl na budově, spojena v celé záhlaví
 
+  
+
 CIRKUS HUMBERTO
+
+  
 
 Je angažován k cirkusu! Kouká vyjeven na Kerholce, ale ten se jen šklíbí a pochechtává.
 

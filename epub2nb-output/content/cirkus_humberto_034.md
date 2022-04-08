@@ -1,8 +1,9 @@
 ---
+title: III
 contentType: prose
 ---
 
-## III
+  
 
 Je překrásná neděle v březnu, podél nábřeží poletují rackové, z věže Svatého Pavla odbíjí desátá hodina. V hale hotelu Réunion přechází mladý muž, velmi světácky nafintěný, s vysokým cylindrem na kučeravých vlasech. Občas netrpělivě hartusí na personál, kdy už přijde posel, na kterého čeká. Pak konečně vběhne do dveří premovaný hoch s kyticí v růžovém papíru, mladý muž ji uchopí, vyřítí se ven, vskočí do čekajícího fiakru a jede k Cirkusu Humberto na Reeperbahn.
 

@@ -1,8 +1,9 @@
 ---
+title: III
 contentType: prose
 ---
 
-## III
+  
 
 Humbertové bývali slavná italská rodina jarmarečníků. Původně, pokud je známo, byli provazolezci a skákači. Jeden z nich, Carlo Humberto, spadl jednou v Arose, když pod ním povolilo špatně uvázané lano. Přerazil si nohy, že již nemohl bezpečně na provaz; chodit mohl, ale ztratil cit v palci a pružnost v chodidlech a bez těch dvou vlastností se nelze na šňůru odvážit. Koupil si tedy medvěda a opičku a vycvičil si psa a s těmi doprovázel produkci své rodiny. Na jarmarku v Lyoně se setkal s Louisou Bolierovou, jejíž rodiče měli zvěřinec. Byla to ubohá průchodní bouda s půltuctem opic, dvěma hyenami, páchnoucí liškou a opelichaným lvem, který byl mrzutý, protože ho bolely zuby. Carlo Humberto nebyl spokojen mezi svými, sourozenci mu vyčítali, že nepotřebují k svému úspěchu jeho medvěda s opicí. Louisa Bolierová byla nešťastná, protože otec Bolier mohutně pil a zvířata hladověla. Rodinu živila vlastně matka jako vykladačka karet. Carlo Humberto si tedy vzal Louisu Bolierovou, která mu věnem přinesla menažérii; zeť však navzájem musel ze svých úspor vyplatit její rodiče tím, že jim koupil malou boudu, ve které by mohla madam Bolier vystupovat jako věštkyně a jasnovidka. Zprvu jezdily obě domácnosti společně, ale nedělalo to dobrotu; když měl papá Bolier v hlavě, popletl si někdy vyvolávání a vykřikoval před boudou své manželky, že jest tam k spatření nejhroznější ze všech šelem; a někdy ze starého zvyku vylezl na pódium před menažérii a zval pány a dámy, aby vstoupili a zvěděli svoji budoucnost. Byly z toho nepořádky a Humberto raději znovu sáhl do sáčku a koupil tchyni malou korbu s plachtou a vychrtlou herčičku a sám se svými dvěma vozy s klecemi a se zeleným obytným vozem obrátil do Itálie.
 

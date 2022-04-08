@@ -2,18 +2,19 @@
 outputs: meta
 slug: book
 contentType: prose
-languageCode: en
+languageCode: cs
 meta:
+  languageCode: cs
+  contentType: prose
   title: Cirkus Humberto
   identifier: e5f88492-ef5f-4dae-991b-054948e35a13
   author: Eduard Bass
   publisher: Městská knihovna v Praze
   modified: '2017-10-24T00:00:00.000Z'
+  publisherShort: mkp
+  edition: beletrie
 readingOrder:
-  - cirkus_humberto_001.html
   - cirkus_humberto_002.html
-  - cirkus_humberto_003.html
-  - cirkus_humberto_004.html
   - cirkus_humberto_005.html
   - cirkus_humberto_006.html
   - cirkus_humberto_007.html
@@ -73,10 +74,12 @@ readingOrder:
   - cirkus_humberto_061.html
   - cirkus_humberto_062.html
   - cirkus_humberto_063.html
+  - colophon.html
 tocBase:
   - id: section-1
     children: []
     isSection: true
+    listType: plain
 static:
   - style
   - scripts

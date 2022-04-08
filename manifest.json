@@ -1,0 +1,1250 @@
+{
+  "author": "Eduard Bass",
+  "contenttype": "prose",
+  "edition": "beletrie",
+  "identifier": "bass-cirkus-humberto-50f406e",
+  "languagecode": "cs",
+  "modified": "2017-10-24T00:00:00.000Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
+  "title": "Cirkus Humberto",
+  "revision": "50f406e",
+  "generatedAt": {
+    "date": "Fri Apr 08 2022 09:46:43 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1649411203687
+  },
+  "documents": [
+    {
+      "title": "Cirkus Humberto",
+      "file": "cirkus_humberto_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "cirkus_humberto_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ČÁST PRVNÍ • Cirkus Humberto",
+      "file": "cirkus_humberto_005.html",
+      "words": 2,
+      "chars": 10,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 1,
+      "prev": "cirkus_humberto_002.html",
+      "next": "cirkus_humberto_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ČÁST PRVNÍ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "I • Cirkus Humberto",
+      "file": "cirkus_humberto_006.html",
+      "words": 727,
+      "chars": 4535,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 2,
+      "prev": "cirkus_humberto_005.html",
+      "next": "cirkus_humberto_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "I",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "II • Cirkus Humberto",
+      "file": "cirkus_humberto_007.html",
+      "words": 4251,
+      "chars": 24642,
+      "ideas": 115,
+      "role": "chapter",
+      "order": 3,
+      "prev": "cirkus_humberto_006.html",
+      "next": "cirkus_humberto_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "II",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "III • Cirkus Humberto",
+      "file": "cirkus_humberto_008.html",
+      "words": 4889,
+      "chars": 30786,
+      "ideas": 27,
+      "role": "chapter",
+      "order": 4,
+      "prev": "cirkus_humberto_007.html",
+      "next": "cirkus_humberto_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "III",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IV • Cirkus Humberto",
+      "file": "cirkus_humberto_009.html",
+      "words": 4568,
+      "chars": 28718,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 5,
+      "prev": "cirkus_humberto_008.html",
+      "next": "cirkus_humberto_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V • Cirkus Humberto",
+      "file": "cirkus_humberto_010.html",
+      "words": 5272,
+      "chars": 30117,
+      "ideas": 108,
+      "role": "chapter",
+      "order": 6,
+      "prev": "cirkus_humberto_009.html",
+      "next": "cirkus_humberto_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VI • Cirkus Humberto",
+      "file": "cirkus_humberto_011.html",
+      "words": 5659,
+      "chars": 32446,
+      "ideas": 154,
+      "role": "chapter",
+      "order": 7,
+      "prev": "cirkus_humberto_010.html",
+      "next": "cirkus_humberto_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VII • Cirkus Humberto",
+      "file": "cirkus_humberto_012.html",
+      "words": 6496,
+      "chars": 36969,
+      "ideas": 117,
+      "role": "chapter",
+      "order": 8,
+      "prev": "cirkus_humberto_011.html",
+      "next": "cirkus_humberto_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VIII • Cirkus Humberto",
+      "file": "cirkus_humberto_013.html",
+      "words": 7216,
+      "chars": 41709,
+      "ideas": 224,
+      "role": "chapter",
+      "order": 9,
+      "prev": "cirkus_humberto_012.html",
+      "next": "cirkus_humberto_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ČÁST\nDRUHÁ • Cirkus Humberto",
+      "file": "cirkus_humberto_014.html",
+      "words": 2,
+      "chars": 9,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 10,
+      "prev": "cirkus_humberto_013.html",
+      "next": "cirkus_humberto_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ČÁST\nDRUHÁ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "I • Cirkus Humberto",
+      "file": "cirkus_humberto_015.html",
+      "words": 2820,
+      "chars": 17893,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 11,
+      "prev": "cirkus_humberto_014.html",
+      "next": "cirkus_humberto_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "I",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "II • Cirkus Humberto",
+      "file": "cirkus_humberto_016.html",
+      "words": 1867,
+      "chars": 10521,
+      "ideas": 41,
+      "role": "chapter",
+      "order": 12,
+      "prev": "cirkus_humberto_015.html",
+      "next": "cirkus_humberto_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "II",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "III • Cirkus Humberto",
+      "file": "cirkus_humberto_017.html",
+      "words": 2159,
+      "chars": 12415,
+      "ideas": 68,
+      "role": "chapter",
+      "order": 13,
+      "prev": "cirkus_humberto_016.html",
+      "next": "cirkus_humberto_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "III",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IV • Cirkus Humberto",
+      "file": "cirkus_humberto_018.html",
+      "words": 1600,
+      "chars": 9527,
+      "ideas": 26,
+      "role": "chapter",
+      "order": 14,
+      "prev": "cirkus_humberto_017.html",
+      "next": "cirkus_humberto_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V • Cirkus Humberto",
+      "file": "cirkus_humberto_019.html",
+      "words": 1760,
+      "chars": 10186,
+      "ideas": 65,
+      "role": "chapter",
+      "order": 15,
+      "prev": "cirkus_humberto_018.html",
+      "next": "cirkus_humberto_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VI • Cirkus Humberto",
+      "file": "cirkus_humberto_020.html",
+      "words": 3619,
+      "chars": 21031,
+      "ideas": 61,
+      "role": "chapter",
+      "order": 16,
+      "prev": "cirkus_humberto_019.html",
+      "next": "cirkus_humberto_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VII • Cirkus Humberto",
+      "file": "cirkus_humberto_021.html",
+      "words": 2464,
+      "chars": 14094,
+      "ideas": 107,
+      "role": "chapter",
+      "order": 17,
+      "prev": "cirkus_humberto_020.html",
+      "next": "cirkus_humberto_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VIII • Cirkus Humberto",
+      "file": "cirkus_humberto_022.html",
+      "words": 2434,
+      "chars": 14963,
+      "ideas": 51,
+      "role": "chapter",
+      "order": 18,
+      "prev": "cirkus_humberto_021.html",
+      "next": "cirkus_humberto_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IX • Cirkus Humberto",
+      "file": "cirkus_humberto_023.html",
+      "words": 3138,
+      "chars": 18971,
+      "ideas": 98,
+      "role": "chapter",
+      "order": 19,
+      "prev": "cirkus_humberto_022.html",
+      "next": "cirkus_humberto_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IX",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "X • Cirkus Humberto",
+      "file": "cirkus_humberto_024.html",
+      "words": 2722,
+      "chars": 15875,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 20,
+      "prev": "cirkus_humberto_023.html",
+      "next": "cirkus_humberto_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "X",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XI • Cirkus Humberto",
+      "file": "cirkus_humberto_025.html",
+      "words": 2663,
+      "chars": 15755,
+      "ideas": 36,
+      "role": "chapter",
+      "order": 21,
+      "prev": "cirkus_humberto_024.html",
+      "next": "cirkus_humberto_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XII • Cirkus Humberto",
+      "file": "cirkus_humberto_026.html",
+      "words": 3751,
+      "chars": 21967,
+      "ideas": 107,
+      "role": "chapter",
+      "order": 22,
+      "prev": "cirkus_humberto_025.html",
+      "next": "cirkus_humberto_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XIII • Cirkus Humberto",
+      "file": "cirkus_humberto_027.html",
+      "words": 3318,
+      "chars": 19099,
+      "ideas": 97,
+      "role": "chapter",
+      "order": 23,
+      "prev": "cirkus_humberto_026.html",
+      "next": "cirkus_humberto_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XIV • Cirkus Humberto",
+      "file": "cirkus_humberto_028.html",
+      "words": 3450,
+      "chars": 20117,
+      "ideas": 119,
+      "role": "chapter",
+      "order": 24,
+      "prev": "cirkus_humberto_027.html",
+      "next": "cirkus_humberto_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XIV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XV • Cirkus Humberto",
+      "file": "cirkus_humberto_029.html",
+      "words": 3120,
+      "chars": 19211,
+      "ideas": 55,
+      "role": "chapter",
+      "order": 25,
+      "prev": "cirkus_humberto_028.html",
+      "next": "cirkus_humberto_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XVI • Cirkus Humberto",
+      "file": "cirkus_humberto_030.html",
+      "words": 3239,
+      "chars": 18215,
+      "ideas": 46,
+      "role": "chapter",
+      "order": 26,
+      "prev": "cirkus_humberto_029.html",
+      "next": "cirkus_humberto_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XVI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ČÁST\nTŘETÍ • Cirkus Humberto",
+      "file": "cirkus_humberto_031.html",
+      "words": 2,
+      "chars": 9,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 27,
+      "prev": "cirkus_humberto_030.html",
+      "next": "cirkus_humberto_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ČÁST\nTŘETÍ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "I • Cirkus Humberto",
+      "file": "cirkus_humberto_032.html",
+      "words": 1862,
+      "chars": 10266,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 28,
+      "prev": "cirkus_humberto_031.html",
+      "next": "cirkus_humberto_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "I",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "II • Cirkus Humberto",
+      "file": "cirkus_humberto_033.html",
+      "words": 2022,
+      "chars": 11705,
+      "ideas": 42,
+      "role": "chapter",
+      "order": 29,
+      "prev": "cirkus_humberto_032.html",
+      "next": "cirkus_humberto_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "II",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "III • Cirkus Humberto",
+      "file": "cirkus_humberto_034.html",
+      "words": 2058,
+      "chars": 11889,
+      "ideas": 73,
+      "role": "chapter",
+      "order": 30,
+      "prev": "cirkus_humberto_033.html",
+      "next": "cirkus_humberto_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "III",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IV • Cirkus Humberto",
+      "file": "cirkus_humberto_035.html",
+      "words": 2117,
+      "chars": 11446,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 31,
+      "prev": "cirkus_humberto_034.html",
+      "next": "cirkus_humberto_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V • Cirkus Humberto",
+      "file": "cirkus_humberto_036.html",
+      "words": 5022,
+      "chars": 30205,
+      "ideas": 110,
+      "role": "chapter",
+      "order": 32,
+      "prev": "cirkus_humberto_035.html",
+      "next": "cirkus_humberto_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VI • Cirkus Humberto",
+      "file": "cirkus_humberto_037.html",
+      "words": 4299,
+      "chars": 25622,
+      "ideas": 115,
+      "role": "chapter",
+      "order": 33,
+      "prev": "cirkus_humberto_036.html",
+      "next": "cirkus_humberto_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VII • Cirkus Humberto",
+      "file": "cirkus_humberto_038.html",
+      "words": 2209,
+      "chars": 13389,
+      "ideas": 52,
+      "role": "chapter",
+      "order": 34,
+      "prev": "cirkus_humberto_037.html",
+      "next": "cirkus_humberto_039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VIII • Cirkus Humberto",
+      "file": "cirkus_humberto_039.html",
+      "words": 5405,
+      "chars": 31913,
+      "ideas": 131,
+      "role": "chapter",
+      "order": 35,
+      "prev": "cirkus_humberto_038.html",
+      "next": "cirkus_humberto_040.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IX • Cirkus Humberto",
+      "file": "cirkus_humberto_040.html",
+      "words": 3201,
+      "chars": 19171,
+      "ideas": 61,
+      "role": "chapter",
+      "order": 36,
+      "prev": "cirkus_humberto_039.html",
+      "next": "cirkus_humberto_041.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IX",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "X • Cirkus Humberto",
+      "file": "cirkus_humberto_041.html",
+      "words": 1973,
+      "chars": 11549,
+      "ideas": 62,
+      "role": "chapter",
+      "order": 37,
+      "prev": "cirkus_humberto_040.html",
+      "next": "cirkus_humberto_042.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "X",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XI • Cirkus Humberto",
+      "file": "cirkus_humberto_042.html",
+      "words": 5273,
+      "chars": 31569,
+      "ideas": 72,
+      "role": "chapter",
+      "order": 38,
+      "prev": "cirkus_humberto_041.html",
+      "next": "cirkus_humberto_043.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XII • Cirkus Humberto",
+      "file": "cirkus_humberto_043.html",
+      "words": 2215,
+      "chars": 13014,
+      "ideas": 62,
+      "role": "chapter",
+      "order": 39,
+      "prev": "cirkus_humberto_042.html",
+      "next": "cirkus_humberto_044.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XIII • Cirkus Humberto",
+      "file": "cirkus_humberto_044.html",
+      "words": 4017,
+      "chars": 23890,
+      "ideas": 125,
+      "role": "chapter",
+      "order": 40,
+      "prev": "cirkus_humberto_043.html",
+      "next": "cirkus_humberto_045.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XIV • Cirkus Humberto",
+      "file": "cirkus_humberto_045.html",
+      "words": 2116,
+      "chars": 12489,
+      "ideas": 35,
+      "role": "chapter",
+      "order": 41,
+      "prev": "cirkus_humberto_044.html",
+      "next": "cirkus_humberto_046.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XIV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ČÁST\nČTVRTÁ • Cirkus Humberto",
+      "file": "cirkus_humberto_046.html",
+      "words": 2,
+      "chars": 10,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 42,
+      "prev": "cirkus_humberto_045.html",
+      "next": "cirkus_humberto_047.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ČÁST\nČTVRTÁ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "I • Cirkus Humberto",
+      "file": "cirkus_humberto_047.html",
+      "words": 3864,
+      "chars": 23578,
+      "ideas": 39,
+      "role": "chapter",
+      "order": 43,
+      "prev": "cirkus_humberto_046.html",
+      "next": "cirkus_humberto_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "I",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "II • Cirkus Humberto",
+      "file": "cirkus_humberto_048.html",
+      "words": 2732,
+      "chars": 16248,
+      "ideas": 57,
+      "role": "chapter",
+      "order": 44,
+      "prev": "cirkus_humberto_047.html",
+      "next": "cirkus_humberto_049.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "II",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "III • Cirkus Humberto",
+      "file": "cirkus_humberto_049.html",
+      "words": 2428,
+      "chars": 14461,
+      "ideas": 45,
+      "role": "chapter",
+      "order": 45,
+      "prev": "cirkus_humberto_048.html",
+      "next": "cirkus_humberto_050.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "III",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IV • Cirkus Humberto",
+      "file": "cirkus_humberto_050.html",
+      "words": 1753,
+      "chars": 10695,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 46,
+      "prev": "cirkus_humberto_049.html",
+      "next": "cirkus_humberto_051.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V • Cirkus Humberto",
+      "file": "cirkus_humberto_051.html",
+      "words": 2442,
+      "chars": 14885,
+      "ideas": 24,
+      "role": "chapter",
+      "order": 47,
+      "prev": "cirkus_humberto_050.html",
+      "next": "cirkus_humberto_052.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VI • Cirkus Humberto",
+      "file": "cirkus_humberto_052.html",
+      "words": 2719,
+      "chars": 17077,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 48,
+      "prev": "cirkus_humberto_051.html",
+      "next": "cirkus_humberto_053.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VII • Cirkus Humberto",
+      "file": "cirkus_humberto_053.html",
+      "words": 1645,
+      "chars": 9906,
+      "ideas": 24,
+      "role": "chapter",
+      "order": 49,
+      "prev": "cirkus_humberto_052.html",
+      "next": "cirkus_humberto_054.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VIII • Cirkus Humberto",
+      "file": "cirkus_humberto_054.html",
+      "words": 1882,
+      "chars": 11002,
+      "ideas": 35,
+      "role": "chapter",
+      "order": 50,
+      "prev": "cirkus_humberto_053.html",
+      "next": "cirkus_humberto_055.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IX • Cirkus Humberto",
+      "file": "cirkus_humberto_055.html",
+      "words": 2897,
+      "chars": 17638,
+      "ideas": 84,
+      "role": "chapter",
+      "order": 51,
+      "prev": "cirkus_humberto_054.html",
+      "next": "cirkus_humberto_056.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IX",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "X • Cirkus Humberto",
+      "file": "cirkus_humberto_056.html",
+      "words": 1966,
+      "chars": 11734,
+      "ideas": 72,
+      "role": "chapter",
+      "order": 52,
+      "prev": "cirkus_humberto_055.html",
+      "next": "cirkus_humberto_057.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "X",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XI • Cirkus Humberto",
+      "file": "cirkus_humberto_057.html",
+      "words": 1855,
+      "chars": 11288,
+      "ideas": 38,
+      "role": "chapter",
+      "order": 53,
+      "prev": "cirkus_humberto_056.html",
+      "next": "cirkus_humberto_058.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XII • Cirkus Humberto",
+      "file": "cirkus_humberto_058.html",
+      "words": 1811,
+      "chars": 10768,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 54,
+      "prev": "cirkus_humberto_057.html",
+      "next": "cirkus_humberto_059.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XIII • Cirkus Humberto",
+      "file": "cirkus_humberto_059.html",
+      "words": 1539,
+      "chars": 9260,
+      "ideas": 34,
+      "role": "chapter",
+      "order": 55,
+      "prev": "cirkus_humberto_058.html",
+      "next": "cirkus_humberto_060.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XIV • Cirkus Humberto",
+      "file": "cirkus_humberto_060.html",
+      "words": 3532,
+      "chars": 21280,
+      "ideas": 86,
+      "role": "chapter",
+      "order": 56,
+      "prev": "cirkus_humberto_059.html",
+      "next": "cirkus_humberto_061.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XIV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XV • Cirkus Humberto",
+      "file": "cirkus_humberto_061.html",
+      "words": 4209,
+      "chars": 25512,
+      "ideas": 120,
+      "role": "chapter",
+      "order": 57,
+      "prev": "cirkus_humberto_060.html",
+      "next": "cirkus_humberto_062.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Poznámky pod čarou • Cirkus Humberto",
+      "file": "cirkus_humberto_062.html",
+      "words": 124,
+      "chars": 771,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 58,
+      "prev": "cirkus_humberto_061.html",
+      "next": "cirkus_humberto_063.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Poznámky pod čarou",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Cirkus Humberto",
+      "file": "cirkus_humberto_063.html",
+      "words": 45,
+      "chars": 295,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 59,
+      "prev": "cirkus_humberto_062.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž • Cirkus Humberto",
+      "file": "colophon.html",
+      "words": 86,
+      "chars": 583,
+      "ideas": 10,
+      "role": "colophon",
+      "order": null,
+      "prev": "cirkus_humberto_063.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 164534,
+      "chars": 974935,
+      "ideas": 3548
+    },
+    "chapters": {
+      "words": 164442,
+      "chars": 974315,
+      "ideas": 3534
+    }
+  }
+}

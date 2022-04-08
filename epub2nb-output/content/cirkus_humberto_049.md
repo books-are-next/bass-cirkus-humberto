@@ -1,8 +1,9 @@
 ---
+title: III
 contentType: prose
 ---
 
-## III
+  
 
 Pan Dvořák, portýr divadla Varieté, zaslechl, jak před vchodem zastavila drožka. Vykoukl oknem a viděl, že z drožky vystupuje starší pán, pán tak ušlechtile krásný, vznešený a důstojný, jako by to byl sám státní rada Goethe. Karlínský pan Dvořák sice neměl tušení, že byl nějak v státní rada Goethe, ale pochopil, že je to významná návštěva. Proto vyšel z vrátnice, otevřel dveře a hluboce se uklonil.
 
