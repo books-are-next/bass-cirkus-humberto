@@ -2,16 +2,16 @@
   "author": "Eduard Bass",
   "contenttype": "prose",
   "edition": "beletrie",
-  "identifier": "bass-cirkus-humberto-50f406e",
+  "identifier": "bass-cirkus-humberto-55036c5",
   "languagecode": "cs",
   "modified": "2017-10-24T00:00:00.000Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Cirkus Humberto",
-  "revision": "50f406e",
+  "revision": "55036c5",
   "generatedAt": {
-    "date": "Fri Apr 08 2022 09:46:43 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1649411203687
+    "date": "Fri Apr 08 2022 09:53:07 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1649411587332
   },
   "documents": [
     {
@@ -1183,7 +1183,7 @@
       "role": "chapter",
       "order": 58,
       "prev": "cirkus_humberto_061.html",
-      "next": "cirkus_humberto_063.html",
+      "next": "colophon.html",
       "toc": [
         {
           "index": 0,
@@ -1195,34 +1195,14 @@
       ]
     },
     {
-      "title": "Cirkus Humberto",
-      "file": "cirkus_humberto_063.html",
-      "words": 45,
-      "chars": 295,
-      "ideas": 12,
-      "role": "chapter",
-      "order": 59,
-      "prev": "cirkus_humberto_062.html",
-      "next": "colophon.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
       "title": "Tiráž • Cirkus Humberto",
       "file": "colophon.html",
-      "words": 86,
-      "chars": 583,
-      "ideas": 10,
+      "words": 131,
+      "chars": 878,
+      "ideas": 22,
       "role": "colophon",
       "order": null,
-      "prev": "cirkus_humberto_063.html",
+      "prev": "cirkus_humberto_062.html",
       "next": null,
       "toc": [
         {
@@ -1242,9 +1222,9 @@
       "ideas": 3548
     },
     "chapters": {
-      "words": 164442,
-      "chars": 974315,
-      "ideas": 3534
+      "words": 164397,
+      "chars": 974020,
+      "ideas": 3522
     }
   }
 }
