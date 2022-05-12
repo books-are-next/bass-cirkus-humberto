@@ -1,7 +1,5 @@
 ---
-title: |-
-  ČÁST
-  ČTVRTÁ
+title: ČÁST ČTVRTÁ
 contentType: prose
 ---
 

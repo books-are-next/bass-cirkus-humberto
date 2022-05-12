@@ -14,7 +14,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
-  - cirkus_humberto_002.html
+  - promo.html
   - cirkus_humberto_005.html
   - cirkus_humberto_006.html
   - cirkus_humberto_007.html
