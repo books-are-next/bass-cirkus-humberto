@@ -1,7 +1,5 @@
 ---
-title: |-
-  ČÁST
-  DRUHÁ
+title: ČÁST DRUHÁ
 contentType: prose
 ---
 

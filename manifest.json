@@ -1,22 +1,85 @@
 {
-  "author": "Eduard Bass",
-  "contenttype": "prose",
-  "edition": "beletrie",
-  "identifier": "bass-cirkus-humberto-55036c5",
-  "languagecode": "cs",
-  "modified": "2017-10-24T00:00:00.000Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Cirkus Humberto",
-  "revision": "55036c5",
+  "author": "Eduard Bass",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "bass-cirkus-humberto-f09a816",
+  "revision": "f09a816",
+  "readingOrder": [
+    "promo.html",
+    "cirkus_humberto_005.html",
+    "cirkus_humberto_006.html",
+    "cirkus_humberto_007.html",
+    "cirkus_humberto_008.html",
+    "cirkus_humberto_009.html",
+    "cirkus_humberto_010.html",
+    "cirkus_humberto_011.html",
+    "cirkus_humberto_012.html",
+    "cirkus_humberto_013.html",
+    "cirkus_humberto_014.html",
+    "cirkus_humberto_015.html",
+    "cirkus_humberto_016.html",
+    "cirkus_humberto_017.html",
+    "cirkus_humberto_018.html",
+    "cirkus_humberto_019.html",
+    "cirkus_humberto_020.html",
+    "cirkus_humberto_021.html",
+    "cirkus_humberto_022.html",
+    "cirkus_humberto_023.html",
+    "cirkus_humberto_024.html",
+    "cirkus_humberto_025.html",
+    "cirkus_humberto_026.html",
+    "cirkus_humberto_027.html",
+    "cirkus_humberto_028.html",
+    "cirkus_humberto_029.html",
+    "cirkus_humberto_030.html",
+    "cirkus_humberto_031.html",
+    "cirkus_humberto_032.html",
+    "cirkus_humberto_033.html",
+    "cirkus_humberto_034.html",
+    "cirkus_humberto_035.html",
+    "cirkus_humberto_036.html",
+    "cirkus_humberto_037.html",
+    "cirkus_humberto_038.html",
+    "cirkus_humberto_039.html",
+    "cirkus_humberto_040.html",
+    "cirkus_humberto_041.html",
+    "cirkus_humberto_042.html",
+    "cirkus_humberto_043.html",
+    "cirkus_humberto_044.html",
+    "cirkus_humberto_045.html",
+    "cirkus_humberto_046.html",
+    "cirkus_humberto_047.html",
+    "cirkus_humberto_048.html",
+    "cirkus_humberto_049.html",
+    "cirkus_humberto_050.html",
+    "cirkus_humberto_051.html",
+    "cirkus_humberto_052.html",
+    "cirkus_humberto_053.html",
+    "cirkus_humberto_054.html",
+    "cirkus_humberto_055.html",
+    "cirkus_humberto_056.html",
+    "cirkus_humberto_057.html",
+    "cirkus_humberto_058.html",
+    "cirkus_humberto_059.html",
+    "cirkus_humberto_060.html",
+    "cirkus_humberto_061.html",
+    "cirkus_humberto_062.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Fri Apr 08 2022 09:53:07 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1649411587332
+    "date": "Thu May 12 2022 10:42:39 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652352159623
   },
   "documents": [
     {
-      "title": "Cirkus Humberto",
-      "file": "cirkus_humberto_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -24,25 +87,17 @@
       "order": 0,
       "prev": null,
       "next": "cirkus_humberto_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
-      "title": "ČÁST PRVNÍ • Cirkus Humberto",
+      "title": "ČÁST PRVNÍ",
       "file": "cirkus_humberto_005.html",
       "words": 2,
       "chars": 10,
       "ideas": 1,
       "role": "chapter",
       "order": 1,
-      "prev": "cirkus_humberto_002.html",
+      "prev": "promo.html",
       "next": "cirkus_humberto_006.html",
       "toc": [
         {
@@ -55,7 +110,7 @@
       ]
     },
     {
-      "title": "I • Cirkus Humberto",
+      "title": "I",
       "file": "cirkus_humberto_006.html",
       "words": 727,
       "chars": 4535,
@@ -75,7 +130,7 @@
       ]
     },
     {
-      "title": "II • Cirkus Humberto",
+      "title": "II",
       "file": "cirkus_humberto_007.html",
       "words": 4251,
       "chars": 24642,
@@ -95,7 +150,7 @@
       ]
     },
     {
-      "title": "III • Cirkus Humberto",
+      "title": "III",
       "file": "cirkus_humberto_008.html",
       "words": 4889,
       "chars": 30786,
@@ -115,7 +170,7 @@
       ]
     },
     {
-      "title": "IV • Cirkus Humberto",
+      "title": "IV",
       "file": "cirkus_humberto_009.html",
       "words": 4568,
       "chars": 28718,
@@ -135,7 +190,7 @@
       ]
     },
     {
-      "title": "V • Cirkus Humberto",
+      "title": "V",
       "file": "cirkus_humberto_010.html",
       "words": 5272,
       "chars": 30117,
@@ -155,7 +210,7 @@
       ]
     },
     {
-      "title": "VI • Cirkus Humberto",
+      "title": "VI",
       "file": "cirkus_humberto_011.html",
       "words": 5659,
       "chars": 32446,
@@ -175,7 +230,7 @@
       ]
     },
     {
-      "title": "VII • Cirkus Humberto",
+      "title": "VII",
       "file": "cirkus_humberto_012.html",
       "words": 6496,
       "chars": 36969,
@@ -195,7 +250,7 @@
       ]
     },
     {
-      "title": "VIII • Cirkus Humberto",
+      "title": "VIII",
       "file": "cirkus_humberto_013.html",
       "words": 7216,
       "chars": 41709,
@@ -215,11 +270,11 @@
       ]
     },
     {
-      "title": "ČÁST\nDRUHÁ • Cirkus Humberto",
+      "title": "ČÁST DRUHÁ",
       "file": "cirkus_humberto_014.html",
       "words": 2,
-      "chars": 9,
-      "ideas": 2,
+      "chars": 10,
+      "ideas": 1,
       "role": "chapter",
       "order": 10,
       "prev": "cirkus_humberto_013.html",
@@ -228,14 +283,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "ČÁST\nDRUHÁ",
+          "name": "ČÁST DRUHÁ",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "I • Cirkus Humberto",
+      "title": "I",
       "file": "cirkus_humberto_015.html",
       "words": 2820,
       "chars": 17893,
@@ -255,7 +310,7 @@
       ]
     },
     {
-      "title": "II • Cirkus Humberto",
+      "title": "II",
       "file": "cirkus_humberto_016.html",
       "words": 1867,
       "chars": 10521,
@@ -275,7 +330,7 @@
       ]
     },
     {
-      "title": "III • Cirkus Humberto",
+      "title": "III",
       "file": "cirkus_humberto_017.html",
       "words": 2159,
       "chars": 12415,
@@ -295,7 +350,7 @@
       ]
     },
     {
-      "title": "IV • Cirkus Humberto",
+      "title": "IV",
       "file": "cirkus_humberto_018.html",
       "words": 1600,
       "chars": 9527,
@@ -315,7 +370,7 @@
       ]
     },
     {
-      "title": "V • Cirkus Humberto",
+      "title": "V",
       "file": "cirkus_humberto_019.html",
       "words": 1760,
       "chars": 10186,
@@ -335,7 +390,7 @@
       ]
     },
     {
-      "title": "VI • Cirkus Humberto",
+      "title": "VI",
       "file": "cirkus_humberto_020.html",
       "words": 3619,
       "chars": 21031,
@@ -355,7 +410,7 @@
       ]
     },
     {
-      "title": "VII • Cirkus Humberto",
+      "title": "VII",
       "file": "cirkus_humberto_021.html",
       "words": 2464,
       "chars": 14094,
@@ -375,7 +430,7 @@
       ]
     },
     {
-      "title": "VIII • Cirkus Humberto",
+      "title": "VIII",
       "file": "cirkus_humberto_022.html",
       "words": 2434,
       "chars": 14963,
@@ -395,7 +450,7 @@
       ]
     },
     {
-      "title": "IX • Cirkus Humberto",
+      "title": "IX",
       "file": "cirkus_humberto_023.html",
       "words": 3138,
       "chars": 18971,
@@ -415,7 +470,7 @@
       ]
     },
     {
-      "title": "X • Cirkus Humberto",
+      "title": "X",
       "file": "cirkus_humberto_024.html",
       "words": 2722,
       "chars": 15875,
@@ -435,7 +490,7 @@
       ]
     },
     {
-      "title": "XI • Cirkus Humberto",
+      "title": "XI",
       "file": "cirkus_humberto_025.html",
       "words": 2663,
       "chars": 15755,
@@ -455,7 +510,7 @@
       ]
     },
     {
-      "title": "XII • Cirkus Humberto",
+      "title": "XII",
       "file": "cirkus_humberto_026.html",
       "words": 3751,
       "chars": 21967,
@@ -475,7 +530,7 @@
       ]
     },
     {
-      "title": "XIII • Cirkus Humberto",
+      "title": "XIII",
       "file": "cirkus_humberto_027.html",
       "words": 3318,
       "chars": 19099,
@@ -495,7 +550,7 @@
       ]
     },
     {
-      "title": "XIV • Cirkus Humberto",
+      "title": "XIV",
       "file": "cirkus_humberto_028.html",
       "words": 3450,
       "chars": 20117,
@@ -515,7 +570,7 @@
       ]
     },
     {
-      "title": "XV • Cirkus Humberto",
+      "title": "XV",
       "file": "cirkus_humberto_029.html",
       "words": 3120,
       "chars": 19211,
@@ -535,7 +590,7 @@
       ]
     },
     {
-      "title": "XVI • Cirkus Humberto",
+      "title": "XVI",
       "file": "cirkus_humberto_030.html",
       "words": 3239,
       "chars": 18215,
@@ -555,11 +610,11 @@
       ]
     },
     {
-      "title": "ČÁST\nTŘETÍ • Cirkus Humberto",
+      "title": "ČÁST TŘETÍ",
       "file": "cirkus_humberto_031.html",
       "words": 2,
-      "chars": 9,
-      "ideas": 2,
+      "chars": 10,
+      "ideas": 1,
       "role": "chapter",
       "order": 27,
       "prev": "cirkus_humberto_030.html",
@@ -568,14 +623,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "ČÁST\nTŘETÍ",
+          "name": "ČÁST TŘETÍ",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "I • Cirkus Humberto",
+      "title": "I",
       "file": "cirkus_humberto_032.html",
       "words": 1862,
       "chars": 10266,
@@ -595,7 +650,7 @@
       ]
     },
     {
-      "title": "II • Cirkus Humberto",
+      "title": "II",
       "file": "cirkus_humberto_033.html",
       "words": 2022,
       "chars": 11705,
@@ -615,7 +670,7 @@
       ]
     },
     {
-      "title": "III • Cirkus Humberto",
+      "title": "III",
       "file": "cirkus_humberto_034.html",
       "words": 2058,
       "chars": 11889,
@@ -635,7 +690,7 @@
       ]
     },
     {
-      "title": "IV • Cirkus Humberto",
+      "title": "IV",
       "file": "cirkus_humberto_035.html",
       "words": 2117,
       "chars": 11446,
@@ -655,7 +710,7 @@
       ]
     },
     {
-      "title": "V • Cirkus Humberto",
+      "title": "V",
       "file": "cirkus_humberto_036.html",
       "words": 5022,
       "chars": 30205,
@@ -675,7 +730,7 @@
       ]
     },
     {
-      "title": "VI • Cirkus Humberto",
+      "title": "VI",
       "file": "cirkus_humberto_037.html",
       "words": 4299,
       "chars": 25622,
@@ -695,7 +750,7 @@
       ]
     },
     {
-      "title": "VII • Cirkus Humberto",
+      "title": "VII",
       "file": "cirkus_humberto_038.html",
       "words": 2209,
       "chars": 13389,
@@ -715,7 +770,7 @@
       ]
     },
     {
-      "title": "VIII • Cirkus Humberto",
+      "title": "VIII",
       "file": "cirkus_humberto_039.html",
       "words": 5405,
       "chars": 31913,
@@ -735,7 +790,7 @@
       ]
     },
     {
-      "title": "IX • Cirkus Humberto",
+      "title": "IX",
       "file": "cirkus_humberto_040.html",
       "words": 3201,
       "chars": 19171,
@@ -755,7 +810,7 @@
       ]
     },
     {
-      "title": "X • Cirkus Humberto",
+      "title": "X",
       "file": "cirkus_humberto_041.html",
       "words": 1973,
       "chars": 11549,
@@ -775,7 +830,7 @@
       ]
     },
     {
-      "title": "XI • Cirkus Humberto",
+      "title": "XI",
       "file": "cirkus_humberto_042.html",
       "words": 5273,
       "chars": 31569,
@@ -795,7 +850,7 @@
       ]
     },
     {
-      "title": "XII • Cirkus Humberto",
+      "title": "XII",
       "file": "cirkus_humberto_043.html",
       "words": 2215,
       "chars": 13014,
@@ -815,7 +870,7 @@
       ]
     },
     {
-      "title": "XIII • Cirkus Humberto",
+      "title": "XIII",
       "file": "cirkus_humberto_044.html",
       "words": 4017,
       "chars": 23890,
@@ -835,7 +890,7 @@
       ]
     },
     {
-      "title": "XIV • Cirkus Humberto",
+      "title": "XIV",
       "file": "cirkus_humberto_045.html",
       "words": 2116,
       "chars": 12489,
@@ -855,11 +910,11 @@
       ]
     },
     {
-      "title": "ČÁST\nČTVRTÁ • Cirkus Humberto",
+      "title": "ČÁST ČTVRTÁ",
       "file": "cirkus_humberto_046.html",
       "words": 2,
-      "chars": 10,
-      "ideas": 2,
+      "chars": 11,
+      "ideas": 1,
       "role": "chapter",
       "order": 42,
       "prev": "cirkus_humberto_045.html",
@@ -868,14 +923,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "ČÁST\nČTVRTÁ",
+          "name": "ČÁST ČTVRTÁ",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "I • Cirkus Humberto",
+      "title": "I",
       "file": "cirkus_humberto_047.html",
       "words": 3864,
       "chars": 23578,
@@ -895,7 +950,7 @@
       ]
     },
     {
-      "title": "II • Cirkus Humberto",
+      "title": "II",
       "file": "cirkus_humberto_048.html",
       "words": 2732,
       "chars": 16248,
@@ -915,7 +970,7 @@
       ]
     },
     {
-      "title": "III • Cirkus Humberto",
+      "title": "III",
       "file": "cirkus_humberto_049.html",
       "words": 2428,
       "chars": 14461,
@@ -935,7 +990,7 @@
       ]
     },
     {
-      "title": "IV • Cirkus Humberto",
+      "title": "IV",
       "file": "cirkus_humberto_050.html",
       "words": 1753,
       "chars": 10695,
@@ -955,7 +1010,7 @@
       ]
     },
     {
-      "title": "V • Cirkus Humberto",
+      "title": "V",
       "file": "cirkus_humberto_051.html",
       "words": 2442,
       "chars": 14885,
@@ -975,7 +1030,7 @@
       ]
     },
     {
-      "title": "VI • Cirkus Humberto",
+      "title": "VI",
       "file": "cirkus_humberto_052.html",
       "words": 2719,
       "chars": 17077,
@@ -995,7 +1050,7 @@
       ]
     },
     {
-      "title": "VII • Cirkus Humberto",
+      "title": "VII",
       "file": "cirkus_humberto_053.html",
       "words": 1645,
       "chars": 9906,
@@ -1015,7 +1070,7 @@
       ]
     },
     {
-      "title": "VIII • Cirkus Humberto",
+      "title": "VIII",
       "file": "cirkus_humberto_054.html",
       "words": 1882,
       "chars": 11002,
@@ -1035,7 +1090,7 @@
       ]
     },
     {
-      "title": "IX • Cirkus Humberto",
+      "title": "IX",
       "file": "cirkus_humberto_055.html",
       "words": 2897,
       "chars": 17638,
@@ -1055,7 +1110,7 @@
       ]
     },
     {
-      "title": "X • Cirkus Humberto",
+      "title": "X",
       "file": "cirkus_humberto_056.html",
       "words": 1966,
       "chars": 11734,
@@ -1075,7 +1130,7 @@
       ]
     },
     {
-      "title": "XI • Cirkus Humberto",
+      "title": "XI",
       "file": "cirkus_humberto_057.html",
       "words": 1855,
       "chars": 11288,
@@ -1095,7 +1150,7 @@
       ]
     },
     {
-      "title": "XII • Cirkus Humberto",
+      "title": "XII",
       "file": "cirkus_humberto_058.html",
       "words": 1811,
       "chars": 10768,
@@ -1115,7 +1170,7 @@
       ]
     },
     {
-      "title": "XIII • Cirkus Humberto",
+      "title": "XIII",
       "file": "cirkus_humberto_059.html",
       "words": 1539,
       "chars": 9260,
@@ -1135,7 +1190,7 @@
       ]
     },
     {
-      "title": "XIV • Cirkus Humberto",
+      "title": "XIV",
       "file": "cirkus_humberto_060.html",
       "words": 3532,
       "chars": 21280,
@@ -1155,7 +1210,7 @@
       ]
     },
     {
-      "title": "XV • Cirkus Humberto",
+      "title": "XV",
       "file": "cirkus_humberto_061.html",
       "words": 4209,
       "chars": 25512,
@@ -1175,7 +1230,7 @@
       ]
     },
     {
-      "title": "Poznámky pod čarou • Cirkus Humberto",
+      "title": "Poznámky pod čarou",
       "file": "cirkus_humberto_062.html",
       "words": 124,
       "chars": 771,
@@ -1195,11 +1250,11 @@
       ]
     },
     {
-      "title": "Tiráž • Cirkus Humberto",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 131,
-      "chars": 878,
-      "ideas": 22,
+      "words": 103,
+      "chars": 695,
+      "ideas": 13,
       "role": "colophon",
       "order": null,
       "prev": "cirkus_humberto_062.html",
@@ -1217,14 +1272,14 @@
   ],
   "totals": {
     "all": {
-      "words": 164534,
-      "chars": 974935,
-      "ideas": 3548
+      "words": 164506,
+      "chars": 974755,
+      "ideas": 3536
     },
     "chapters": {
       "words": 164397,
-      "chars": 974020,
-      "ideas": 3522
+      "chars": 974023,
+      "ideas": 3519
     }
   }
 }
