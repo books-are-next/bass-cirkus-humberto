@@ -3,7 +3,7 @@ title: VII
 contentType: prose
 ---
 
-  
+<section>
 
 Nazítří v poledne obědvali oba Karasové u paní Langermannové naposledy. Po obědě se podle rozkazu stěhovali do maringotek. Loučení nebylo jednoduché, Karas byl tu přece podnájemníkem už kolikerý rok a tentokrát odcházel na prahu vlastní sezóny. Byla to velká událost pro ty malé lidi, že se tak jako zázrakem uchytil uprostřed nezaměstnanosti; a naopak zase on věděl, že hodné paní Langermannové nastává ošklivé léto, když přišla o celou partu strávníků. A pak tu byl Vašek, kterého si za těch pár dní zamilovala, a Vaškovi nadešel rozchod s Růženkou, s tímto prvním koníčkem jeho cirkusáckých snů. Tož tu byly i slzičky na krajíčku a mnoho slibů, že vrátí-li se zdrávi na zimu do Hamburku, docela určitě vyhledají paní Langermannovou a snad se, doufejme, u ní i ubytují.
 
@@ -236,3 +236,5 @@ Když konečně shledali, že si toho pro ten večer napovídali už dost, zmize
 Karas se nemohl přemoci, vyprskl smíchem a praštil se do čela o Kerholcův kavalec.
 
 „Nováček udeřil na tamtam,“ podotkl znovu Vosátka, „nedejte se vyprovokovat. Chrňte královsky, meššurs!“
+
+</section>

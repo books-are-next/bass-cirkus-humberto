@@ -3,6 +3,8 @@ title: Poznámky pod čarou
 contentType: prose
 ---
 
+<section>
+
 [\[1\]](./resources/undefined) Vedoucí dělníků. _Pozn. red._
 
 [\[2\]](./resources/undefined) Posměšné pojmenování zedníků. _Pozn. red._
@@ -34,3 +36,5 @@ contentType: prose
 [\[15\]](./resources/undefined) Vskutku nezemřu (ve významu: něco tu po mne zbude). _Pozn. red._
 
 [\[16\]](./resources/undefined) Chystat se, připravovat se, nebo také holedbat se, vychloubat se. _Pozn. red._
+
+</section>

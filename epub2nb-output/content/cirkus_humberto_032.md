@@ -3,7 +3,7 @@ title: I
 contentType: prose
 ---
 
-  
+<section>
 
 _Je překrásná neděle v březnu_, podél nábřeží poletují rackové, z věže Svatého Pavla odbíjí desátá hodina. Slečna Růžena Langermannová přichází dlouhými kroky ke vchodu do městských sadů. Má maličký, šikmo nasazený klobouček a dlouhou sukni vzdutou vzadu honzíkem. Spěchá a musí se přitom usmívat, neboť onen mladý muž v šedivém paletu, který tam přechází, je přece Vašku, obdivovaný krotitel šelem v Cirkuse Humberto. Už na ni netrpělivě čeká a ona se přece nezpozdila! Což nezašeptal včera „Přesně v deset“? A málo chybělo a byla by zmeškala, troje jarní šaty museli ještě dnes v závodě dodělávat, aby je mohli během dopoledne odvést, šila na nich u své mistrové do desíti večer a o půl osmé už přišla v neděli do práce, aby to bylo hotovo. Inu, jí jde vždycky práce od ruky, ale dnes jí jehla jen hrála, když srdce bylo plno blaženství, že v deset hodin je ta krásná, slastná věc, první schůzka…
 
@@ -48,3 +48,5 @@ Podíval se tam, kam ukazovala, a opravdu, byla to krása, stálo tam celé skup
 Slast, horko, zmatení, růžová mlžina; a pak najednou překypující pocit vítězné jistoty, jásavé sebevědomí, síla a víra. Kde je jaká překážka, kterou by on, Vašku, nezdolal? Podívejte to tělo, je jako z ocelových per, podívejte ty oči, dravec před nimi couvá, co je v nich vůle; jak bych tě, Růženko, jak bych tě nedobyl? Všeho dobudu, celého světa dobudu pro tvůj úsměv, pro tu tvou oddanou něhu. Najednou je tu plno věcí, o kterých je nutno se vymluvit a vyhovořit, aby si srdce ulevilo, a dohromady je to všecko jen jedna jediná věc: že se máme… nu, řekni to, Růženko, sama, od tebe je to tak sladké… že se máme rádi.
 
 Na věži Svatého Pavla odbíjí poledne a Vašku s Růženkou kráčejí zavěšeni a přituleni domů k obědu, k paní Langermannové, k otci Karasovi, aby jim zvěstovali velkou a slavnou novinu o svém zasnoubení. Jde jaro, cirkus zase vyrazí do světa, ale až se na podzim vrátí, vystrojí se svatba. A Růženka Langermannová se stane Růženou Karasovou, manželkou Vašku, jezdce a krotitele v Cirkuse Humberto.
+
+</section>

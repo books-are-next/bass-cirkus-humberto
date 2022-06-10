@@ -3,7 +3,7 @@ title: VI
 contentType: prose
 ---
 
-  
+<section>
 
 Karas vyklouzl z postele ještě za šera, tiše se umyl a oblékl, v kuchyni si vzal z trouby hrnec skoro už vystydlé bryndy, nalil si pořádný kafáč, ukrojil krajíc chleba a posnídal. Pak si ještě vzal kus chleba do kapsy a po špičkách vyšel z bytu. Nebylo ještě šest, když vcházel do boudy cirkusu. Kerholec už tam byl a hned mu vykládal, jaké bylo v noci rozčilení. Lvice Nataša se večer okotila, má tři mladé, naštěstí byla už připravena nová klec, jak ji včera Karas pomáhal vytáhnout. Tam dali lva Mahuma; který byl dotud s Natašou pohromadě, kdežto v třetí kleci byl starý lev Sultán s lvicemi Bessií a Korinou. Radostná událost přišla dřív, než počítali, proto zůstala Nataša do poslední chvíle s Mahumem. Ale direktorka byla neklidná, ještě před večeří si zaběhla do zvěřince a poznala, co se děje. Okamžitě poslali pro Gambiera, který měl na starosti šelmy, taky Berwitz nechal večeři večeří a s Kerholcem a s pár lidmi zařizoval „přeložení“ Mahuma. Direktorka zůstala s Natašou celou noc, aby se koťatům nic nestalo. Ale Nataša byla zesláblá a sotva sebou pohnula. Ráno říkala direktorka, že jí budou asi muset lvíčata odebrat a živit je uměle, že je to nějaká špatná máma. Karas se šel na ni podívat. Nataša ležela ve staré kleci apaticky natažena na boku a cosi maličkého se vrtělo ve slámě pod jejím břichem.
 
@@ -104,7 +104,9 @@ Vašek stál jako opařen. Odjakživa slýchal o trpajzlících, že jsou to tak
 _„Trpajzlík, trpajzlík,  
 nedosáhne na majzlík!“_
 
-  
+</section>
+
+<section>
 
 Opakoval ten verš několikrát, ale trpasličí manželé, angažovaní pro nadcházející turné jako Admirál Paleček a Princezna Kulihráška, nerozuměli jeho posměšnému volání a odešli do boudy, ani se neohlédli.
 
@@ -311,3 +313,5 @@ Odpoledne byl ovšem Vašek znovu na představení. Karas ho usadil na volném m
 Ale večer, když ulehl do postele, ozval se před usnutím:
 
 „Víš, táto, všecko je to hezké, ale já budu cvičitelem slonů. Cvičit slona, to je přece jen ze všeho to nejkrásnější!“
+
+</section>

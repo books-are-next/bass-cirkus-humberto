@@ -3,7 +3,7 @@ title: VIII
 contentType: prose
 ---
 
-  
+<section>
 
 Ráno vstal a snídal Vašek s ostatními a rovnou s nimi do koňské stáje. Hans ho tam uvítal širokým „Morchen“ a hned před ním otevřel dvířka k ohrádce ponyů. Bez dlouhých řečí bylo už jako smluveno, že Vašek se bude pod Hansovým dozorem starat o ty malé strakáče. A kluk začínal svou službu jako starý znalec zvířat: měl v kapse kousek třtinového cukru od snídaně a tajně ukrojený krajíc chleba. Mary dostala cukr s kouskem chleba, ti tři druzí shetlandíci, Fricek, Lady a Miss, dostali aspoň kousek chleba z jeho malé dlaně. Karas otec už se naplno pouštěl do stájní práce i do vší ostatní rachoty. A bylo jí toho dne od božího rána vrchovatě, protože se balila a nakládala spousta věcí ze skladišť. Kerholec komandoval všude a ostře zapřahal Karase, který zase neopominul si přivolávat Vašíčka na výpomoc. Vašek si vyřídil s Hansem ranní nakrmení poníků a vklouzl pak jako střela vedle do zvěřince, aby se podíval na ranní práci kapitána Gambiera se lvy, tygry a medvědy. Ale sotva se s ním pozdravil a stoupl si ke kleci, už se ozvalo ode dveří tátovo „Vašku!“ A ozývalo se pak každé chvíle ve všech prostorách cirkusu i zvěřince, takže je brzy přejímali i ostatní lidé a Vašek se najednou pro všechny ostatní jmenoval „Vašku“.
 
@@ -450,3 +450,5 @@ Buxtehude, Buxtehude. Podkůvky koní to klapají, maringotka tím drnčí. Vše
 Antonín Karas sedí a zírá do mokřavé tmy. Už i ty břízy, silné a mocné břízy při silnici se ztrácejí, už není vidět nic, nic nelze rozpoznat, jen ozářené okénko u Harweyova vozu. Všecko ostatní se utopilo a pohřbilo ve tmě… Buxtehude, Buxtehude.
 
 A z toho cizího zvuku se mu rodí vzpomínka za vzpomínkou a každá se došeptává k němu zpěvavým nářečím domova. Japa se daří nejčko Vaškovi na bandurku? A copa Vaškovo maminka, Márinka… eslipa by nebyla celá bej sebe… Vona, chuděra, tam, v Horní Sněžné pod lerpánkem… a ty, mandžel, tú tady v kerémsi Buxtehude… Inu, co muší bejt, to holt muší přijít, to ináč nejde… darmo si kormoutíš srdce… A dyby tě zavezli až k sedmi kurfiřtům, šady je, chlapče, šady je zem Páně!
+
+</section>

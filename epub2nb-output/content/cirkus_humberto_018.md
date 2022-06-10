@@ -3,7 +3,7 @@ title: IV
 contentType: prose
 ---
 
-  
+<section>
 
 Petr Berwitz neměl poslední dobou ředitelování lehké. Odvážnou výpravou do Ruska a do Asie se vyšinul mezi vedoucí evropské podniky, ale toto postavení nebylo nikterak zajištěno. Berwitz věděl lépe než ti druzí, že se v cirkuse stále musí zápasit o prvenství, nemá-li rychle přijít pokles a zánik. Každý artista v manéži musí denně bojovat o úspěch a stále zlepšovat svůj výkon a také cirkus jako celek musí být stále v bojovném střehu a napětí. To bylo přece to krásné, že člověk žil v ustavičné aktivitě, ve stálém ohni a varu; Berwitz byl nejblaženější, když opustili hamburský klid a octli se v plném ruchu své pouti, s přemnohými překážkami, nenadálými nehodami, nečekanými potížemi, při nichž mohl ihned vyskočit, rozhodovat, zachraňovat, poroučet, jednat. Ale nešlo jen o takové epizody, direktor musel myslet také na celý podnik jako ústřední a souborné dílo, aby nepokleslo, aby si uchovalo půvab dokonalostí a krásou výkonů, aby nebylo předstiženo jinými. A tu právě cítil Petr Berwitz v týle nepříjemný mrak, jehož krátké jméno bylo Kranz.
 
@@ -54,3 +54,5 @@ Petr Berwitz měl pocit, že mu Anežka řádně drhne hlavu. Aby to už skonči
 Vysunul přitom levou ruku, až vylezla bělostně bílá manžeta.
 
 „A pak tě ještě, Anežko, prosím, abys mi nikdy nedávala manžety do prádla, dokud si neopíšu, co mám na nich zapsáno.“
+
+</section>

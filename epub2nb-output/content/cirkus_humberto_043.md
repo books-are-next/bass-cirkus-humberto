@@ -3,11 +3,13 @@ title: XII
 contentType: prose
 ---
 
-  
+<section>
 
 Den po té rozmluvě přišel pan Gaudeamus znovu za Vaškem.
 
-  
+</section>
+
+<section>
 
 „Přemýšlel jsem, mladý příteli, o tom, co jste mi včera řekl,“ zahájil rovnou rozhovor, „a musím vám říci, že mi to imponovalo. Takhle zápasit, a možná že bez naděje, saprlot, k tomu je třeba charakteru. Jen jedno si nedovedu vysvětlit: jak jste se mohl s tak lehkým srdcem rozloučit s existencí Cirkusu Humberto? Vy přece jste už připraven na to, že tento podnik zahyne…“
 
@@ -128,3 +130,5 @@ Starého Berwitze prý obešel mráz jako každého zdravého člověka, když s
 „A víte, direktore,“ dodal potom, „to je konec. Když už i muzika propadla cirkusu, to je konec. Teď piju, abych to neviděl.“
 
 „Zkrátka, přeskočilo mu,“ končil Berwitz svoje vyprávění, „docela se pomátl. Však to bylo taky alkoholu, od rána do noci, jak je rok dlouhý. Musíme se s ním rozloučit. Ale ty dva, Selnického a Gaudeama, já už nahrazovat nebudu. To už si budeš muset zařídit ty, já jsem na to už starý. Až přijedeme do Hamburku, prodám konstrukci, to je můj poslední úkol. A pak, až budou ty milióny, uděláš si pořádek, jaký budeš chtít.“
+
+</section>

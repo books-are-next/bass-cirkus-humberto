@@ -3,13 +3,15 @@ title: XI
 contentType: prose
 ---
 
-  
+<section>
 
 Telegramy, před nimiž lidé trnou hrůzou, byly nejběžnější korespondenční prostředek divadelní kanceláře Karasovy. Stálo to peníze, ale ředitel se tím vykupoval z nejistot dlouhého čekání. Naučil se zápasit s časem, jak jej na to kdysi upozornil pan Gaudeamus. Tisíce depeší otvíral zcela mechanicky, jako by šlo o konvenční gratulace, ale nad jednou, která přišla z Rotterdamu, náhle zaváhal. Pak ji otevřel a četl:
 
 _přijeď helena zraněna kranz_
 
-  
+</section>
+
+<section>
 
 Za dvě hodiny nato seděl s Petříkem a Steenhouwerem v drážďanském rychlíku. V Lipsku měl kdy koupit velkou kytici fialek. V Rotterdamu je očekával sám Kranz, zestárlý, ale stále pln životní síly.
 
@@ -80,3 +82,5 @@ Rozhodnuto, hotovo, zpečetěno. A najednou to všecko ztroskotá o nový, neče
 Ten argument je maličký, vrnivý a vřískavý, má modré, udivené oči a na křtu dostal jméno Liduška.
 
 Václav Karas, řečený Vašku, je dědečkem.
+
+</section>

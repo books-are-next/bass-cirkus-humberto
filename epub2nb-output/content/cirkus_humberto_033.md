@@ -3,7 +3,7 @@ title: II
 contentType: prose
 ---
 
-  
+<section>
 
 Je překrásná neděle v březnu, podél nábřeží poletují rackové, z věže Svatého Pavla odbíjí desátá hodina. Slečna Helena Berwitzová vybíhá drobnými krůčky z domu svých rodičů. V chůzi ještě si zapíná rukavičku. Za rohem se zastavuje, rozevírá pompadúrku a chvatným pohybem z ní vytrhává malé psaníčko. Zapamatovala si dobře, co tam napsal? Je to tak překvapující a rozkošné, že to musí znovu a znovu číst:
 
@@ -13,7 +13,9 @@ _Pamatuješ se ještě na slib, který jsme si kdysi dali na stupních Cirkusu H
 
 _Paolo Roméo_
 
-  
+</section>
+
+<section>
 
 Ano, už je to hrozně dávno, už je to skoro jen sen. Ale Helena je tím lístkem vzrušena, jako by jí projel elektrický proud. Paolo, krásný Paolo… Co s ním bylo, s tím snědým hochem, který jí tehdy pověděl, jak má provést žokejský skok? Přece je tedy z něho tanečník, jak tehdy chtěl? A jak to, že opustil cirkus a rodinu? A že na ni nezapomněl, je od něho opravdu roztomilé. Byla to jen taková dětská pošetilost, to zaslíbení tehdy, ale přece jen to trošičku zavazuje. A je-li to pravda, že on je ještě do ní zamilován… A proč by nebyl? Mužští jsou takoví směšní, jako tuhleten s tím bílým šeříkem. Tři týdny jí už večer co večer posílá kytici bílého šeříku, teď před jarem, jaký je to výdej! A vůbec se neobjeví, ani znamení nějaké nedá, lísteček, vizitku, oslovení, nic, nic, nic než jen ten šeřík, těžký a nádherný. Kdo to je? Boháč musí být a člověk znamenitého vkusu; ale starý? mladý? krásný? šeredný? Nic z toho nelze uhodnout. Alice Kerholcová říká, že to bude starý, vyžilý a ohavný dědek, který se ani neodváží objevit, ale tohle je taky jenom dohad a Alice jej říká se smíchem, aby pozlobila Helenu. Alice má na Helenu tajnou pifku, že se sama nestala první krasojezdkyní, když Helenina matka v přechodu přestala jezdit. Jenže to je nesmysl, Helena přece byla odmalička vychována pro krasojízdu a vysokou školu, to bylo samozřejmé, že dcera ředitele je něco víc než žena placmistrova. A pak má mít ta zrzavá ženská taky trochu rozumu, propána, máma tří dětí nemůže mít takové tělo jako mladé děvče, to uznávají všichni. Proto jí chce Alice neznámého ctitele zesměšnit, ale to je hloupost; mnohem spíš je to vysoká, svrchovaně diskrétní osobnost, která se jednoho dne přihlásí. A jsou-li takoví oddaní ctitelé, proč by nemohl být stále do ní zamilován Paolo? Bývala prý už jako holčička hezká, říkají rodiče, to by tedy nebylo nic divného, kdyby v něm zanechala nepohasínající dojem. Všichni jí píší a vzkazují, že je jejich snem, že po ní touží, že na ni nemohou zapomenout – proč by to neplatilo i pro toho ohnivého hocha? Jen jestli ho pozná po tolika letech! Tenhle tlustý vousáč u divadelního kandelábru to nemůže být, tamhleten v haveloku taky ne, ale… Paolo! Bože, ten je krásný!
 
@@ -88,3 +90,5 @@ Zastavil ji lehounkým dotykem paže a podíval se jí dlouhým prosebným pohle
 Na věži Svatého Pavla odbíjí poledne a Helena Berwitzová pádí domů, aby přišla včas k obědu. A Paolo Roméo, tanečník, jde opačným směrem, pohvizduje si, otáčí hůlkou, pak jí najednou udeří o zem:
 
 „Alláh ill Alláh – neviděl jsem krásnějšího děvčete. Ale oheň v ní už hoří. Bude moje.“
+
+</section>

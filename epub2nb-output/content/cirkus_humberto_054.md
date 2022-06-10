@@ -3,7 +3,7 @@ title: VIII
 contentType: prose
 ---
 
-  
+<section>
 
 Petříček však přestával být Petříčkem. Najednou mu byly všecky šaty malé, drobná kostra se začala natahovat, tělo překotně rostlo, dohánějíc a převyšujíc nepříliš vysokého tátu. Mozkové buňky, ovládající pohyby, najednou si nevěděly rady se vší tou nově přirostlou hmotou, vlekly nohama, jako by na nich bylo závaží, klátily rukama, jako by to byla cizí tělesa. Bylo potřebí nějaké hmotné posily pro všechnu tu novou váhu a Petříček, ten útlý drobný Petříček, spltl na posezení půl bochníku chleba. Táta, strýc a děda se chechtali, ale Helena se křižovala, že hoch z toho ještě onemocní. Opravdu, nevypadal dobře, pleť mu pobledla a byla plna vyrážek a nečistot. I jeho jemný, mazlivý hlas se mu lámal, chvilku ječel kvičivě ve vysokých tónech, vzápětí klesl a zněl, jako když ochraptí. Ve škole se smáli, že Ellahop kokrhá, a učitel zpěvu ho propustil z hodiny. Helena poplašena všemi těmi změnami zavolala k němu lékaře. Přišel, prohlédl Petříka, proklepal, usmál se, a když ho odeslal, aby se šel obléknout, pravil matce klidně:
 
@@ -72,3 +72,5 @@ Nahoře opravdu přecházel Václav Karas po kanceláři jako lapené zvíře. S
 „Tuhle mám od ní dopis. Prý jí není možno v Praze žít, že prý musím pochopit, že varieté nevyhovuje jejím ideálům, a když prý se i Petřík od ní odtrhává, musí prý zachránit ještě kus svého života.“
 
 „Tak jo, chlapče, to jo. To jela za manéží. Pámbůh té potěš, abys neztratil hlavu. Tak tu zas budeme žít bez ženské jako v maringotce. Ono to bylo pořád nějak na krajíčku – Cirkus Humberto se nezapře.“
+
+</section>

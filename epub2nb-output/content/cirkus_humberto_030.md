@@ -3,7 +3,7 @@ title: XVI
 contentType: prose
 ---
 
-  
+<section>
 
 Berwitz byl po tom vyjednávání v znamenité náladě a toho užil Karas, že z něho vymámil neslýchanou věc: pětidenní dovolenou pro sebe i pro Vaška. Položil ji do mrtvého týdnu mezi vánocemi a Novým rokem, a Berwitz přikývl. Odjeli v noci po svatém Štěpánu, poprvé v životě vlakem. Z Prahy museli ještě po staru, vozem, ale i tu si mohl Karas dovolit nebývalý přepych, jeli do Budějovic poštovským kočárem. Čím více se jim rodné hory blížily, tím byl Karas více rozechvěn. Všecek zjihl a změkl; vždyť do této návštěvy skládal už dva roky tolik nadějí, že ona rozhodne o Vaškově osudu. Těžko, přetěžko je prostému člověku činit tak závažná rozhodnutí. Svědomí je poplašeno a rozum nestačí. Lidé kolem radí, hodní lidé snad, ale odpovědnosti ti z beder neuberou; nad synkem stojíš jen ty a ta mrtvá. A je-li kdo, komu ještě přísluší slovíčko rozhodné, je to jistě jen rodná vesnice. Ta má právem domova nárok na všecky. Všichni jsme se tam narodili, všichni tam patříme, a to nikoli jen úřední cedulí. Vesnické společenství nás vychovalo stejně jako sama máma; věru, že si pak může činit na nás nárok. A Karas ten nárok uznává a ctí; vždyť, bože můj, je to i úleva, že máš za sebou celou tu obec strýců a tet, která ti poradí, když jsi na rozpacích, a okřikne tě, když děláš hloupost. Člověk je hned sám sebou jistější; myslel jsem to dobře, ale ves byla proti tomu, chválabohu, člověk ví, jak se zařídit.
 
@@ -57,7 +57,9 @@ Dost pozdě jdou toho večera spát, dlouho trvalo, než se ze všeho vypovídal
 
 Nazítří má Karas na celý den co kutit ve vlastní chalupě. Je trochu dojat, když ji odemyká a když vstupuje do seknice, která byla kus jeho života. Ale city sem, city tam, tu je hlavně plno prachu a pavučin a tamhle zdá se trochu zatéká a bude se nutno kouknout na střechu. Nu, však se do toho s Vaškem pustí a do odpoledne je všecko v pořádku. Pak se jde ještě na návštěvy, k Márinčinu příbuzenstvu, ke kmotrům a kmotrám; a všude je velké vítání a objímání a všude radost, že jsou oba zdrávi a že se jim dobře daří. A pak ještě jedna noc, a ráno, ještě za tmy, šlapou si to táta se synkem zase dolů do města, do Budějc; tak se tu mějte hezky, vy sněženské chalupy, ať ta vaše zlatá světélka nepohasnou a komíny ať nepřijdou o své kouřové chocholy – my na vás, viď, Vašíčku, nikdy nezapomeneme, a kdybychom i měli cikánit celý život.
 
-  
+</section>
+
+<section>
 
 Po návratu do Hamburku nemohli osmičkáři Karase otce ani poznat, jak ožil a jak se mu jazyk rozvázal. Až se jim zdálo, že snad si doma šťastně namluvil nějakou ženskou – kdepak by tušili, to že se mu jen ulevilo v svědomí. A v té radostnější náladě rychle proběhl masopust, minula zima a první jarní větry přinesly zas přípravy na novou pouť. Tentokráte nejel s nimi Roméo. Berwitz shledal, že má teď s Vašku dosti skokanů v souboru, a neobnovil smlouvu. Bylo z toho mnoho pláče a křiku mezi roméovskou drobotinou, která se nechtěla rozloučit s krásným životem při velkém podniku. Ale během dní se podařilo bdělému otci vypohlavkovat jim z hlavy všecky jejich místní záliby a jednoho čtvrtka stála celá černá rodina kolem modré maringotky, k níž papá Achmed připřáhl zase své koníčky. Kdo byl kolem, každý jim naposled stiskl ruce. Achmed Roméo, syn Mehmeda Roméa, syna Aliho Roméa, syna Omara Roméa, hadžiho, obrátil se k východu a zahlaholil velkou melodií klouzající do půltónů:
 
@@ -96,3 +98,5 @@ Za pár dní nato hnul se i Cirkus Humberto. Když už vozy začaly vyjíždět,
 To byla poslední myšlenka, k níž Karas dospěl, když odjížděl se svým oddílem:
 
 „Jako ten tlustý Hein Moesecke… Zůstat věren Horní Sněžné!“
+
+</section>

@@ -3,7 +3,7 @@ title: XII
 contentType: prose
 ---
 
-  
+<section>
 
 Odjížděli zhruba všichni jako před rokem, i pan Achmed Roméo si znovu plácl s principálem na dalších deset měsíců. Ale nechybělo mnoho a osmička by byla přišla o jednu svou významnou osobnost: seržán Ferenc Vosátka se octl ve velkém pokušení odpadnout a opustit partu i cirkus.
 
@@ -216,3 +216,5 @@ Tenťácká parta šla kus cesty spolu. Na Reeperbahn se odděloval Malina. Spal
 Vrátili se pár kroků a Malina se zdviženým prstem jim zvěstoval:
 
 „Já už vím, jaká v tom byla souvislost. Jak jsem se na toho Lebedu koukal, na tu jeho tlamu, tak jsem si, kdykoli ji otevřel, říkal: Propánakrále, ten by spolk živého králíka. A takhle mi tedy přišla na mysl ta krajta tygrovitá a to pšššš-pšššš. A co se té Marie týče, to ještě musím dodat důležitou věc, aby se na nic nezapomnělo. To, co jsem povídal, to bylo v Babořích, že ano. Ale když jsme potom přišli k řece Rejnu, tak to zas bylo jinačí. Jinej kraj, jinej mrav! Tam jí ti kluci nanosili každé noci králíků, že krajta tygrovitá byla nacpaná jako mikulášská punčocha a vůbec nemohla dělat pšššš-pšššš. A jakorát když byla direktorka natolik pohromadě, že si zas mohla krajtu převzít, to už ji Marie nemohla uzvednout, jak v tom byla. Někde u Trieru jsme ji museli propustit. Však jsem jí na rozloučenou povídal: ‚Vidíš, holka, pořád jsi nechtěla, aby ti krajta tygrovitá dělala pšššš-pšššš, a teď budeš sama dělat pšššš-pšššš u kolíbky.‘ Tak, teď je to všecko v pořádku. Dobrou noc.“
+
+</section>

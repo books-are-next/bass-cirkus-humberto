@@ -3,7 +3,7 @@ title: IV
 contentType: prose
 ---
 
-  
+<section>
 
 Tak se Monsieur Alfred a Madame Sylvia stali nenadále jedinými vládci nad firmou Cirkus Humberto. Podnik měl společnou prací tří generací znamenitý základ a Petr byl odhodlán rozvinout jej podle svých zálib, které se značně lišily od střídmého vkusu jeho otce. Tu zimu, kdy ještě nosili smutek, věnoval pečlivě obnově veškerého zařízení a šití nových, fantastických kostýmů. K pohádkově něžným úborům, které se uchovávaly ještě z dob babiččiných, přibývaly nové, prudkých, silných barev, exotických linií, plné zlata a stříbra a třpytného flitru. Poprvé oblékl Petr uvaděče a sluhy do jednotné zelené livreje, štolby a stájníky do modré, muzikanty do šarlatově rudé. Zároveň začal rozšiřovat zvěřinec.
 
@@ -52,3 +52,5 @@ Petru Berwitzovi bylo by toto vše stačilo k nejvyššímu osobnímu blaženstv
 Tam nalezl Berwitz svou sestřenici Elisu v hlubokém smutku pro smrt svého muže majora Hammerschmidta a v nemalých starostech o budoucnost. Rozřešil to tím, že ji vzal s sebou jako pokladní. Nemohl zapomenouti na to, jaká to byla výhoda, když ještě před několika lety byl Cirkus Humberto spravován a střežen šesti příslušníky rodiny. Věděl sice, že má dobré a spolehlivé spolupracovníky, ale měl to už tak nějak v krvi, že cirkus nemá být pouhý obchodní podnik, že jeho prazáklad odjakživa byla rodina. Anežka to úplně schvalovala, třebaže necítila, co v tom bylo tradičního. A když se z domova dověděla, že její holandský bratránek Frans Steenhouwer dokončil středoškolská studia a místo dalšího učení že chce stůj co stůj do obchodní služby v koloniích, dopsala mu po dohodě s Petrem a Frans Steenhouwer ochotně zaměnil svou touhu po vzdálené exotice za neméně dobrodružné putování s cirkusem.
 
 Tak se Cirkus Humberto ustálil a vykrystalizoval do té podoby, v níž jej našel český zedník Antonín Karas ve dnech, kdy se zimní pobyt v Hamburku končil a všecko žilo v posledních přípravách k jarnímu odjezdu na turné.
+
+</section>

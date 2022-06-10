@@ -3,7 +3,7 @@ title: VI
 contentType: prose
 ---
 
-  
+<section>
 
 „Přála bych si, aby svatba byla tichá,“ pronesla Anežka Berwitzová.
 
@@ -232,3 +232,5 @@ Vlastní svatební hostina byla jen úzce rodinná, prostá a srdečná a netrva
 „A teď, Helenko, teprve máme svůj čas pro sebe.“
 
 „Ano,“ řekla Helenka, „myslím, že není nic hroznějšího než být nevěstou z cirkusu s dvojím představením.“
+
+</section>

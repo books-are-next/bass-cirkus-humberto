@@ -3,7 +3,7 @@ title: VII
 contentType: prose
 ---
 
-  
+<section>
 
 „Pozdrav bůh, inšpektore!“
 
@@ -106,3 +106,5 @@ Pak se zvedli spolu k odchodu, ale před dveřmi se zastavili u nepříjemného 
 „Inu, chlapče,“ odpověděl mu otec, „koukám, co jsme se vrátili, že nám hnije celá bouda!“
 
 Vykročili, ale Vaškovi dlouho trvalo, než se mu vrátila radost z otectví.
+
+</section>
