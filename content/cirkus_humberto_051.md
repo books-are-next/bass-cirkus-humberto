@@ -3,7 +3,7 @@ title: V
 contentType: prose
 ---
 
-  
+<section>
 
 Mohutné fanfárové marše dští trioly do nástupu siláckých atletů, překotné kvapíky ubíhají pod kmitem zlatých kuželů a pod perlením barevných míčků ekvilibristických čísel, valčíky se touživě plouží tmou a ovíjejí mámivou krásu žen na scéně, polky skočmo uvádějí padavé a potácivé komiky, italské, španělské, americké rytmy plní vzduch i sluch dráždivou směsí exotiky od všech oceánů a česká starosvětská sousedská či obkročák tvoří srdečné domácké výplně všeho toho nevídaného a neslýchaného. Baculatý pan Pacák zná svou věc a čeští muzikanti pod jeho taktovkou sviští smyčci, troubí a hudou, bijí v kotle, bubny i střmen se vší tou zpěvně melodickou i tanečně rytmickou vášnivostí, která pulsuje krví lidu, z něhož vyšli.
 
@@ -50,3 +50,5 @@ Hlediště se stmívalo, Karas se odporoučel. Hlava mu šla kolem. Dostat moder
 Vklouzl do své lóže, kde seděla Helena. Naklonil se k ní a rychle, rozčileně jí pověděl, o čem právě mluvil s patronem. Všecek hořel nadšením a cítil přímo fyzickou potřebu sdělit se s někým o novinu tak znamenitou. Vysypal to překotně a radostně stiskl Helence ruku. Ale najednou mu bylo, jako by se octl v prázdnotě. Podíval se na Helenu. Viděl v šeru proti jevišti její krásný profil.
 
 Byl nehybný a bez zájmu.
+
+</section>

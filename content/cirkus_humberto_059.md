@@ -3,7 +3,7 @@ title: XIII
 contentType: prose
 ---
 
-  
+<section>
 
 V těch letech kolem šedesátky, když vede svůj tajný boj o vnučku, mění se Václav Karas i jako ředitel. Už mu tak nezáleží na vrcholných výkonech, spokojuje se i menším vzepětím sil, jen když je v něm půvab. K věcem i lidem dostává jiný poměr, ne už tak řeholně přísný jako v letech nejtvrdší mužnosti. Nevidí na scéně jen mistrný lidský stroj, nýbrž i živé bytosti s jejich nedostatky. Není pro něho žádného tajemství profese. Zná všecky vynikající artisty Evropy, většina z nich pracovala u něho v cvičném letním kursu a všichni jsou do jisté míry jeho odchovanci. Když vchází do šaten svého divadla, je to, jako by vstupoval do rodiny. Shledá se tu s mladými atlety, jejichž otcové i matky bývali před lety u něho v angažmá. Najde staré, zkušené artisty, kteří sem v létě přijedou trénovat své syny. Rozhovoří se s cizím člověkem a za chvíli se ukáže, že zná jeho strýce, švagrovou a bývalého společníka. Firmy se mění, ale lidé zůstávají na evropské šachovnici a od programu k programu se posunují nejrůznějšími směry. Václav Karas sleduje tyto pohyby a vidí z nich, které číslo stoupá ve slávě a které dohořívá. Vidí pauzy nemocí a nehod po Evropě a ve svých šatnách se dovídá všecky podrobnosti. Jde-li o přítele – a kdo z vedoucích se s ním nespřátelil! –, Karas nelituje a napíše mu pár srdečných řádek. Artisté trpí opuštěností a za vzpomínku ve zlých časech jsou vděčni až do smrti.
 
@@ -70,3 +70,5 @@ Slovo proletělo vzduchem jako vymrštěná dýka. Vašku sebou trhl, jako by by
 Pan Dvořák tomu nerozuměl, ale pochopil. Dveře se otevřely a Paolo Roméo vyletěl na chodník.
 
 „Milý příteli,“ řekl po návratu Karas sekretáři, „když jsem vám včera řekl, že dnes uvidíte finále pračky po padesáti letech, nemyslil jsem, že to bude doopravdy. Ale netušil jsem také, že se z Paola stal takovýhle ničema. Nu, vyřídili jsme půlstaletou aféru a slovo dablkau je myslím škrtnuto ze slovníku. Mohu tedy klidně jít na oběd. A až mě tu jednou nebude,“ dodal Vašku vesele, „dejte přeměřit tento pokoj. Myslím, že to byl můj nejdelší skok bez trampolíny.“
+
+</section>

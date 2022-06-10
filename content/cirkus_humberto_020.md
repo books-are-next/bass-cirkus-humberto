@@ -3,7 +3,7 @@ title: VI
 contentType: prose
 ---
 
-  
+<section>
 
 Museli přiznat Achmedu Roméovi, že Vaška zbytečně netýral. Věděl, že protahování svalů, ohýbání páteře a uvolňování kloubů jsou strašně bolestné procedury, a znal ze zkušenosti, kolik dětí se přitom vyděsí tak, že s tuhostí těla ztratí i odvahu ducha. Ale není nic pro pohled truchlivějšího než dítě, které dělá své povinné kejkle jen proto, že musí a že se bojí. Čím okamžitě vítězili arabští, berberští a marokánští akrobaté, když v celých rodinných skupinách vtrhli do evropských cirkusů a pouťových buď, to byla právě ohnivost jejich produkce, divoký zápal, který přecházel už i na malá batolátka, že sama nabíhala na zdvižené nohy otce ležícího zády na zemi a vyžadovala si, aby jimi aspoň pohazoval ve vzduchu. Ikarská produkce se rozvinula vždy jako bouřlivé víření v přemetech a skocích a Achmed dbal, aby žádný z jeho žáků neztrácel, čemu sám říkal plamen. Sám někdy, když leže na zádech chytal a vyhazoval svá děcka a hoši kroužili vzduchem a přeletovali se, byl zasažen dravostí produkce jako horečkou, byl zachvácen tempem jako posedlostí, že najednou začal s hlavou na podložce zpívat súru koní z koránu: „Při koních soptících, kopyty jiskřících, při koních šturmem se za jitra ženoucích, při koních ve cvalu v prachu se kryjících, při koních čelo vojsk vítězně bíjících!“ A nohy Achmedovy pak hrály furioso a děti lítaly jako meteory a produkce byla jako ohňostroj a lidé začínali tleskat, ještě než Achmed dozpíval súru.
 
@@ -124,3 +124,5 @@ Hans také vycítil, že by Vašku mohl být zesměšněn, a proto dodal:
 „Dobře, Vašku. Nedej se. A uslyším-li to já od někoho, nevemu si na něho bič, ale lonžový řemen. Alou každý po svém!“
 
 I shledal Paolo, že je nutno ještě více nenávidět Vašku, neboť všichni mocní se ho ujímají proti hochům, kteří umějí víc. Ale je třeba si dát pozor, protože Vašku má zřejmě hroznou sílu a byl by snad krásného Paola zabil.
+
+</section>

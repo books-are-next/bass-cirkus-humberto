@@ -3,7 +3,7 @@ title: VII
 contentType: prose
 ---
 
-  
+<section>
 
 Kdyby byly postupně uhynuly všecky kořínky, které udržovaly štíhlou bylinku Helenina života v plné síle, o jednom věřila, že nezajde a zajít nemůže. Byla to její láska k Petříčkovi. Ale také tu začínal osudný chod věcí nahlodávat.
 
@@ -50,3 +50,5 @@ A přišly mocniny a odmocniny, _x_ na druhou, _x_ na třetí, Pythagoras geomet
 Tak zazněl v jeho domácím výkladě slavný pythagorský „oslí můstek“ a Heleně to bylo jako tajemné heslo zasvěcenců třetího stupně. U Pythagorovy věty se skončilo všechno dorozumění; co kdy pak pronesl její přemoudřelý syn, všechno bylo u ní jako v sektě pythagorejců autós éfa, ipse dixit, „sám to řekl“ – nezbývalo než přikývnout a uznat.
 
 A pak už byl koníček Čao jediný tvor, jemuž se mohla Helena vyzpovídat, jemuž si mohla postesknout a požalovat na to, jak je tu opuštěná a osamělá.
+
+</section>

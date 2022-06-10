@@ -3,7 +3,7 @@ title: X
 contentType: prose
 ---
 
-  
+<section>
 
 Dva zlaté copy se zapletly v těžký vrkoč, do oušek vklouzly tyrkysové náušnice, ruka s pudřenkou přejela po hrdle a po čele a dvě vlahé oči se rozzářené zhlížely v zrcadle, které obráželo mladou, kypivě baculatou postavičku, za níž mateřské ruce už natřásaly večerní šatečky ze světle modrého hedvábí. Poprvé do tanečních hodin – to byl pramen opojivého rozčilení slečny Emílie Kostečkové i její matinky Marie Kostečkové, rozené Varhanářové, choti továrníka pánského prádla a kravat Jaroslava Kostečky v Praze II, Těšnov 17, sklad a detail Praha I, Celetná 47.
 
@@ -46,7 +46,9 @@ rovnici Života, než rozřeší ji Styx,
 mé letí verše, o nichž nevíte,  
 nesouce Touhu mou po luzném onom X._
 
-  
+</section>
+
+<section>
 
 No prosím. Tak se mi zdá, že by to Vrchlický na naši Emilku líp ani nenapsal.“
 
@@ -58,7 +60,9 @@ Pomalu, uznale pokyvuje hlavou, přečetl továrník Kostečka ještě tři slok
 
 _K Vám, krásná Neznámá, jež blahem plníte…_
 
-  
+</section>
+
+<section>
 
 říkala jsem si: Bože, bože, jestlipak tebe kdy potrefilo takové štěstí, aby tě někdo opěvoval…“
 
@@ -147,3 +151,5 @@ Když se Petr Karas kvečeru rozloučil, přišly matka s dcerou za tatíčkem, 
 „Je génius,“ řekla dcera.
 
 „A la bonne heure, snad to unesem,“ řekl otec.
+
+</section>

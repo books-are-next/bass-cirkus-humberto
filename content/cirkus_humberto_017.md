@@ -3,7 +3,7 @@ title: III
 contentType: prose
 ---
 
-  
+<section>
 
 To si Karas hned první den Vaškova cvičení zaskočil k modré maringotce, aby viděl, jak to synovi jde. Ale co spatřil, nad tím mu srdce ustrnulo hrůzou. Ten Berber, ten machometán stál tam u schůdků, levou nohu měl o jeden z nich opřenu, že mu šlo stehno vodorovně. A Vašek ležel zády přehozen přes stehno, hlava a ruce mu visely na jedné straně, nohy na druhé a ten divoch, ten násilník tiskl mu oběma rukama hrudník a kolena dolů, nic jinak, než jako by chtěl Vaškovi zlámat páteř.
 
@@ -138,3 +138,5 @@ Kluk před ním přimhouřil oči a vteřinu mlčel. Pak zvedl prst a s chlapeck
 Karas zmlkl a zadíval se před sebe. V duchu viděl kornaka Arr-Šehira mezi černými sloupy sloních nohou a slyšel jeho zpěvavý hlas:
 
 „Vznešené věci jsou plny tajemství. Projdeš-li utrpením a poznáním, jsi jiný člověk, jsi o stupeň výš.“
+
+</section>

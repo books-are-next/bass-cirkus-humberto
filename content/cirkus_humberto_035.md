@@ -3,6 +3,8 @@ title: IV
 contentType: prose
 ---
 
+<section>
+
 _Má drahá, nejdražší Růženko!_
 
 _Především Tě stotisíckrát pozdravuji a líbám a také Tvé milé mamince posílám své pozdravení. Taky táta se dává poroučet i pan Bureš. Jsme teď už třetí den v Curychu ve Švýcařích a pobudeme zde ještě pár dní, mám tedy víc času, abych Ti mohl psát._
@@ -28,3 +30,5 @@ _Tvůj věčně po Tobě toužící_
 _P. S.  Než jsem toto psaní moh odeslat, sekla mě Kambodža prackou do levé paže a trochu mi rozedrala maso. U Berwitzů mě ošetřili. Buď klidná, nic to není, vidíš, že Ti mohu psát._
 
 _Buď s B., moje milov.!_
+
+</section>

@@ -3,7 +3,7 @@ title: V
 contentType: prose
 ---
 
-  
+<section>
 
 Žhavé léto míjí, den za dnem z něho uplývá se stříbrnými vodami řeky Rýnu. Požehnaný podzim nadchází, na stráních zlátnou a zamodrávají hrozny. Ráno se podél vod plouží mlhy a oddíly Berwitzovy karavany zapadají do ní jeden po druhém. Kde se silnice níží, není vidět na deset kroků. Proud koní a vozů se trhá a Kerholec jde ostrým klusem od zadního houfu vpřed, aby každému oddílu pověděl, kde se bude odpočívat, kdyby ztratili styk s předními. Kůň, na němž jede, je Admirable, trakehnský hřebec, který má klus, jako by se vznášel. Už minuli vedoucí skupinu, ale Kerholec se nezastavuje. Jaká to rozkoš, letět takto tím chladným, svěžím jitrem! I Admirable cítí blaho z pohybu, pofrkává si a pohazuje hřívou. Teprve daleko vpředu, osamělý a ztracen v mlze, Kerholec se napřimuje a Admirable poslušně přechází v krok. Za nimi buší údery kopyt v plném cvalu. Kerholec zabočí s koněm k pravému okraji silnice. Z šedé clony se vynoří Anežka Berwitzová na Chérii. Jak míjí Kerholce, převede koně v klus a o kus dále jej zastaví. Pootočena v sedle čeká, až Kerholec dojede.
 
@@ -222,3 +222,5 @@ Vašek stál úplně ustrnulý. Pan Wollschlӓger se na něho díval a jeho pohl
 „Ubohý, ubohý hochu, já chápu tvou bolest. A nemohu ti ji utišit žádným balzámem. Zavrhneš štěstí a nezískáš nic než trudnou starost. Ani jmění tě nečeká, ani pohodlí, ani klid a bezpečnost osudu, jen zápas, zápas, zápas. Ale tak teprve najdeš sám sebe. Dobrou noc!“
 
 Pan Wollschlӓger zavřel vrátka, otočil klíčem, po chrupavém písku lehkým krokem došel k domku a zmizel. A Václav Karas stál, pak se opřel o sloup branky a plakal.
+
+</section>

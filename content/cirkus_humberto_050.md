@@ -3,7 +3,7 @@ title: IV
 contentType: prose
 ---
 
-  
+<section>
 
 Nejspokojenější v novém prostředí byl snad Antonín Karas. Jeho první čin byl, že před prahem ředitelny, než do ní vstoupil, vyňal portmonku a těžkými prsty z ní vylovil papírek. Rozbalil jej: byl v něm lesklý dvacetifenik. Ten dvacetifenik, jejž Vašku dostal, když poprvé nosil lvíčata. Nyní vytáhl Antonín Karas z kapsy kladivo a hřebík, poklekl a památný ten penízek přibil pro štěstí na práh. Pak teprve vstoupil dovnitř.
 
@@ -32,8 +32,12 @@ a miluješ legraci,
 zajdi sobě na výstavu  
 po té denní štrapáci…_
 
-  
+</section>
+
+<section>
 
 A večer jim všechny kapely ve výstavních restauracích a vinárnách musely znovu a znovu hrát Šeborův pochod „My jsme páni od fontány…“ Kuplet, který se stal hymnou.
 
 Výstava žila, ale co nebylo v jejím ohnisku, pohasínalo. Také Théâtre Variété Humberto na kraji Karlína zůstalo bez návštěv a Václav Karas doplatil na ten pokus vydatnou částí svého zisku. Pak na něj poprvé dolehlo, co dosud za celého života nepoznal: neměl co dělat. První týdny se pokusil užít světa jako ti druzí. Denně putovali s Helenou na výstaviště. Ale to bylo příliš málo pro jejich energické povahy. Dali tedy Petříčka do opatrování dědečkovi Karasovi, který s ním odjel na prázdniny do Horní Sněžné. A Vašek s Helenou se pustili na cestu Evropou, hledat v lázeňských městech letní divadla rozmanitostí a na různých místech roztoulané cirkusové podniky a vyhlížet si v nich nové, neznámé síly pro příští pražské programy.
+
+</section>

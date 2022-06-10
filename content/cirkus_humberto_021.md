@@ -3,7 +3,7 @@ title: VII
 contentType: prose
 ---
 
-  
+<section>
 
 Historka s dvojitou krávou byla švanda, která měla vážné pozadí: Vašek čím dál tím víc mluvil řečí, která nebyla žádný jazyk. V cirkuse užívali všichni hantýrky, která byla složena z francouzských, italských a anglických výrazů, čeští dělníci do svých českých rozhovorů vplétali pokroucená německá slova, ale Vašek k tomu všemu přibíral, dontérem počínajíc, všeliké výrazy ze všech řečí, které kolem sebe slyšel. A volalo se tu i hovořilo francouzsky, anglicky, italsky a španělsky, Gevaertsové spolu mluvili švédsky, paní Berwitzová se Steenhouwerem hovořívala holandsky, Roméo klel nebo se dovolával boha arabsky a turecky, Cirkus Humberto byl jako jazyková archa Noemova, kde měli od každé řeči do páru. Dospělí si na to navykli, ale u hocha, který v tom žil jako Vašek, nastávalo z toho v hlavě babylonské zmatení. Někdy promluvil tak, že mu už vlastní táta nerozuměl a musel si to dát přeložit; ale když Vašek začal říkat i „mašalah“, uznal Bureš, že už je nejvýš na čase ochránit jeho českou dušičku před úplným zmatkem.
 
@@ -173,3 +173,5 @@ mečem skončit dnes život má._
 Pět dospělých mužů naslouchalo dál, jak byl rytíř Horymír odsouzen k smrti, že zapálil stříbrné doly, a jak si vyžádal jako poslední milost, aby se směl projet na svém Šemíku, a jak pak s ním přeskočil vyšehradské hradby i skálu a všichni jen „spatří letět ho k Radotínu“. Pěkný rytmus Jana Jindřicha Marka je ukolébal v příjemný poslech, že se jim to velmi líbilo; ale vtom už se prodrala skutečnost jejich sněním a seržán Vosátka luskl prsty:
 
 „Hombre, seňores! Abych vám řekl, tohle byl asi náramný cirkusák! Tady nejde jen o ten skok, ale o tu celou reklamu. Když lid všechen spěchal k Vyšehradu, co je to, pánové, jiného, než že kolega Horymír uměl své číslo dobře prodat!“
+
+</section>

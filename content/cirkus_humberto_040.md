@@ -3,7 +3,7 @@ title: IX
 contentType: prose
 ---
 
-  
+<section>
 
 Rozměrné úřední psaní v tuhé obálce s pěti pečetěmi bylo odevzdáno na staroměstské poště v Praze a na hlavní poště vloženo do pytle se zásilkami do Německa. Pytel byl ve vlaku hned za hranicemi otevřen, jeho obsah rozdělen a tento dopis položen na hromádku určenou do Hamburku. V Hamburku však škrtli jeho bližší adresu a poslali jej do Gdaňska. V pevnosti Gdaňsku zaváhal nad ním úředník, nemá-li jej odevzdat vojenské cenzuře, ale pak ho napadlo podívat se do jakési pomocné knihy pod písmenu C, načež opět škrtl adresu a předepsal dopisu cestu do Varšavy. Psaní s pěti pečetěmi překročilo carské hranice, dospělo do Varšavy, povalovalo se tam na stole dva dny. Několik úředníků si na něm prohlédlo známky, razítka i pečeti, až se konečně jeden z nich vzmohl k prohlédnutí jakési listiny psané azbukou, a škrtnuv německé Warschau, připsal tiskacími písmeny Lwów. Psaní pak putovalo poštovními vozy na jihovýchod, překročilo opět hranice rakousko-uherského mocnářství a uvízlo na lvovské poště. Odtud bylo novým škrtem vypraveno příštího dne do města Černovic v zemi Bukovině. Dospělo tam s pečetěmi značně otlučenými, rohy zulámanými, na několika místech natrženo. Tam se dostalo konečně do rukou vousatého listonoše, který si je vytáhl z ostatní pošty, prohlédl na líci i na rubu, načež se zamyslil a položil je stranou. A když byl hotov s roznáškou, vzal zvlášť tento umačkaný, poškrábaný dopis v úřední obálce a nesl jej dolu do města, na volné prostranství při řece Prutu, kde se klenul stan s nápisem Cirkus Humberto. Listonoš chvilku okouněl, pak šel k vozu s pokladnou, oznámil staré dámě v okénku, že přináší důležitý úřední dopis, že s ním šel zvlášť, aby byl dodán okamžitě, a že by snad za to mohl dostat na večerní představení volný lísteček. Stará dáma prohlížela dopis velmi nedůvěřivě, pak prohlásila, že jí se to netýká a že si má vyhledat pana placmistra Kerholce.
 
@@ -124,3 +124,5 @@ Bureš se všecek rozhořel a rozsvítil. Radost přešla z něho i na ostatní 
 Trvalo to ještě dost dlouho, než to starochovi objasnili a než přistoupil na novou skutečnost, že Honza Bureš, tenťák, je ode dneška Vladimír Smetana, pražský mlynář a statkář – a než pak vzal na vědomost Burešovo ujištění, že se na jejich poměru tím nic nemění. Ale ještě když se pak rozcházeli do maringotek, vracel se Malina k svým základním pravdám a uléhaje s Burešem opakoval:
 
 „Povídky nemají být. Je z toho jenom matení.“
+
+</section>

@@ -3,7 +3,7 @@ title: XV
 contentType: prose
 ---
 
-  
+<section>
 
 Pan Gaudeamus přijel nenadále z Berlína a rovnou z nádraží šel za ředitelem Berwitzem.
 
@@ -112,3 +112,5 @@ Když se Petr Berwitz o půl čtvrté ráno vracel domů, měl nový cylindr dok
 „Nesmysl…,“ brumlal Petr už v peřinách, „teď, v tuhle chvíli, bych dovedl pistolí prostřelit prsten…“
 
 Nicméně zítra při pantomimě se mu poprvé stalo, že střelil a rána šla o chlup mimo.
+
+</section>

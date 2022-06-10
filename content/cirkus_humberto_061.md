@@ -3,7 +3,7 @@ title: XV
 contentType: prose
 ---
 
-  
+<section>
 
 Depeše z Berlína oznamuje, že tanečnice Ludmila Humberto měla o svém debutním večeru nesmírný úspěch. Václav Karas má telegram rozprostřený před sebou na stole. S bradou opřenou o sepjaté ruce zírá na ten papír a usmívá se. Čte ty dva řádky znovu a znovu, pak se mu rozplývají a papír depeše se nějak rozlévá. Václav Karas jako by se díval na velikou mapu, v mapu svého života.
 
@@ -242,3 +242,5 @@ Oči zestárlého jezdce Vašku se zatřpytily vzpomínkou. Najednou je viděl v
 „Bude to jméno, pane řediteli, které mi zní nejkrásněji. A které, jak teď slyším, bylo mi přímo osudem souzeno: Stáj Humberto.“
 
 „Stáj Humberto!“ vykřikl sedmdesátiletý Vašku. „Stáj Humberto! Děti, to ještě jednu skleničku k jejímu zdaru. To je opravdu velkolepé, jak to jméno jde a žije a přetváří se znovu a znovu jako určené pro nesmrtelnost. Hotový fénix! Zvěřinec, cirkus, varieté, tanec a teď závodní stáj. Pořád něco, kde hoří ohýnek dokonalosti. Pořád něco, kde se nežije jen pro tu skývu denního chleba. Pořád něco, kde se chce výš! To je vlastně, co jsem v tom jméně ctil a miloval! Na zdraví, děti! Svět je krásný, plameny nehasnou – Cirkus Humberto bude žít věčně!“
+
+</section>

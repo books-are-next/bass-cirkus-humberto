@@ -3,7 +3,7 @@ title: XIII
 contentType: prose
 ---
 
-  
+<section>
 
 Mladý Krčmářík a Cerha z Horní Sněžné, stavěči stanu, jedou vpředu jako švédští rejtaři, v černých širácích s vlajícími pštrosími péry, ve vysokých botách, jež jim jdou do půl stehen. Oba mají trubky od hradeckého pana Červeného, a to se tedy jejich troubení třepotá hamburskými ulicemi až za pátý roh a lidé přibíhají, aby spatřili pestrou kavalkádu, návrat Cirkusu Humberto do zimního sídla.
 
@@ -251,3 +251,5 @@ _Tvůj srdečně Tě líbající_
 
 Vladimír Smetana _alias_ Jan Bureš,  
 _mlynář a měšťan pražský_
+
+</section>

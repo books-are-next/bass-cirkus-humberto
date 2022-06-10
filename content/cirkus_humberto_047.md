@@ -3,7 +3,7 @@ title: I
 contentType: prose
 ---
 
-  
+<section>
 
 _Míjí právě sto let_ od onoho roku 1790, kdy zestárlá herečka slečna Montansierová, pravým jménem Marguerite Brunet, zaměnila nevděčnou úlohu milovnice za ošemetnější roli podnikatelky a zřídila v pařížském Palais Royal divadlo, které nazvala Théâtre des Variétés. Stala se tak kmotrou divadelnímu stvoření, jež nebylo ještě donošeno, zjevilo se v hýřivé Paříži bez pevného tvaru a výrazu a nejasně si hledalo cestu k životu. Nejprve pěstovalo hrubě pikantní operety a frašky, po jejichž trikotové lascivnosti přišel pravý opak, nevinné jeux forains, jarmareční hry, kde akrobati a cvičená zvířata měli vzrušit unavené nervy obecenstva. Palais Royal se stal kolébkou nejen Velké revoluce, ale i tohoto drobného umění, které pak tři čtvrti století zápasí o právo žít i mimo kruhovou manéž cirkusu. Císařství se staví až do tragédie sedanské naplno na stranu manéže. César a cirk se zdají Napoleonu III. nerozlučnými pojmy. A teprve když zpívající pódium koncertní kavárny, když bláznivé improvizace umělců v montmartreské krčmě U černého kocoura navyknou publikum na pestřejší a fantastičtější pořad, nachází i divadlo rozmanitostí svou pevnější půdu, vyrůstá z ní v odlišný typ a pak náhle přeskakuje hranice rodné země, aby všude ve velkých městech zapouštělo své šlahouny a odnože.
 
@@ -80,3 +80,5 @@ Vašek tedy vyprávěl, jak došlo k jeho rozhodnutí a jak pak pomalu, kus po k
 „Smrt měl věru krásnou…“
 
 „A po smrti krásnější shledání – když mu šimlíček v nebi po česku zařehtal!“
+
+</section>

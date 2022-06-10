@@ -3,7 +3,7 @@ title: XIII
 contentType: prose
 ---
 
-  
+<section>
 
 Malá Helenka Berwitzová se vrací k jezdecké práci. Celou zimu byla jí ušetřena, aby se výhradně mohla věnovat cvičení u madam Delaglio.
 
@@ -196,3 +196,5 @@ Dole přišel pan Hamilton a volal na kohosi, že je manéž volná. V gardině 
 „Já ti to povím, Helenko, abys viděla, jaký je Paolo. Ty děláš chybu, že se chceš dostat nahoru rovnýma nohama. Musíš se levou nohou odrazit a pravou ve skoku zvednout nahoru. Takhle, koukej.“
 
 A krásný Paolo jí dole předvádí tajemství, které se včera dověděl od Vaška. A Helenka si to zkouší, zatím jen tak, a pak letí domů. Je jí do zpěvu, protože se domluvila s Paolem, bude primou balerínou, Paolo ji unese a Paolo je vůbec nádherný hoch, který se nebojí rány a který jediný ví, jak skákat žokejský skok.
+
+</section>

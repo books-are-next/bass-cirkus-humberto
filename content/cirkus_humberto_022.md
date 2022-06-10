@@ -3,7 +3,7 @@ title: VIII
 contentType: prose
 ---
 
-  
+<section>
 
 Paní Anežka Berwitzová byla smutná: jedno ze tří lvíčat zašlo. Bylo od narození slaboučké, zimomřivé, nijak se nemělo k světu jako obě druhá. Běžela si s tím postesknout ke kapitánu Gambierovi. On jen pokrčil rameny.
 
@@ -104,3 +104,5 @@ Jen jediný člověk si jí nevšímal, ač seděl na schůdkách přímo proti 
 Paní Hammerschmidtová se na něho podívala, ale neřekla nic a pomalu odcházela k pokladně. Před očima jí vyvstal tetovaný kapitán. A povzdechla si:
 
 „Ten Malina je docela moudrý děda.“
+
+</section>

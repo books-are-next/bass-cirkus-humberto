@@ -3,7 +3,7 @@ title: XIV
 contentType: prose
 ---
 
-  
+<section>
 
 O nečekaném setkání s donem José Lebedou se mezi osmičkáři za zády Vosátkovými mnoho mluvilo. Odhalilo jim kus minulosti, o níž kamarád mlčel.
 
@@ -231,3 +231,5 @@ _Tvé oči černé se mne ptají,
 ty oči tvé mne prosí též,  
 ty oči tvé mnou pohrdají  
 a očima mne zabiješ!_
+
+</section>

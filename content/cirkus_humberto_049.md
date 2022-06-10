@@ -3,7 +3,7 @@ title: III
 contentType: prose
 ---
 
-  
+<section>
 
 Pan Dvořák, portýr divadla Varieté, zaslechl, jak před vchodem zastavila drožka. Vykoukl oknem a viděl, že z drožky vystupuje starší pán, pán tak ušlechtile krásný, vznešený a důstojný, jako by to byl sám státní rada Goethe. Karlínský pan Dvořák sice neměl tušení, že byl nějak v státní rada Goethe, ale pochopil, že je to významná návštěva. Proto vyšel z vrátnice, otevřel dveře a hluboce se uklonil.
 
@@ -92,3 +92,5 @@ Pak přišla chvíle, kdy Bimbam přestal filozofovat a zalezl do své šatny, a
 „Co tedy pro příští rok? Zavážete se nám na celý měsíc?“ ptal se ho Václav Karas, když se program končil.
 
 „Ano,“ plácl pan Bimbam Bimbam do nastavené dlaně, „a stačím-li si vymýšlet nové věci, chtěl bych tu být každý rok. Pracovat pro toto divadlo a pro tohle publikum.“
+
+</section>

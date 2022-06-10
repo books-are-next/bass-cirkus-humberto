@@ -3,7 +3,7 @@ title: XI
 contentType: prose
 ---
 
-  
+<section>
 
 Karas otec, Karas syn radostně vtáhli do kvartýru paní Langermannové. Konečně se zas budou moci po chuti natáhnout na slamníku v řádné posteli! Vdova je uvítala s velkou srdečností. Nevedlo se jí dobře, co česká parta odtud zmizela. Neslyšela nic o osudu Milnerových zedníků a nevěděla také, jak se daří Karasům u cirkusu. S podnájemníky neměla štěstí, žádný solidní pán se nevyskytl, samí přelétavci, většinou z lodí, nezaměstnaní stevardi a námořníci, kteří tu přespali pár nocí, než se někde uchytili nebo než jim došly peníze a museli na herberk; věru, nebylo oč stát. S Karasy jako by se vracel zásvit starých klidných časů. A ke všemu byli teď větší páni, byli umělci. To si vdova nedala vzít, že pan Karas je umělec, když troubí v kapele. Měla zbožnou úctu k hudbě. Nebožtík pan kormidelník Langermann hrával na tahací harmoniku a to bylo tak krásné – kolikrát se tehdy rozslzela, když seděli spolu v kuchyni na pohovce, na stole voněla bábovka a pan kormidelník Langermann hrál na ten námořnický klavír a zpíval: „Et wasen twei Kunnigeskinner, de hadden enander so leef.“
 
@@ -61,3 +61,5 @@ Přes to, jak byl zkřesán, šel Hans s červenou vestou večer znovu na pivo. 
 Jak zima míjela, vzpomínal Karas, že zanedlouho začne Milner obcházet vesnice a sestavovat partu. Snad je Karas tady ještě zastihne, snad se tu setkají a snad se tím urychlí rozhodnutí. Zatím o tom nesměl ani muknout, protože mu kdekdo vykládal, jak se Vaškovo číslo osvědčuje, jak se lidem líbí a jak se i Vašek v něm denním cvikem zdokonaluje, že je to všecko teď jaksi kulatější a plynnější než v prvních dnech a že to bude znamenitá akvizice pro jarní turné. O tom už všelicos proskočilo, pan Gaudeamus byl pořád jako na koni, říkalo se, že se pojede tentokrát na východ, do Polska a jinam; Karas se ve svých nejistotách ustavil na tom, že to ponechá řízení božímu. Objeví-li se tu Milner, než odjedou, nasadí všecko, aby se vrátili k zedničině; dá-li osud, že odjedou dřív, jaká pomoc, bude čekat na jinou příležitost. Jedno zlé však viděl: stavby se v Hamburku nehýbaly. Ve volných chvílích mu nedalo, obcházel volná staveniště v městě a kolem něho, ale musel si přiznat, že se nikde ani motyka nehne, aby připravila zednické dílo. Přijdou-li krajani, patrně pořídí zase špatně; a jasné vědomí téhle skutečnosti ho znovu tlačilo k cirkusu jako k záchraně.
 
 Tak stále kolísal v nejistotách o sobě a o Vaškovi, až jednoho slunného dne hlásil Kerholec rozkaz připravit maringotky a nastěhovat se do nich. Milner se neobjevil. A oba Karasové se rozloučili s paní Langermannovou i s Růženkou a pustili se na druhou pouť s Cirkusem Humberto.
+
+</section>

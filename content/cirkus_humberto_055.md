@@ -3,7 +3,7 @@ title: IX
 contentType: prose
 ---
 
-  
+<section>
 
 Strýc Steenhouwer byl útěkem Heleniným všecek roztřesen.
 
@@ -36,21 +36,27 @@ Jednou se přihodila maličkost, která však velmi Karase zaujala. V poště le
 _Když volá tamtam,  
 volá sem-sem.                                                           Seržán Vosátka_
 
-  
+</section>
+
+<section>
 
 Karas prohlížel lístek ze všech stran, zanesl jej do staré humbertovský party, všichni to četli, zkoumali a obraceli, ale jen vrtěli hlavou a výklad nenašli. To dvojverší zůstalo záhadou. Smáli se, to že byl asi Ferenc řádně natrunčen, když si vzpomněl na pražské přátele a zablábolil na pohlednici takový nesmysl. Vašek však tomuhle nevěřil. Rukopis byl pevný a energický, adresa i text byly napsány pečlivě a čistotně. Naplňovalo ho to neklidem. Pohlednice stále ležela na jeho stole jako věc nevyřízená; a večer, když uléhal, ozvalo se mu vždy znovu:
 
 _Když volá tamtam,  
 volá sem-sem._
 
-  
+</section>
+
+<section>
 
 Co vlastně dělá Ferenc Vosátka, kdysi tulák a dobrodruh, nyní velký hamburský restauratér? Co dělá Hamburk, který jim byl tak dlouho zimním domovem? A co dělá – a Vašku jako by to i v myšlenkách jen tichounce zašeptal – Růženka? Pojala ho touha zajet si tam a podívat se po tom milém, starém působišti. Mohl to podniknout jako zájmovou cestu, hamburské varieté mělo teď slavnou pověst a v jeho programech vždy bylo něco, co stálo jiným direktorům za zhlédnutí. Ale Vašek věděl, že tenhle profesionální důvod bude jen záminka a že ho víc vábí melancholická vzpomínka. Odsouval tu cestu na vhodnější dobu, ale čím déle ji odkládal, tím naléhavěji mu v mysli znělo Vosátkovo dvojverší. A zdálo se mu, že v tom vábení do dálky je právě jeho záhadný smysl:
 
 _Když volá tamtam**,  
 **volá sem-sem._
 
-  
+</section>
+
+<section>
 
 A jednoho dne se rozhodl, zařídil věci na nejbližší dny a odejel.
 
@@ -113,7 +119,9 @@ Zamlklé oči klouzaly pomalu po jeho postavě.
 _Když volá tamtam,  
 volá sem-sem._
 
-  
+</section>
+
+<section>
 
 Vosátka slyšel kubánské bubny svolávat do zápasu a šel za jejich voláním. A co mu vzkázal… Věděl seržán, co se děje s Helenou? Dává jemu Vaškovi, vinu? Nebo jen tušil, že se něco takového může stát, a chtěl Vaška upozornit? Odejel-li více než před rokem, sotva znal jejich případ. Staří tenťáci si nedopisovali. Pak tedy jen předpokládal, že ke krizi u nich muže dojít, a chtěl ho vyburcovat. Měl pravdu, to Karas uznával: kdyby Vašku nebyl tak posediv svým divadlem, poznal by asi dřív, co v Heleně zrálo.
 
@@ -174,3 +182,5 @@ A doprovázeje pak Vašku ke dveřím, omlouval se mu při loučení:
 Seběhl dolů, vyrazil na ulici, za rohem zastavil drožku a dal se dovézt do hotelu. Cestou však na jednom místě zaťukal na kočího, aby zastavil. Spatřil lahůdkářský krám s koši vína ve výkladě. Vešel rychle dovnitř, vybral ten největší a nejbohatší, s rýnským, moselským a šampaňským, s čokoládou, datlemi, fíky a pomeranči, dal obchodníku adresu paní Růženy Jӧrgensové, choti pana kormidelníka Jӧrgense, zaplatil, dojel do hotelu, rychle sbalil své věci a o půl sedmé seděl v rychlíku, který jej vezl ku Praze.
 
 Teprve v jídelním voze si uvědomil, že vůbec nebyl v hamburském varieté a že poprvé nadiktuje strýci Steenhouwerovi falešnou položku do účtu režie.
+
+</section>

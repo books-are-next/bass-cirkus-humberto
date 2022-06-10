@@ -3,7 +3,7 @@ title: XIV
 contentType: prose
 ---
 
-  
+<section>
 
 Karasovo Vašek z Horní Sněžné je tedy velkým pánem, je direktor. Ale sám se tomu jen trpce pošklebuje, když mu Kerholec tiskne blahopřejně ruku a když vzpomíná, že mu to prorokoval. Jakápak sláva s direktorstvím, když je to vlastně jen pro likvidaci. Nicméně v Kerholcovi hrají ještě staré žilky, a míní tedy, že by se to mělo přece jen zapít. Vaškovi se nechce, ale nakonec se shodnou na půl cestě: po představení půjdou do tátova vozu, uvaří si punč a vzkážou pro seržána Vosátku. I sedí pak ti tři staří cirkusoví mroži se svým dorostlým tuleněm zase jednou pohromadě na čtyřech kolech, v železných kamínkách to důvěrně praská, ze sklenic se kouří a v tom dýmu jim vyvstává uplynulý život, život zaplněný prací a dřením, a přece krásný, pestrý, měnivý a veselý.
 
@@ -72,3 +72,5 @@ Všichni se znovu obrátili k Berwitzovi. Patriarchální zřízení cirkusu ned
 Bylo to rozhodnutí podmíněné, ale za deset dní věděli, že je konečné. Vašek uspořádal program, aby mohl jít tři dny bez jeho účasti, a odjel s Kerholcem do Prahy. Třetího dne se vrátil a přivezl podepsanou smlouvu, kterou najal od pana Achilla Breburdy v Karlíně budovu divadla Varieté s celým zařízením od 1. října roku 1890 na patnáct let. Na patnáct let – na dobu, kdy bohdá bude mít Petříček vystudováno.
 
 Petr Berwitz, když mu Vašek smlouvu přečetl, vytáhl levici a strašlivou silou mu stiskl ruku. Pak zkroutil tvář a namáhavě ze sebe vyrazil: „Cirkus Humberto… od kulaté práce… do kamenného domu!… Dej ti pánbůh štěstí!“
+
+</section>

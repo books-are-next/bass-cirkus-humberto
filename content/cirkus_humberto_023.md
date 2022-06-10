@@ -3,7 +3,7 @@ title: IX
 contentType: prose
 ---
 
-  
+<section>
 
 Pan Selnicki dostal svou láhev johannisberského.
 
@@ -197,3 +197,5 @@ Nezbytný důsledek toho byl, že Hans pozval Kerholce, Karase otce a Vosátku n
 „A co vy jste tomu říkal, strejčku Malino?“ zeptal se hoch staříka, nemoha se nabažit vyprávění o vzrušující události.
 
 „Co ti mám říct?“ odtušil staroch, „jel jsi to jako ten Horymír z Bubna.“
+
+</section>

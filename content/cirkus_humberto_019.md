@@ -3,7 +3,7 @@ title: V
 contentType: prose
 ---
 
-  
+<section>
 
 Berwitz zamířil ke stájím a zavolal si Hanse.
 
@@ -132,3 +132,5 @@ Antonín Karas vzal peníz, poplival jej, vytáhl modrý kapesník a minci opatr
 Vašek byl zklamán – měl tolik plánů, co si za ten dvacetník v městě koupí, ale táta prohlásil, že bude potřebovat nové boty. Vašek se tedy s tím smířil, ale aspoň se pyšně chlubil Kerholcovi, Burešovi a těm druhým, že odpoledne vydělal v cirkusu dvacet feniků.
 
 „Až přineseš dvacet marek, zaplatíš pivo,“ odpověděl oblíbenou průpovídkou Kerholec.
+
+</section>

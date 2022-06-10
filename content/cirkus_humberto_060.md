@@ -3,7 +3,7 @@ title: XIV
 contentType: prose
 ---
 
-  
+<section>
 
 Srážka s Paolem byla jediná bouřlivá příhoda, kterou zažil Václav Karas jako ředitel. Nepříjemných a choulostivých zápletek přineslo divadlo dost, ale ty všecky dovedl vyřídit s neochvějným klidem a humorem. Ve zralosti svého věku, v plnosti svých zkušeností stál vysoko nad aférami šaten a jeviště. Věděl nyní, že už se nikdy nevrátí k cirkusu, když se rozhodl bdít nad osudem své vnučky. Nebylo to rozhodnutí lehké; míval chvíle, kdy se s lítostí vracel do minulosti a zjišťoval, že se vlastně nikdy nestal tím, čím být chtěl. Jeho životním snem a láskou bylo ekvestrické mistrovství, dosáhnout vrcholků krasojízdy a cvičitelství. Dospěl v tom do znamenité výše, ale od svrchované mety ho odvedlo krotitelství šelem. Chtěl být tvůrcem nového cirkusového umění, ale Berwitzova tuhost a krize podniku mu v tom bránily. Když se konečně stal svrchovaným pánem, bylo to jen k tomu, aby zachránil ubohé trosky bývalé slávy. Kvůli synovi přešel do podnikání, jaké nikdy neměl na mysli, kvůli vnučce se vzdal poslední možnosti návratu na původní cestu.
 
@@ -174,3 +174,5 @@ Petr ochable natáhl ruku a podepsal.
 „Tak. A teď můžeš jít a zvěstovat to Kostečkovým. Ale ať se nechystají na žádný kravál – přijdu s Lidkou k obědu a… a to víš, já mám rád u oběda veselé tváře. Ono je to přec zábavné, vidět, jak pánbůh míchá lidským těstem, aby nezkyslo!“
 
 Stařík byl rozjařen. Vydral tu dušičku, vydral!
+
+</section>

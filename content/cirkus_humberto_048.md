@@ -3,7 +3,7 @@ title: II
 contentType: prose
 ---
 
-  
+<section>
 
 Žlutočervené plakáty svítily na nárožích jako planoucí ohně, malé ručníkové vývěsky vyskakovaly za výklady obchodů, noviny den za dnem psaly o zahájení nové sezóny, lístky v předprodejích se čile prodávaly, všechno ukazovalo na slibný začátek. Jen v samotném divadle Humberto bylo den před otevřením mrtvé ticho. Ráno se sešel orchestr, aby si letmo přehrál všecky připravené vložky, po zkoušce zapadl celý dům krom kanceláří v temnotu. Karas otec i Kerholec měli své pracovní úseky uspořádány a připraveny, taky Steenhouwer byl hotov, a najednou jim po velkém přípravném vypětí nadešel mrtvý den. Na Václava Karase šla z toho náhlého ticha a klidu až hrůza. Stále si musel připomínat, že to je přirozená vlastnost varietního divadla: artisté přijedou až v den premiéry. Zítra teprve nastane boží dopuštění. Každý vlak přiveze někoho, kdo bude chtít zkoušet s orchestrem, který jakživ neviděl jeho not, bude upravovat své číslo pro jeviště, po němž nikdy nepřešel, bude se zařizovat v šatnách, v nichž nikdy nebyl, a bude se chtít ubytovat v městě, kde nikoho nezná. Kapelník bude mít před sebou dvacet čísel, z nichž každé bude chtít něco, co není v notách, kulisáci budou náhle muset zápasit se spoustou nářadí a předmětů, které nikdy neměli v rukou a které všechny musí být na vteřinu a na milimetr přesně na svém místě, osvětlovači dostanou spoustu zmatených upozornění, kdy ubrat a kdy přidat, restaurační personál nastoupí a bude prostírat stoly, přinášet talíře a příbory, rachotit porculánem a stříbrem, uvaděči a šatnářky budou se zaučovat, bude to hotové peklo zmatků a nedorozumění a uprostřed toho všeho musí být on, ředitel Karas, připraven ke stálým rychlým zásahům a hlavně sledovat zkoušky a z jejich kusého, náznakového průběhu si udělat jakýsi obraz skutečné produkce a podle toho během odpoledne sestavit konečný pořad. Neboť programy jsou v tiskárně jen vysazeny a očíslovány nazdařbůh, podle teoretických předpokladů, a teprve zkoušky naznačí, jaký bude skutečný postup premiéry. Podle toho teprve bude nutno přeházet sazbu a tiskárna bude muset sebou hodit, aby v sedm večer odvedla vytištěné knížky pro první večer.
 
@@ -116,3 +116,5 @@ Zbytek večera byl tak krásný a radostný, že Bureš-Smetana všechny lehce p
 „A co je se Selnickým?“ zeptala se Alice.
 
 „O toho už je postaráno,“ odpověděl Vosátka. „Jmenoval jsem ho prvním klimprkastelánem Námořníkovy nevěsty. Dostal piano rozměrů menší bachraté bárky a zakotvil s ní v severovýchodním koutě Moře Karaibského, v Zátoce Jamajské. Jméno pak obdržela tato zátoka podle mocné láhve rumu, která se jako maják zvedá na klavírní desce místo svícnu. Několik zkoušek jasně prokázalo, že rum osvěcuje našeho Selnického znamenitěji než žárová punčoška. I sedí tam a hraje černošské písně a mexické tance a zpěvy pamp a jeho sláva roste ponenáhlu od ústí Orinoka až k Rio Grande del Norte.“
+
+</section>
