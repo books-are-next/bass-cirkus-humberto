@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "bass-cirkus-humberto-933dcbf",
-  "revision": "933dcbf",
+  "identifier": "bass-cirkus-humberto-0e46f06",
+  "revision": "0e46f06",
   "readingOrder": [
     "promo.html",
     "cirkus_humberto_005.html",
@@ -73,8 +73,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Sat Jun 11 2022 11:48:48 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654948128245
+    "date": "Sat Jun 11 2022 15:13:18 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654960398280
   },
   "documents": [
     {
@@ -1093,7 +1093,7 @@
       "title": "IX",
       "file": "cirkus_humberto_055.html",
       "words": 2897,
-      "chars": 17638,
+      "chars": 17601,
       "ideas": 84,
       "role": "chapter",
       "order": 51,
@@ -1273,12 +1273,12 @@
   "totals": {
     "all": {
       "words": 164447,
-      "chars": 974386,
+      "chars": 974349,
       "ideas": 3528
     },
     "chapters": {
       "words": 164397,
-      "chars": 974023,
+      "chars": 973986,
       "ideas": 3519
     }
   }
