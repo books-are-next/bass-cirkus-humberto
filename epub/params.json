@@ -21,6 +21,7 @@
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
+      "centered": ".*uprostred.*",
       "brBefore": "mlptextbez1radku\nmlptextbez1radku1\nmlptextbez1radku2\nmlptextbez1radku3",
       "brAfter": "",
       "blockquote": "",
@@ -947,7 +948,7 @@
         "xhtml": "cirkus_humberto_013.html"
       },
       {
-        "titleSuggest": "ČÁST\nDRUHÁ",
+        "titleSuggest": "ČÁST DRUHÁ",
         "subtitleSuggest": "",
         "filename": "cirkus_humberto_014.md",
         "xhtml": "cirkus_humberto_014.html"
@@ -1049,7 +1050,7 @@
         "xhtml": "cirkus_humberto_030.html"
       },
       {
-        "titleSuggest": "ČÁST\nTŘETÍ",
+        "titleSuggest": "ČÁST TŘETÍ",
         "subtitleSuggest": "",
         "filename": "cirkus_humberto_031.md",
         "xhtml": "cirkus_humberto_031.html"
@@ -1139,7 +1140,7 @@
         "xhtml": "cirkus_humberto_045.html"
       },
       {
-        "titleSuggest": "ČÁST\nČTVRTÁ",
+        "titleSuggest": "ČÁST ČTVRTÁ",
         "subtitleSuggest": "",
         "filename": "cirkus_humberto_046.md",
         "xhtml": "cirkus_humberto_046.html"
