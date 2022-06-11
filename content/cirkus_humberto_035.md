@@ -25,7 +25,7 @@ _Tisíckrát, stotisíckrát Tě líbám, Ty má drahá, jediná, milovaná, kr�
 
 _Tvůj věčně po Tobě toužící_
 
-                                                                   __Vašku__
+              __Vašku__
 
 _P. S.  Než jsem toto psaní moh odeslat, sekla mě Kambodža prackou do levé paže a trochu mi rozedrala maso. U Berwitzů mě ošetřili. Buď klidná, nic to není, vidíš, že Ti mohu psát._
 

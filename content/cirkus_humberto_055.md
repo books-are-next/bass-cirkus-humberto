@@ -34,7 +34,7 @@ Tak se zas život kolem Václava Karase urovnal do klidného toku. Nebyl to živ
 Jednou se přihodila maličkost, která však velmi Karase zaujala. V poště ležela pro něho pohlednice, obrázek mohutného oceánského parníku. A k němu bylo připsáno:
 
 _Když volá tamtam,  
-volá sem-sem.                                                           Seržán Vosátka_
+volá sem-sem.                      Seržán Vosátka_
 
 </section>
 
