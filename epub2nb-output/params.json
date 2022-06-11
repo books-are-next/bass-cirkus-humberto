@@ -21,6 +21,7 @@
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
+      "centered": ".*uprostred.*",
       "brBefore": "mlptextbez1radku\nmlptextbez1radku1\nmlptextbez1radku2\nmlptextbez1radku3",
       "brAfter": "",
       "blockquote": "",
@@ -1347,6 +1348,6 @@
       "user": "books-are-next",
       "repo": "bass-cirkus-humberto"
     },
-    "generatedAt": 1654960342237
+    "generatedAt": 1654960595795
   }
 }

@@ -14,7 +14,11 @@ OKÉNKO
 
 <section>
 
+<div class="centered">
+
 _Prezident O’Harrieh_
+
+</div>
 
 </section>
 
