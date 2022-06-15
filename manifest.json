@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "bass-cirkus-humberto-eec2993",
-  "revision": "eec2993",
+  "identifier": "bass-cirkus-humberto-92d4b2a",
+  "revision": "92d4b2a",
   "readingOrder": [
     "promo.html",
     "cirkus_humberto_005.html",
@@ -73,8 +73,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Mon Jun 13 2022 21:52:34 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655157154797
+    "date": "Wed Jun 15 2022 05:46:08 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655271968110
   },
   "documents": [
     {
@@ -1252,9 +1252,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 103,
-      "chars": 695,
-      "ideas": 13,
+      "words": 122,
+      "chars": 830,
+      "ideas": 14,
       "role": "colophon",
       "order": null,
       "prev": "cirkus_humberto_062.html",
@@ -1272,9 +1272,9 @@
   ],
   "totals": {
     "all": {
-      "words": 164506,
-      "chars": 974718,
-      "ideas": 3536
+      "words": 164525,
+      "chars": 974853,
+      "ideas": 3537
     },
     "chapters": {
       "words": 164397,
