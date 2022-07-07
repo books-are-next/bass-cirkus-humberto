@@ -65,7 +65,7 @@
             "filename": "cirkus_humberto_003.md",
             "xhtml": "cirkus_humberto_003.html",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -77,7 +77,7 @@
             "filename": "cirkus_humberto_004.md",
             "xhtml": "cirkus_humberto_004.html",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -847,7 +847,7 @@
             "filename": "cirkus_humberto_063.md",
             "xhtml": "cirkus_humberto_063.html",
             "id": 62,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -1348,6 +1348,6 @@
       "user": "books-are-next",
       "repo": "bass-cirkus-humberto"
     },
-    "generatedAt": 1655977928070
+    "generatedAt": 1657181638941
   }
 }
