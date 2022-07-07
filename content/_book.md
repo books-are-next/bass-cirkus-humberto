@@ -73,7 +73,7 @@ readingOrder:
   - cirkus_humberto_060.html
   - cirkus_humberto_061.html
   - cirkus_humberto_062.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
