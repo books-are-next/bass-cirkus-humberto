@@ -34,7 +34,7 @@ neb oheň, jejž k Juditě cítil,
 již se v něm dávno byl vňal,  
 k Juditě dávno byl vzňal._
 
-Vašek ani zdaleka nerozuměl všemu tomu, co v těch básničkách četl. Bylo tam množství podivných, neznámých slov, při nichž si nedovedl nic určitého představit, jen cítil, že je v nich nějaké kouzlo, že znamenají cosi mocného a slavného. Když četl: „A páni znaků hvězdy, trojříčí[\[8\]](./resources/undefined), orlice, lva, ostrve[\[9\]](./resources/undefined) a lekna[\[10\]](./resources/undefined) pozdvihli pravice,“ působilo to naň velebně a vznešeně. Bylo mu při četbě těch českých veršů, jako by vcházel zas do hornosněženských lesů, – zelené přísvity, modravé šero, zlaté záření a za neznámými slovy velká, vábná tajemství. Hoch se dožadoval, aby mu Bureš četl dál a dál. Probrali všecky knížky, až nakonec Bureš vytáhl malý sešitek, velmi odřený a otrhaný, a jednoho večera z něho začal předčítat. Byla to dlouhá, předlouhá báseň, nejdelší ze všech, které Vašek slyšel, a také nejméně srozumitelná. Pamatoval se jen, že se začínala tak nějak, že Čechové jsou dobrý národ; vyprávělo se v ní o májovém večeru na modrém jezeře a to bylo překrásné; a pak tam byl nějak loupežník, kterého vedli na popravu, a on tam zvolal, aby pozdravovali od něho tu jeho zemi krásnou, zemi milovanou. Víc Vašek nevěděl, protože když Bureš přišel k tomuhle místu, roztřásl se mu hlas a nemohl dále. Vašek myslí, že začal plakat, ale určitě to říci nemůže, protože tenťák Bureš se najednou zved, strčil knížku do kapsy, popadl širák a vyrazil ven. A přišel až nějak pozdě v noci a paní Langermannová se mu druhý den smála, že přebral. Vašek později marně na něho naléhal, aby ještě jednou četl „tu májovou“, Bureš prudce odmítal, že se to pro něho nehodí; a Vašek se tak nedověděl, jaká deklamovánka to byla. A přece mu dlouho zněla v hlavě jako něco zcela zvláštního a nezvyklého.
+Vašek ani zdaleka nerozuměl všemu tomu, co v těch básničkách četl. Bylo tam množství podivných, neznámých slov, při nichž si nedovedl nic určitého představit, jen cítil, že je v nich nějaké kouzlo, že znamenají cosi mocného a slavného. Když četl: „A páni znaků hvězdy, trojříčí[^8], orlice, lva, ostrve[^9] a lekna[^10] pozdvihli pravice,“ působilo to naň velebně a vznešeně. Bylo mu při četbě těch českých veršů, jako by vcházel zas do hornosněženských lesů, – zelené přísvity, modravé šero, zlaté záření a za neznámými slovy velká, vábná tajemství. Hoch se dožadoval, aby mu Bureš četl dál a dál. Probrali všecky knížky, až nakonec Bureš vytáhl malý sešitek, velmi odřený a otrhaný, a jednoho večera z něho začal předčítat. Byla to dlouhá, předlouhá báseň, nejdelší ze všech, které Vašek slyšel, a také nejméně srozumitelná. Pamatoval se jen, že se začínala tak nějak, že Čechové jsou dobrý národ; vyprávělo se v ní o májovém večeru na modrém jezeře a to bylo překrásné; a pak tam byl nějak loupežník, kterého vedli na popravu, a on tam zvolal, aby pozdravovali od něho tu jeho zemi krásnou, zemi milovanou. Víc Vašek nevěděl, protože když Bureš přišel k tomuhle místu, roztřásl se mu hlas a nemohl dále. Vašek myslí, že začal plakat, ale určitě to říci nemůže, protože tenťák Bureš se najednou zved, strčil knížku do kapsy, popadl širák a vyrazil ven. A přišel až nějak pozdě v noci a paní Langermannová se mu druhý den smála, že přebral. Vašek později marně na něho naléhal, aby ještě jednou četl „tu májovou“, Bureš prudce odmítal, že se to pro něho nehodí; a Vašek se tak nedověděl, jaká deklamovánka to byla. A přece mu dlouho zněla v hlavě jako něco zcela zvláštního a nezvyklého.
 
 Básničky patřily k večernímu oddechu hamburské zimy. Ve dne na ně nebylo pomyšlení. Práce čekala všude. Zdánlivě jí nebylo, když odpadlo putování a stěhování stanů, ale mnoho pomocných dělníků, „hilfáků“, odešlo a na zbylé padla péče o všecko zvířectvo a obvyklé zimní správky všeho materiálu. Antonín Karas byl původně přijat také jen jako sezónní tenťák a Kerholec se chystal, že si ho pak na zimu vymůže. Ale v tom ani nemusel zakročovat. Karas si koupil Berwitze svými řezbami, které ponenáhlu, kousek po kousku, parádily zevnějšek cirkusu. A pak tu byl Vašek. Přívažek, který někdy vážil víc než hlavní kus. A zvláště teď, když se chystalo jeho samostatné vystoupení.
 
@@ -63,3 +63,35 @@ Jak zima míjela, vzpomínal Karas, že zanedlouho začne Milner obcházet vesni
 Tak stále kolísal v nejistotách o sobě a o Vaškovi, až jednoho slunného dne hlásil Kerholec rozkaz připravit maringotky a nastěhovat se do nich. Milner se neobjevil. A oba Karasové se rozloučili s paní Langermannovou i s Růženkou a pustili se na druhou pouť s Cirkusem Humberto.
 
 </section>
+
+[^1]: Vedoucí dělníků. _Pozn. red._
+
+[^2]: Posměšné pojmenování zedníků. _Pozn. red._
+
+[^3]: Křídlovka (z něm. Flügelhorn). _Pozn. red._
+
+[^4]: Jezdecký. _Pozn. red._
+
+[^5]: U muslimů označení jinověrce, též džaur. _Pozn. red._
+
+[^6]: Oblek. _Pozn. red._
+
+[^7]: Zastarale dýka. _Pozn. red._
+
+[^8]: Tři souběžné řeky. _Pozn. red._
+
+[^9]: Heraldická figura, konkrétně sukovitý kmen s odštěpky po oseknutých větvích. _Pozn. red._
+
+[^10]: Vodní růže, leknínový dvojlist. _Pozn. red._
+
+[^11]: „Přítelíčku! Jaká radost! Nebesa, takové překvapení!“ _Pozn. red._
+
+[^12]: Chochol z dlouhých ptačích per. _Pozn. red._
+
+[^13]: Starosta. _Pozn. red._
+
+[^14]: Bože, to víte – jaká slast! _Pozn. red._
+
+[^15]: Vskutku nezemřu (ve významu: něco tu po mne zbude). _Pozn. red._
+
+[^16]: Chystat se, připravovat se, nebo také holedbat se, vychloubat se. _Pozn. red._

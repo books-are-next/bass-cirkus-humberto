@@ -209,7 +209,7 @@ Bič lehounce práskl a Cyrus, ocitnuvší se právě před vchodem do stájí, 
 
 Rozloučili se ve velkém dojetí. Ředitelka požádala Vaška, aby pana Wollschlӓgera doprovodil. Starý pán sice učinil odmítavý pohyb, ale svolil. Vašek šel velmi rád. Ještě nikdy neměl k nikomu takový pocit úcty, obdivu, zbožnění. V duchu si opakoval, co večer říkal Hans: „To není principál, to je čaroděj.“ A sám pro sebe neměl jiné tužby než připodobnit se tomuto kouzelníku, dokázat takové divy, dovést své umění tak vysoko a umět s takovou moudrostí se dívat na celý svět. Vašek se těšil, že se „starý idealista“ ještě jednou s ním rozhovoří o cirkuse a že se bude moci zeptat na tajemství jeho magického vlivu. Byl by ochoten ho poslouchat celou noc a předem uvěřit každému jeho slovu. Leč pan Wollschlӓger mlčel. Pan Wollschlӓger šel po jeho boku měsíční nocí, a Vaška jako by nebylo. Jednou se na cestě zastavil a zíral před sebe a usmíval se. Vašek cítil: teď něco řekne. Teď přijde nějaká krásná, velká, utěšující pravda. A vskutku, rty páně Wollschlӓgerovy se zachvěly a třikrát po sobě z nich blaženě zaznělo, čemu Vašek vůbec nerozuměl:
 
-„Non omnis moriar[\[15\]](./resources/undefined)! Non omnis moriar! Non omnis moriar!“
+„Non omnis moriar[^15]! Non omnis moriar! Non omnis moriar!“
 
 A pan Eduard Wollschlӓger sňal klobouk a velkou úklonou se děkoval měsíci na nebesích.
 
@@ -224,3 +224,35 @@ Vašek stál úplně ustrnulý. Pan Wollschlӓger se na něho díval a jeho pohl
 Pan Wollschlӓger zavřel vrátka, otočil klíčem, po chrupavém písku lehkým krokem došel k domku a zmizel. A Václav Karas stál, pak se opřel o sloup branky a plakal.
 
 </section>
+
+[^1]: Vedoucí dělníků. _Pozn. red._
+
+[^2]: Posměšné pojmenování zedníků. _Pozn. red._
+
+[^3]: Křídlovka (z něm. Flügelhorn). _Pozn. red._
+
+[^4]: Jezdecký. _Pozn. red._
+
+[^5]: U muslimů označení jinověrce, též džaur. _Pozn. red._
+
+[^6]: Oblek. _Pozn. red._
+
+[^7]: Zastarale dýka. _Pozn. red._
+
+[^8]: Tři souběžné řeky. _Pozn. red._
+
+[^9]: Heraldická figura, konkrétně sukovitý kmen s odštěpky po oseknutých větvích. _Pozn. red._
+
+[^10]: Vodní růže, leknínový dvojlist. _Pozn. red._
+
+[^11]: „Přítelíčku! Jaká radost! Nebesa, takové překvapení!“ _Pozn. red._
+
+[^12]: Chochol z dlouhých ptačích per. _Pozn. red._
+
+[^13]: Starosta. _Pozn. red._
+
+[^14]: Bože, to víte – jaká slast! _Pozn. red._
+
+[^15]: Vskutku nezemřu (ve významu: něco tu po mne zbude). _Pozn. red._
+
+[^16]: Chystat se, připravovat se, nebo také holedbat se, vychloubat se. _Pozn. red._

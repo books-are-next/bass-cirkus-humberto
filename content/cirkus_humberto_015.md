@@ -28,3 +28,35 @@ Artisté, kteří nepracovali se zvířaty, tíhli rovnou do šapitó. Předevš
 Manéž však vábila i ty, kteří nesázeli život v sázku nad hlavami diváků. V cirkuse každý nějak nesl svou kůži na trh, a nehrál-li o život, hrál aspoň o zdraví svých údů a o úspěch. Všechno mohlo být ohroženo nějakým opominutím, a proto každý se staral, má-li nářadí připraveno a v pořádku. I když vybývalo málo času, snažili se dostat se ke zkoušce aspoň hlavních triků, aby se ujistili, že také jejich svalstvo účinkuje s plnou přesností. Pan Albert, starší z obou bratranců Gevaertsových, kteří vystupovali jako Duo Bellini s přízemní akrobatikou – to byli ti dva páni, kteří první den uchvátili Vaška Karase na záhumní manéži –, hrál v reprízách hloupého augusta. I on vběhl do manéže a zahlaholil v ní a zajódloval, aby se přesvědčil, že rezonance jejich šapitó je v Mannheimu zrovna taková jako v Duisburgu. Dokonce i pan Selnicki prošel důstojně novostánkem, aby vlastní rukou uložil na správné místo láhev s rumem a zamezil tak poruchy, které by v jeho mysli nastaly, kdyby nebylo včas po ruce posilnění. Jediný z vedoucích lidí, kteří do stanu nevkročili, byl Frans Steenhouwer. Tento Holanďan, který zběhl ze studií, aby se mohl oddat životu v divočině, aby mohl střílet tygry a pobíjet hady a protloukat se pralesy, šel k cirkusu, že tam najde aspoň kus té velké romantiky, o které jeho středoškolská fantazie bájila. Když poprvé vcházel do šapitó a do zvěřince, přepadlo ho přímo horečné rozechvění. Zdálo se mu, že všechna zvěř džunglí z Jávy, Bornea a Sumatry ho obklopuje svými zástupci a že on, Mijnheer Steenhouwer, vstupuje před ni jako nepřemožitelný lovec a slavný lapač a pobíječ šelem. Bohužel se ukázalo, že zvěř Cirkusu Humberto má pramálo úcty právě před tímto plavovlasým a obrýleným pánem džungle. Když vstoupil do konírny a otáčel se mezi dveřmi, Hamiltonův osel, který stál proti dveřím a ve stáji byl z míry dobrák, vyhodil zadkem, nabral Steenhouwera kopyty pod lopatky a přímo ho vyrazil ze dveří. Bylo to řádné kopnutí, které bolelo, bolestnější však byl trapný pocit ponížení, když direktorčin bratránek vyletěl ze stáje a za halasného smíchu všech kočí se rozplácl všemi čtyřmi na zemi. Při příští návštěvě mu slon Bingo sežral krásný florentinský klobouk se zelenou mašlí. Potom po něm drápla lvice Korina, a ačkoli uskočil, roztrhla mu šestibarevnou vestu, kterou vlastníma rukama uháčkovala jeho matinka. Pak ho jeden z papoušků klofl do ruky, až krvácel. A za týden poté, když se ochomýtal kolem opičí klece, popadl opičák Bobeš jeho pečlivě vázanou bílou kravatu a rval ji do klece s takovou silou a křikem, že pan Steenhouwer byl přesvědčen, že ho Bobeš uškrtí. Bylo zřejmo, že divoká zvěř je proti pánu džungle ve vzpouře a má na něho spadeno. Ale když jednou v Hamburku se celý cirkus sběhl do boudy pro zoufalý křik, který se odtamtud rozléhal, a když tam spatřili pana účetního zoufale utíkat před rohy kozla Modrovousa, bylo o zápase Steenhouwer versus menažérie rozhodnuto a Mijnheer již do cirkusu ani do zvěřince nebo stájí nešel. Zahloubal se ve svém voze do účtů a cifer, začal vypočítávat všeliké statistiky, kolik vlaků ovsa zkrmí Cirkus Humberto za deset let, jakou část rovníku objede na jednom turné, kolik maringotek by muselo vjet na váhu, aby vyvážilo slona Bingo, kolik krychlových metrů vzduchu obsahuje šapitó a jaké město by vytvořili všichni lidé, kteří během roku zhlédnou Cirkus Humberto. Byly z toho podivuhodné tabule a obrazy na stěnách vozu, které Petr Berwitz prohlížel s velkým zájmem a uznáním. Když však začal Frans Steenhouwer vypočítávat, kolik by cirkus ušetřil, kdyby místo tří kilogramů ovsa dával lipicánům denně jen dvaapůl, prohlásil Petr Berwitz, že bratránek Frans je matematický idiot a aby mu nechodil se svými úspornými objevy do cesty, drží-li Petr v ruce bič.
 
 </section>
+
+[^1]: Vedoucí dělníků. _Pozn. red._
+
+[^2]: Posměšné pojmenování zedníků. _Pozn. red._
+
+[^3]: Křídlovka (z něm. Flügelhorn). _Pozn. red._
+
+[^4]: Jezdecký. _Pozn. red._
+
+[^5]: U muslimů označení jinověrce, též džaur. _Pozn. red._
+
+[^6]: Oblek. _Pozn. red._
+
+[^7]: Zastarale dýka. _Pozn. red._
+
+[^8]: Tři souběžné řeky. _Pozn. red._
+
+[^9]: Heraldická figura, konkrétně sukovitý kmen s odštěpky po oseknutých větvích. _Pozn. red._
+
+[^10]: Vodní růže, leknínový dvojlist. _Pozn. red._
+
+[^11]: „Přítelíčku! Jaká radost! Nebesa, takové překvapení!“ _Pozn. red._
+
+[^12]: Chochol z dlouhých ptačích per. _Pozn. red._
+
+[^13]: Starosta. _Pozn. red._
+
+[^14]: Bože, to víte – jaká slast! _Pozn. red._
+
+[^15]: Vskutku nezemřu (ve významu: něco tu po mne zbude). _Pozn. red._
+
+[^16]: Chystat se, připravovat se, nebo také holedbat se, vychloubat se. _Pozn. red._

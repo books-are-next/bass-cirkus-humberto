@@ -17,7 +17,7 @@ Vosátka už stál napjat jako struna, třemi a půl prsty pravice švihl jak st
 
 Nato oba zvedli ruce, padli si do náruče, líbali se a volali jeden přes druhého:
 
-„Amigazo! Qué alegría! Cielos, vaya una sorpresa!“[\[11\]](./resources/undefined)
+„Amigazo! Qué alegría! Cielos, vaya una sorpresa!“[^11]
 
 Konečně se Vosátka odtrhl a obrátil se k svým stolovníkům:
 
@@ -29,7 +29,7 @@ Toť se ví, že všichni hned chtěli tu historii znát. A když se tedy sesedl
 
 „Slavná správní rado, já jenom nerad mluvím o svých vavřínech. Ale občas přece jen musíte vidět, vy konihoňové, jaká osobnost jezdí s vámi po tomhle shnilém starém světě. Hlavně, že je tu korunní svědek. Tak to bylo tenkrát v Hondurasu… nebo v Guatemale?“
 
-„Ne, v Nicaragui, Ferenc,“ pomohl jeho paměti pan Lebeda. „Měli jsme přece na čepicích ty fedrpuše.“ [\[12\]](./resources/undefined)
+„Ne, v Nicaragui, Ferenc,“ pomohl jeho paměti pan Lebeda. „Měli jsme přece na čepicích ty fedrpuše.“ [^12]
 
 „Hombre, ano, Nicaragua. Úchvatná republika, pánové. Složená z moskytů a z mesticů. A tenkrát přišla taková nějaká politická rozmíška, že tam najednou byli dva prezidenti. Prezident Colador a prezident Almirez. O co šlo, nevím, já byl ještě gringo, cizinec, já jsem přišel zrovna z Kostariky, kde jsme tuhle s Pepíčkem dělali revoluci. V Nicaragui jsem se přidal k prezidentu Coladorovi, protože prohlásil, že pohanu země lze smýt pouze krví. To byla řeč podle mého gusta, a proto jsem vstoupil jako seržán do jeho armády. Vrchním velitelem byl generál Chingolo, osvědčený vlastenec. Armáda se scházela dost rychle, vadou jen bylo, že některé formace se vždy zase po čase rozutekly. Ale protože se podařilo jejich příslušníky přemluvit, aby přišli znovu, stoupaly ty přírůstky do závratných číslic. Mysleli jsme zprvu, že už ty cifry odstraší nepřítele, ale prezident Almirez se chystal k boji a jmenoval vrchním velitelem generála Platuda. Viděli jsme tedy, že nezbývá než bojovat. Když ještě přišly z Kolumbie nějaké pušky a tři děla, vytáhli jsme do pole. Ve městě Matagalpa jsme dostali zprávu, že generál Platudo postupuje směrem k Rio Grande. Generál Chingolo se tedy rozhodl, že v Matagalpě rozbije svůj hlavní stan a jiné nářadí a že odtud vyšle část vojska, aby zastavila postup nepřítele. Velitelem této výpravy, pánové, jsem byl já, seržán Vosátka. Dostal jsem asi dvacet milicianos a rozkaz. Ráno jsme stáli na náměstí před kostelem, generál Chingolo přijel na bílé kobyle, vytáh šavli a promluvil: ‚Seržáne Vosátko‘ prohlásil tam energicky, ‚jděte a potřete hydru odporu. Bojujte statečně jako hidalgo. Zákon musí mít průchod.‘ Táhl jsem tedy vstříc vnitřnímu nepříteli. Takhle byla Matagalpa, nad ní kopec, za kopcem celá sierra, uprostřed ní hora Pico del Espuela. O kus dál prý teče Rio Grande. Když jsem s těmi dvaceti mestici přitáhl pod tu horu, narazili jsme na takovou quebradu, na takovou průrvu po jarních vodách. A vtom se strhne pokřik a na druhém břehu té quebrady pobíhá pár otrhanců s peřím na čepici a schovává se za balvany a kaktusy. Pánové, – narazili jsme na nepřítele!“
 
@@ -61,7 +61,7 @@ Toť se ví, že všichni hned chtěli tu historii znát. A když se tedy sesedl
 
 „A hlavně žízeň,“ chechtal se pan Lebeda.
 
-„Tak jsme jeli spolu k Matagalpě a smluvili jsme se, že u hospody před městem Pepík sleze s koně a půjde městem vedle pěšky jako zajatec. V té hospodě jsme si dali queso de chancho, jako tlačenku, a já se ptám, co to je, že nevidím žádné vojsko, když tu je přece hlavní stan. A hospodská mi povídá, to že už je přece čtyři dny vyřízeno: národ přece sesadil prezidenta Coladora a generál Chingolo je ve vězení. ‚Caramba,‘ povídám Pepíkovi, ‚kolo osudu se obrátilo, ty pojedeš na koni a já ti budu dělat zajatce, ať žije Nicaragua.‘ A tuhle Pepík povídá – a slavná státní rado, já si dovoluji upozornit, že to byl mistrný kousek státnického umění – povídá: ‚Kuš, Ferenc, teď to teprve vyžerem‘ A koukne vám na hospodskou a takhle shora na ni spustí: „Matko, pošlete někoho k panu faráři a k alcaldovi[\[13\]](./resources/undefined), ať chystají uvítání, že tu jsou dva důstojníci vítězné armády z bitvy u hory Pico del Espuela a že přijíždějí obsadit město!“
+„Tak jsme jeli spolu k Matagalpě a smluvili jsme se, že u hospody před městem Pepík sleze s koně a půjde městem vedle pěšky jako zajatec. V té hospodě jsme si dali queso de chancho, jako tlačenku, a já se ptám, co to je, že nevidím žádné vojsko, když tu je přece hlavní stan. A hospodská mi povídá, to že už je přece čtyři dny vyřízeno: národ přece sesadil prezidenta Coladora a generál Chingolo je ve vězení. ‚Caramba,‘ povídám Pepíkovi, ‚kolo osudu se obrátilo, ty pojedeš na koni a já ti budu dělat zajatce, ať žije Nicaragua.‘ A tuhle Pepík povídá – a slavná státní rado, já si dovoluji upozornit, že to byl mistrný kousek státnického umění – povídá: ‚Kuš, Ferenc, teď to teprve vyžerem‘ A koukne vám na hospodskou a takhle shora na ni spustí: „Matko, pošlete někoho k panu faráři a k alcaldovi[^13], ať chystají uvítání, že tu jsou dva důstojníci vítězné armády z bitvy u hory Pico del Espuela a že přijíždějí obsadit město!“
 
 „Vy grázlové!“ bouchl do stolu Kerholec, „a nepoznali vás?“
 
@@ -75,7 +75,7 @@ Toť se ví, že všichni hned chtěli tu historii znát. A když se tedy sesedl
 
 „Ó,“ zvedl Vosátka jen oči k nebi, „Lebedo, co? To byla noc, he?“
 
-„Cielos, vos sabés – qué chiche!“ [\[14\]](./resources/undefined)
+„Cielos, vos sabés – qué chiche!“ [^14]
 
 „A jak to všecko dopadlo?“
 
@@ -218,3 +218,35 @@ Vrátili se pár kroků a Malina se zdviženým prstem jim zvěstoval:
 „Já už vím, jaká v tom byla souvislost. Jak jsem se na toho Lebedu koukal, na tu jeho tlamu, tak jsem si, kdykoli ji otevřel, říkal: Propánakrále, ten by spolk živého králíka. A takhle mi tedy přišla na mysl ta krajta tygrovitá a to pšššš-pšššš. A co se té Marie týče, to ještě musím dodat důležitou věc, aby se na nic nezapomnělo. To, co jsem povídal, to bylo v Babořích, že ano. Ale když jsme potom přišli k řece Rejnu, tak to zas bylo jinačí. Jinej kraj, jinej mrav! Tam jí ti kluci nanosili každé noci králíků, že krajta tygrovitá byla nacpaná jako mikulášská punčocha a vůbec nemohla dělat pšššš-pšššš. A jakorát když byla direktorka natolik pohromadě, že si zas mohla krajtu převzít, to už ji Marie nemohla uzvednout, jak v tom byla. Někde u Trieru jsme ji museli propustit. Však jsem jí na rozloučenou povídal: ‚Vidíš, holka, pořád jsi nechtěla, aby ti krajta tygrovitá dělala pšššš-pšššš, a teď budeš sama dělat pšššš-pšššš u kolíbky.‘ Tak, teď je to všecko v pořádku. Dobrou noc.“
 
 </section>
+
+[^1]: Vedoucí dělníků. _Pozn. red._
+
+[^2]: Posměšné pojmenování zedníků. _Pozn. red._
+
+[^3]: Křídlovka (z něm. Flügelhorn). _Pozn. red._
+
+[^4]: Jezdecký. _Pozn. red._
+
+[^5]: U muslimů označení jinověrce, též džaur. _Pozn. red._
+
+[^6]: Oblek. _Pozn. red._
+
+[^7]: Zastarale dýka. _Pozn. red._
+
+[^8]: Tři souběžné řeky. _Pozn. red._
+
+[^9]: Heraldická figura, konkrétně sukovitý kmen s odštěpky po oseknutých větvích. _Pozn. red._
+
+[^10]: Vodní růže, leknínový dvojlist. _Pozn. red._
+
+[^11]: „Přítelíčku! Jaká radost! Nebesa, takové překvapení!“ _Pozn. red._
+
+[^12]: Chochol z dlouhých ptačích per. _Pozn. red._
+
+[^13]: Starosta. _Pozn. red._
+
+[^14]: Bože, to víte – jaká slast! _Pozn. red._
+
+[^15]: Vskutku nezemřu (ve významu: něco tu po mne zbude). _Pozn. red._
+
+[^16]: Chystat se, připravovat se, nebo také holedbat se, vychloubat se. _Pozn. red._

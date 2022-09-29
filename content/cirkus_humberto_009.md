@@ -39,7 +39,7 @@ Ještě jak tu stáli, zrála v jeho hlavě myšlenka provézt celý podnik měs
 
 Zůstali v té zapadlé dolině pět dní, než bylo dokonale vyspraveno, co se poškodilo trmácením po Asii. Zatím najal Berwitz rozsáhlé zbořeniště u velké mešity Achmedovy a připravil si turecké i francouzské ručníky, jak se odjakživa říká dlouhým úzkým cirkusovým plakátům. Šestého dne byl konečně proveden slavný nástup. Všechno příslušnictvo cirkusu muselo si vzít nejparádnější kroje, ale Berwitz si ještě projednal s úřady, že mu půjčili sto padesát vojáků, které všechny oblékl v kostýmy z pantomim. I rozvinul se pak průvod, jakého ještě Cařihrad neviděl.
 
-Vpředu za oddílem kavasů jeli dva středověcí heroldi se stříbrnými dlouhými trubkami, jež hlaholily fanfáry, kdykoli hudba vzadu dozněla. Pak se objevili tři římští jezdci s kovovými holeněmi na nahých lýtkách, s antickými helmicemi nad bezvousou tváří, prostřední z nich nesl standartu Cirkus Humberto. A za Římany jel plochý vůz, na němž seděli zády k sobě hudebníci v červených a zlatých livrejích, vyhrávajíce marš za maršem. Nato se za celým oddílem antické jízdy vynořila zlatá závodní kolesa římských cirků, tažená čtyřmi koni vedle sebe, na voze stál Petr Berwitz s nachovým pláštěm v póze Caesara. Za tímto antickým zjevením jel vrchní štolba s Madame Sylvií, oba v červených anglických fracích a černých čapkách, jako by vyskočili z nejmondénnější londýnské rytiny. Za nimi tři krasojezdkyně v růžových, krémových a azurových sukénkách; pak dva španělští hidalgové, plni stříbrného vyšívání, se sevillskými černými plochými klobouky, jimiž s velkou grandezzou pozdravovali všechna zamřížovaná okna. Pak jel oddíl vojáků oblečených za Araby, v dlouhých splývavých pláštích, a pak oddíl ruských kozáků. Tito vojáci se zprvu vzpírali obléci uniformu ďaura[\[5\]](./resources/undefined) a nepřítele islámu, až jim Berwitz namluvil, že je to válečná kořist. Tu teprve se jim zalíbilo koketně si nasadit ruskou čapku a jet městem s levicí opřenou v bok. Za nimi vedli modře livrejovaní podkoní chloubu stájí humbertovských, šest bílých lipicánů s růžovými chřípěmi. Potom šla skupina vojáků kostýmovaných jako perští sokolníci – to byla nová, teheránská myšlenka Berwitzova – a na kožených rukavicích nesli pestrobarevné pokřikující papoušky. Nato byla dvěma býky zebu tažena klec s tygry a ve čtyřspřeží vezena klec se lvy. Za ní mašírovali vojáci oblečení do modročervenozlatých krojů, kterým se v cirkuse říkalo marokánské. Nesli v rukou pozlacené klece s malými opičkami. Osm najatých hamalů, začerněných ve tváři a na rukou, s obrovskými turbany a peřím na hlavách a ve fantastických žlutých a červených úborech, neslo zdobná čínská nosítka, na nichž seděly dvě ženy artistů, přeměněné ve víly. A pak se zjevil užaslým divákům majestátní slon Bingo, ověšený rudými čabrakami se zlatými třapci; na hlavě mu seděl důstojný Arr-Šehir v bílých šatech a zlatém turbanu, na zádech se mu pohupoval palankýn, z něhož mávaly čtyři hurisky s tvářemi zakrytými závoji. Byly to ženy sluhů a koňáků, pračky a myčky, které s nabarvenýma očima vypadaly jako nejsvůdnější zjevení. Ale to ještě pořád nebyl konec průvodu. Ještě se objevili strakatí šaškové s cvičenými psy, v čele pan Hamilton na divokém oslu, který byl kupodivu poslušný. Mezi poskakujícími a kotrmelcujícími augusty vedli sluhové kozla Modrovousa s jeho bílou a nyní ověnčenou družinou, párek muflonů, stádečko ovcí, jezevce a medvěda. Byla to nejstrakatější skupina, neboť sluhové měli na sobě všelijaké ty staré přepychové uniformy, které sbírával děda Carlo. A pak ještě jelo několik středověkých zbrojnošů opět se standartou Cirkus Humberto a byl konec.
+Vpředu za oddílem kavasů jeli dva středověcí heroldi se stříbrnými dlouhými trubkami, jež hlaholily fanfáry, kdykoli hudba vzadu dozněla. Pak se objevili tři římští jezdci s kovovými holeněmi na nahých lýtkách, s antickými helmicemi nad bezvousou tváří, prostřední z nich nesl standartu Cirkus Humberto. A za Římany jel plochý vůz, na němž seděli zády k sobě hudebníci v červených a zlatých livrejích, vyhrávajíce marš za maršem. Nato se za celým oddílem antické jízdy vynořila zlatá závodní kolesa římských cirků, tažená čtyřmi koni vedle sebe, na voze stál Petr Berwitz s nachovým pláštěm v póze Caesara. Za tímto antickým zjevením jel vrchní štolba s Madame Sylvií, oba v červených anglických fracích a černých čapkách, jako by vyskočili z nejmondénnější londýnské rytiny. Za nimi tři krasojezdkyně v růžových, krémových a azurových sukénkách; pak dva španělští hidalgové, plni stříbrného vyšívání, se sevillskými černými plochými klobouky, jimiž s velkou grandezzou pozdravovali všechna zamřížovaná okna. Pak jel oddíl vojáků oblečených za Araby, v dlouhých splývavých pláštích, a pak oddíl ruských kozáků. Tito vojáci se zprvu vzpírali obléci uniformu ďaura[^5] a nepřítele islámu, až jim Berwitz namluvil, že je to válečná kořist. Tu teprve se jim zalíbilo koketně si nasadit ruskou čapku a jet městem s levicí opřenou v bok. Za nimi vedli modře livrejovaní podkoní chloubu stájí humbertovských, šest bílých lipicánů s růžovými chřípěmi. Potom šla skupina vojáků kostýmovaných jako perští sokolníci – to byla nová, teheránská myšlenka Berwitzova – a na kožených rukavicích nesli pestrobarevné pokřikující papoušky. Nato byla dvěma býky zebu tažena klec s tygry a ve čtyřspřeží vezena klec se lvy. Za ní mašírovali vojáci oblečení do modročervenozlatých krojů, kterým se v cirkuse říkalo marokánské. Nesli v rukou pozlacené klece s malými opičkami. Osm najatých hamalů, začerněných ve tváři a na rukou, s obrovskými turbany a peřím na hlavách a ve fantastických žlutých a červených úborech, neslo zdobná čínská nosítka, na nichž seděly dvě ženy artistů, přeměněné ve víly. A pak se zjevil užaslým divákům majestátní slon Bingo, ověšený rudými čabrakami se zlatými třapci; na hlavě mu seděl důstojný Arr-Šehir v bílých šatech a zlatém turbanu, na zádech se mu pohupoval palankýn, z něhož mávaly čtyři hurisky s tvářemi zakrytými závoji. Byly to ženy sluhů a koňáků, pračky a myčky, které s nabarvenýma očima vypadaly jako nejsvůdnější zjevení. Ale to ještě pořád nebyl konec průvodu. Ještě se objevili strakatí šaškové s cvičenými psy, v čele pan Hamilton na divokém oslu, který byl kupodivu poslušný. Mezi poskakujícími a kotrmelcujícími augusty vedli sluhové kozla Modrovousa s jeho bílou a nyní ověnčenou družinou, párek muflonů, stádečko ovcí, jezevce a medvěda. Byla to nejstrakatější skupina, neboť sluhové měli na sobě všelijaké ty staré přepychové uniformy, které sbírával děda Carlo. A pak ještě jelo několik středověkých zbrojnošů opět se standartou Cirkus Humberto a byl konec.
 
 Vyplatilo se Petru Berwitzovi, že tolik péče a nákladu věnoval režii svého vstupu do Cařihradu. Představení za představením bylo natřískáno, evropská kolonie i poddaní pádišáhovi přicházeli znovu a znovu.
 
@@ -54,3 +54,35 @@ Tam nalezl Berwitz svou sestřenici Elisu v hlubokém smutku pro smrt svého mu�
 Tak se Cirkus Humberto ustálil a vykrystalizoval do té podoby, v níž jej našel český zedník Antonín Karas ve dnech, kdy se zimní pobyt v Hamburku končil a všecko žilo v posledních přípravách k jarnímu odjezdu na turné.
 
 </section>
+
+[^1]: Vedoucí dělníků. _Pozn. red._
+
+[^2]: Posměšné pojmenování zedníků. _Pozn. red._
+
+[^3]: Křídlovka (z něm. Flügelhorn). _Pozn. red._
+
+[^4]: Jezdecký. _Pozn. red._
+
+[^5]: U muslimů označení jinověrce, též džaur. _Pozn. red._
+
+[^6]: Oblek. _Pozn. red._
+
+[^7]: Zastarale dýka. _Pozn. red._
+
+[^8]: Tři souběžné řeky. _Pozn. red._
+
+[^9]: Heraldická figura, konkrétně sukovitý kmen s odštěpky po oseknutých větvích. _Pozn. red._
+
+[^10]: Vodní růže, leknínový dvojlist. _Pozn. red._
+
+[^11]: „Přítelíčku! Jaká radost! Nebesa, takové překvapení!“ _Pozn. red._
+
+[^12]: Chochol z dlouhých ptačích per. _Pozn. red._
+
+[^13]: Starosta. _Pozn. red._
+
+[^14]: Bože, to víte – jaká slast! _Pozn. red._
+
+[^15]: Vskutku nezemřu (ve významu: něco tu po mne zbude). _Pozn. red._
+
+[^16]: Chystat se, připravovat se, nebo také holedbat se, vychloubat se. _Pozn. red._

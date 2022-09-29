@@ -132,3 +132,35 @@ Starého Berwitze prý obešel mráz jako každého zdravého člověka, když s
 „Zkrátka, přeskočilo mu,“ končil Berwitz svoje vyprávění, „docela se pomátl. Však to bylo taky alkoholu, od rána do noci, jak je rok dlouhý. Musíme se s ním rozloučit. Ale ty dva, Selnického a Gaudeama, já už nahrazovat nebudu. To už si budeš muset zařídit ty, já jsem na to už starý. Až přijedeme do Hamburku, prodám konstrukci, to je můj poslední úkol. A pak, až budou ty milióny, uděláš si pořádek, jaký budeš chtít.“
 
 </section>
+
+[^1]: Vedoucí dělníků. _Pozn. red._
+
+[^2]: Posměšné pojmenování zedníků. _Pozn. red._
+
+[^3]: Křídlovka (z něm. Flügelhorn). _Pozn. red._
+
+[^4]: Jezdecký. _Pozn. red._
+
+[^5]: U muslimů označení jinověrce, též džaur. _Pozn. red._
+
+[^6]: Oblek. _Pozn. red._
+
+[^7]: Zastarale dýka. _Pozn. red._
+
+[^8]: Tři souběžné řeky. _Pozn. red._
+
+[^9]: Heraldická figura, konkrétně sukovitý kmen s odštěpky po oseknutých větvích. _Pozn. red._
+
+[^10]: Vodní růže, leknínový dvojlist. _Pozn. red._
+
+[^11]: „Přítelíčku! Jaká radost! Nebesa, takové překvapení!“ _Pozn. red._
+
+[^12]: Chochol z dlouhých ptačích per. _Pozn. red._
+
+[^13]: Starosta. _Pozn. red._
+
+[^14]: Bože, to víte – jaká slast! _Pozn. red._
+
+[^15]: Vskutku nezemřu (ve významu: něco tu po mne zbude). _Pozn. red._
+
+[^16]: Chystat se, připravovat se, nebo také holedbat se, vychloubat se. _Pozn. red._

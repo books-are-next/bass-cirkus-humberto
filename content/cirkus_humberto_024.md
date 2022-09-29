@@ -36,3 +36,35 @@ Nejkrásnější jsou s nimi vlahé letní večery, když se táboří venku ve 
 Všichni už vědí, že vytrvalé bubnování dešťů na plátna stanů přivolává konec cesty a radostného tulačení. V polou října je třeba přejít k zimnímu životu. Pro některé to znamená odchod z cirkusu a loučení. Melancholie se bezděky brouzdá s nimi, když za mlhy tíhnou sychravým jitrem opatřit hladovějící zvířata. Jediný pan Berwitz chodí mezi nimi s hrudí pyšně vypjatou a mne si rukama: koupil dřevěnou konstrukci na prostranství při Reeperbahn, dal ji upravit, je svrchovaným pánem zimního sídla a Cirkus Humberto poprvé bude přezimovat na vlastní půdě.
 
 </section>
+
+[^1]: Vedoucí dělníků. _Pozn. red._
+
+[^2]: Posměšné pojmenování zedníků. _Pozn. red._
+
+[^3]: Křídlovka (z něm. Flügelhorn). _Pozn. red._
+
+[^4]: Jezdecký. _Pozn. red._
+
+[^5]: U muslimů označení jinověrce, též džaur. _Pozn. red._
+
+[^6]: Oblek. _Pozn. red._
+
+[^7]: Zastarale dýka. _Pozn. red._
+
+[^8]: Tři souběžné řeky. _Pozn. red._
+
+[^9]: Heraldická figura, konkrétně sukovitý kmen s odštěpky po oseknutých větvích. _Pozn. red._
+
+[^10]: Vodní růže, leknínový dvojlist. _Pozn. red._
+
+[^11]: „Přítelíčku! Jaká radost! Nebesa, takové překvapení!“ _Pozn. red._
+
+[^12]: Chochol z dlouhých ptačích per. _Pozn. red._
+
+[^13]: Starosta. _Pozn. red._
+
+[^14]: Bože, to víte – jaká slast! _Pozn. red._
+
+[^15]: Vskutku nezemřu (ve významu: něco tu po mne zbude). _Pozn. red._
+
+[^16]: Chystat se, připravovat se, nebo také holedbat se, vychloubat se. _Pozn. red._

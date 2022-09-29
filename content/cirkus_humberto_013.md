@@ -452,3 +452,35 @@ Antonín Karas sedí a zírá do mokřavé tmy. Už i ty břízy, silné a mocn�
 A z toho cizího zvuku se mu rodí vzpomínka za vzpomínkou a každá se došeptává k němu zpěvavým nářečím domova. Japa se daří nejčko Vaškovi na bandurku? A copa Vaškovo maminka, Márinka… eslipa by nebyla celá bej sebe… Vona, chuděra, tam, v Horní Sněžné pod lerpánkem… a ty, mandžel, tú tady v kerémsi Buxtehude… Inu, co muší bejt, to holt muší přijít, to ináč nejde… darmo si kormoutíš srdce… A dyby tě zavezli až k sedmi kurfiřtům, šady je, chlapče, šady je zem Páně!
 
 </section>
+
+[^1]: Vedoucí dělníků. _Pozn. red._
+
+[^2]: Posměšné pojmenování zedníků. _Pozn. red._
+
+[^3]: Křídlovka (z něm. Flügelhorn). _Pozn. red._
+
+[^4]: Jezdecký. _Pozn. red._
+
+[^5]: U muslimů označení jinověrce, též džaur. _Pozn. red._
+
+[^6]: Oblek. _Pozn. red._
+
+[^7]: Zastarale dýka. _Pozn. red._
+
+[^8]: Tři souběžné řeky. _Pozn. red._
+
+[^9]: Heraldická figura, konkrétně sukovitý kmen s odštěpky po oseknutých větvích. _Pozn. red._
+
+[^10]: Vodní růže, leknínový dvojlist. _Pozn. red._
+
+[^11]: „Přítelíčku! Jaká radost! Nebesa, takové překvapení!“ _Pozn. red._
+
+[^12]: Chochol z dlouhých ptačích per. _Pozn. red._
+
+[^13]: Starosta. _Pozn. red._
+
+[^14]: Bože, to víte – jaká slast! _Pozn. red._
+
+[^15]: Vskutku nezemřu (ve významu: něco tu po mne zbude). _Pozn. red._
+
+[^16]: Chystat se, připravovat se, nebo také holedbat se, vychloubat se. _Pozn. red._

@@ -121,7 +121,7 @@ Pan Mittelhofer spustil zkrátka a zprudka, že Cirkus Humberto vjíždí teď d
 
 „Na kterémkoli místě,“ vyskočil trpaslík podrážděně, „na kterémkoli místě v programu budeme mít dvojnásobný sukces, když budeme mít svou hudbu. Nemám pravdu, Emilko?“
 
-Paní Mittelhoferová rozhodně přisvědčila. Ředitel zůstával stejně zdvořilý jako dosud, jen jeho pohled byl chladný jak tulich[\[7\]](./resources/undefined).
+Paní Mittelhoferová rozhodně přisvědčila. Ředitel zůstával stejně zdvořilý jako dosud, jen jeho pohled byl chladný jak tulich[^7].
 
 „Ráčíte navrhovat kterékoli jiné místo. Prosím. Ale co když se ukáže, že na tom jiném místě budete úplně bez úspěchu?“
 
@@ -199,3 +199,35 @@ Nezbytný důsledek toho byl, že Hans pozval Kerholce, Karase otce a Vosátku n
 „Co ti mám říct?“ odtušil staroch, „jel jsi to jako ten Horymír z Bubna.“
 
 </section>
+
+[^1]: Vedoucí dělníků. _Pozn. red._
+
+[^2]: Posměšné pojmenování zedníků. _Pozn. red._
+
+[^3]: Křídlovka (z něm. Flügelhorn). _Pozn. red._
+
+[^4]: Jezdecký. _Pozn. red._
+
+[^5]: U muslimů označení jinověrce, též džaur. _Pozn. red._
+
+[^6]: Oblek. _Pozn. red._
+
+[^7]: Zastarale dýka. _Pozn. red._
+
+[^8]: Tři souběžné řeky. _Pozn. red._
+
+[^9]: Heraldická figura, konkrétně sukovitý kmen s odštěpky po oseknutých větvích. _Pozn. red._
+
+[^10]: Vodní růže, leknínový dvojlist. _Pozn. red._
+
+[^11]: „Přítelíčku! Jaká radost! Nebesa, takové překvapení!“ _Pozn. red._
+
+[^12]: Chochol z dlouhých ptačích per. _Pozn. red._
+
+[^13]: Starosta. _Pozn. red._
+
+[^14]: Bože, to víte – jaká slast! _Pozn. red._
+
+[^15]: Vskutku nezemřu (ve významu: něco tu po mne zbude). _Pozn. red._
+
+[^16]: Chystat se, připravovat se, nebo také holedbat se, vychloubat se. _Pozn. red._
