@@ -59,7 +59,7 @@ Vašek pokýval hlavou a smutně se rozhlédl po mrtvé manéži a zešeřelé p
 
 Odvázal provazový žebřík od stěny u vchodu a přidržel jej, aby otec mohl pohodlněji vystoupit nahoru. Pak se sám skokem zachytil příček a jeho atletické tělo se rychle vyručkovalo do přístropí.
 
-Jak to bylo dávno, kdy toužil sem vylézt a kdy mu pan Barengo nedovolil vstoupit na žebřík. Sám Frasquito Barengo už dávno odtud zmizel i s tím veselým Francouzem Laribeauem. Po léta střežil svou ženu Conchitu a věčně dumal o tom, že je to přece nezbytný osud, že ho ta mladá krasavice zradí s hezkým a hovorným Héctorem. Vždycky tomu tak bylo, všecky slavné trojice hrazdařů se skončily vždy týmž dramatem lásky a žárlivosti. Nemohlo to přece jinak dopadnout; mladá, robustní těla v trikotech, denní důvěrný styk, společná hra se životem a smrtí, všecko to spělo k témuž osudnému zauzlení. Frasquito Barengo tedy jen čekal a svým těžkým, zamyšleným pohledem pozoroval každé jejich hnutí. Čekal a číhal, hlídal a střehl, až jednoho odpoledne přišel Héctor Laribeau a zeptal se ho, co to má být, že právě viděl paní Conchu odjíždět kočárem k nádraží. Barengo vyletěl jako rys, hotov k vraždě nožem nebo pistolí; ale byla to holá a neodvratná skutečnost, za jeho zády ležel na stole maringotky voňavý lísteček, kde mu Concha dávala sbohem, prosila ho stotisíckrát za odpuštění a oznamovala, že jde za svým štěstím. I Héctora v lístku pozdravovala a prosila za prominutí, že jim zkazila krásné číslo. Stáli proti sobě bezradní, Barengo rozzuřen, Laribeau užaslý. A celý večer, kdy odpadlo jejich vystoupení, seděli spolu při víně a lámali si hlavu, jak to přišlo, že ani jeden, ani druhý nepozorovali, že krásná Concha vyslechla srdce třetího. Laribeau se troštoval[\[16\]](./resources/undefined), že vyšetří, kdo to byl a kdo dělal prostředníka, neboť bez prostředníka to vůbec nebylo možné. Ale Frasquito Barengo ho zarazil. Měl už zase ten svůj nehybný pohled, ponořený do tajemství, bouře nenávisti ho přešla, věci se mu zjevovaly v nové tvářnosti.
+Jak to bylo dávno, kdy toužil sem vylézt a kdy mu pan Barengo nedovolil vstoupit na žebřík. Sám Frasquito Barengo už dávno odtud zmizel i s tím veselým Francouzem Laribeauem. Po léta střežil svou ženu Conchitu a věčně dumal o tom, že je to přece nezbytný osud, že ho ta mladá krasavice zradí s hezkým a hovorným Héctorem. Vždycky tomu tak bylo, všecky slavné trojice hrazdařů se skončily vždy týmž dramatem lásky a žárlivosti. Nemohlo to přece jinak dopadnout; mladá, robustní těla v trikotech, denní důvěrný styk, společná hra se životem a smrtí, všecko to spělo k témuž osudnému zauzlení. Frasquito Barengo tedy jen čekal a svým těžkým, zamyšleným pohledem pozoroval každé jejich hnutí. Čekal a číhal, hlídal a střehl, až jednoho odpoledne přišel Héctor Laribeau a zeptal se ho, co to má být, že právě viděl paní Conchu odjíždět kočárem k nádraží. Barengo vyletěl jako rys, hotov k vraždě nožem nebo pistolí; ale byla to holá a neodvratná skutečnost, za jeho zády ležel na stole maringotky voňavý lísteček, kde mu Concha dávala sbohem, prosila ho stotisíckrát za odpuštění a oznamovala, že jde za svým štěstím. I Héctora v lístku pozdravovala a prosila za prominutí, že jim zkazila krásné číslo. Stáli proti sobě bezradní, Barengo rozzuřen, Laribeau užaslý. A celý večer, kdy odpadlo jejich vystoupení, seděli spolu při víně a lámali si hlavu, jak to přišlo, že ani jeden, ani druhý nepozorovali, že krásná Concha vyslechla srdce třetího. Laribeau se troštoval[^16], že vyšetří, kdo to byl a kdo dělal prostředníka, neboť bez prostředníka to vůbec nebylo možné. Ale Frasquito Barengo ho zarazil. Měl už zase ten svůj nehybný pohled, ponořený do tajemství, bouře nenávisti ho přešla, věci se mu zjevovaly v nové tvářnosti.
 
 „Nech ji běžet a být šťastnou,“ řekl zamyšlen Héctorovi, „byla příliš krásná, abychom se jí mohli dohlídat. Vrátím se domů, do Španělska, a budu hledat novou partnerku. V našem kraji jsou dívky štíhlé, půvabné a heroické. Najdu ji brzy a vycvičím. Chceš-li zůstat ve spolku, pojď se mnou. Živobytí ti po ten rok příprav dám. Ale až to ta dívka bude umět, oženíš se s ní ty. Já už jsem toho prožil dost a musím teď myslet na věci trvalejší, nežli je ženská věrnost.“
 
@@ -266,3 +266,35 @@ Vašek blaženě odpočítal, co Steenhouwer potřeboval na vyplacení.
 „Prodal jsem velbloudy, tatínku,“ odpověděl Vašek pevně a vesele. „To jediné, co jste mi dal věnem, to jediné, co byl můj majetek, a ne váš.“
 
 </section>
+
+[^1]: Vedoucí dělníků. _Pozn. red._
+
+[^2]: Posměšné pojmenování zedníků. _Pozn. red._
+
+[^3]: Křídlovka (z něm. Flügelhorn). _Pozn. red._
+
+[^4]: Jezdecký. _Pozn. red._
+
+[^5]: U muslimů označení jinověrce, též džaur. _Pozn. red._
+
+[^6]: Oblek. _Pozn. red._
+
+[^7]: Zastarale dýka. _Pozn. red._
+
+[^8]: Tři souběžné řeky. _Pozn. red._
+
+[^9]: Heraldická figura, konkrétně sukovitý kmen s odštěpky po oseknutých větvích. _Pozn. red._
+
+[^10]: Vodní růže, leknínový dvojlist. _Pozn. red._
+
+[^11]: „Přítelíčku! Jaká radost! Nebesa, takové překvapení!“ _Pozn. red._
+
+[^12]: Chochol z dlouhých ptačích per. _Pozn. red._
+
+[^13]: Starosta. _Pozn. red._
+
+[^14]: Bože, to víte – jaká slast! _Pozn. red._
+
+[^15]: Vskutku nezemřu (ve významu: něco tu po mne zbude). _Pozn. red._
+
+[^16]: Chystat se, připravovat se, nebo také holedbat se, vychloubat se. _Pozn. red._

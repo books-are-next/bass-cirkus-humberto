@@ -7,7 +7,7 @@ contentType: prose
 
 Začátek… Kde vlastně byl začátek? Patrně u té malé sklenice bledého, řídkého a slabě zpěněného piva, kterou postavili před Antonína Karase na plechový výčepní pult. Hein Moesecke se jmenoval ten šenkýř a krčma slula U námořníkovy nevěsty. Bylo to v jedné z těch klikatých, nebezpečných uliček, které se rozbíhají v Hamburku na konci Reeperbahn vlevo i vpravo. Chodívali tam čeští dělníci sníst kousek bůčku krájeného vlastní kudlou a vypít sklenici nejlevnějšího piva. Toho dne však Antonín Karas nešel za krajany; vracel se z Altony úplně skleslý na duchu, a když minul křižovatku U čtyř rohů, kde uprostřed města královský stát pruský hraničil se svobodným hanzovním městem Hamburkem, odevzdal se už úplně proudu lidí jako loď, která ztratila řízení. Vráželi do něho, strkali sem tam, zabrali ho jakýmsi jednotným tlakem a unášeli dál, od ulice k ulici, podél kanálů, přes mostky, po hlavní třídě; a pak to najednou osláblo a vyhodilo ho to na konci Reeperbahn a on už mechanicky dotlapal k Námořníkově nevěstě, jako ztroskotanec leze z mělčiny na břeh. A po celou tu hluchou cestu ho svírala jenom tupá představa, že není tu pro něho práce, že se už neuchytí a co teď s chlapcem, když všecko vsadil na jedinou kartu.
 
-Už skoro dvacet let se sem jezdilo na léto na práci, docela bezpečně, protože tu bylo díla, že by ses mohl přetrhnout. To tenkrát, tak nějak když se psalo v letopočtu čtyřicet, Hamburk vyhořel. Oheň to musel být hrozný, protože ještě on, Karas, boural po nějakých osmi letech kolikerou vyhořelinu. Prý přes šedesát ulic lehlo se vším všudy, ani kostelům se ten pekelný živel nevyhnul. Celý svět na nešťastné město sbíral, ale hlavně se zvedli hamburští páni sami a usnesli se, že postaví všecinko všudy docela nové, a to mohutně, bytelně, pravé přístavní velkoměsto. Už příštím rokem se začalo budovat, v ohromných, neslýchaných rozměrech, jen dělného lidu zednického a tesařského bylo k tomu málo. Tehdy přinesli Lannovi plavci na Budějovicko první zprávy o velké pracovní příležitosti a z té oné vesnice se na jaře vypravila parta na práci a na zimu se spokojeně vrátila. Pak už to byl pravidelný tah z Podšumaví na Hamburk a z Hamburku domů. Nějaký Milner to začal v Horní Sněžné a Antonín Karas se dal do jeho party. Milner byl partafír[\[1\]](./resources/undefined) náramný, v podjaří si sjednal cestu po vorech a na podzim udělal ze zedníků muzikantskou bandu, že vydělávali i cestou domů. Do Horní Sněžné přinesli peněz, že to vesnice jakživa neviděla. Hned se začaly zlepšovat chalupy, přikupovat kozy, zvětšovat bramborářská políčka. Antonín Karas sám se na to oženil a pěkně mu to šlo, synka Václava měl, kluka jak řimbuch, jen Márinka od těch čas postonávala, polehávala, že i to chalupní hospodářství stěží přes léto zastala.
+Už skoro dvacet let se sem jezdilo na léto na práci, docela bezpečně, protože tu bylo díla, že by ses mohl přetrhnout. To tenkrát, tak nějak když se psalo v letopočtu čtyřicet, Hamburk vyhořel. Oheň to musel být hrozný, protože ještě on, Karas, boural po nějakých osmi letech kolikerou vyhořelinu. Prý přes šedesát ulic lehlo se vším všudy, ani kostelům se ten pekelný živel nevyhnul. Celý svět na nešťastné město sbíral, ale hlavně se zvedli hamburští páni sami a usnesli se, že postaví všecinko všudy docela nové, a to mohutně, bytelně, pravé přístavní velkoměsto. Už příštím rokem se začalo budovat, v ohromných, neslýchaných rozměrech, jen dělného lidu zednického a tesařského bylo k tomu málo. Tehdy přinesli Lannovi plavci na Budějovicko první zprávy o velké pracovní příležitosti a z té oné vesnice se na jaře vypravila parta na práci a na zimu se spokojeně vrátila. Pak už to byl pravidelný tah z Podšumaví na Hamburk a z Hamburku domů. Nějaký Milner to začal v Horní Sněžné a Antonín Karas se dal do jeho party. Milner byl partafír[^1] náramný, v podjaří si sjednal cestu po vorech a na podzim udělal ze zedníků muzikantskou bandu, že vydělávali i cestou domů. Do Horní Sněžné přinesli peněz, že to vesnice jakživa neviděla. Hned se začaly zlepšovat chalupy, přikupovat kozy, zvětšovat bramborářská políčka. Antonín Karas sám se na to oženil a pěkně mu to šlo, synka Václava měl, kluka jak řimbuch, jen Márinka od těch čas postonávala, polehávala, že i to chalupní hospodářství stěží přes léto zastala.
 
 A pak přišel tenhle rok 1862 a bylo to jako z učarování. Márinka po Novém roce lehla, a když Milner svolával partu, bylo jí tak zle, že ji Toník nemohl opustit. Za týden po tom, co chlapci odešli, Márinka, dej jí pánbůh lehké odpočinutí, umřela. Pěkný pohřeb jí Karas vypravil, třebaže ve vsi mužských nebylo, jen ženské a dědci. Pod mezemi a ve stráňkách ještě ležel sníh, půda byla, když kopali hrob, jako z jednoho kusu, ale Karas nedal, přinesl s Vašíčkem z lesa zelený lerpán, takový malý modřínek, a zasadil jej nebožce za hlavu, aby ji oči nebolely od nebeského jasu. A pak ještě to spořádal s hospodářstvím, něco k Márinčině matce, něco k své sestře, chalupu poprvé zamkl na petlici a zámek a pak si přehodil přes záda batoh s náčiním, trumpetou a nějakou tou buchtou, vzal Vašíčka za ruku a vykročil dolů na Budějovice. Moc peněz mu po všech trampotách nezbylo, sotva na cestu, ale když se konečně doplavil do Hamburku a přitáhl za krajany k Námořníkově nevěstě, ohlásit se do party, zůstal, jako když do něho hrom udeří: Milner nikde a parta pryč.
 
@@ -31,7 +31,7 @@ Karas pokročí k tomu stolu, človíček je tam jakýsi pomenší, černý, ku�
 
 „Ano. Od Bud’ouc.“
 
-„Rochně[\[2\]](./resources/undefined), viď?“
+„Rochně[^2], viď?“
 
 „Tak.“
 
@@ -81,7 +81,7 @@ Karas si venku připadal jako kolohnát vedle malého Kerholce, nicméně musel 
 
 „A Milner pořád chtěl na tebe počkat, že prý náramně troubíš?“
 
-„Teda flígornu[\[3\]](./resources/undefined), to zas jo.“
+„Teda flígornu[^3], to zas jo.“
 
 „Se ví, dyk jsi Čech. Tak ti řeknu, Anton, že to bude dobrý, esli ty sám to neuděláš špatný. Karlíček Kerholců má nos. Tuhle vlevo za ten kolotoč a už jsme tu.“
 
@@ -242,3 +242,35 @@ Kerholec předvedl Karasovi, jak si má pod levou ruku založit lopatu a jak vé
 Tak přišel Antonín Karas, zedník z Horní Sněžné, v podjaří roku 1862 k cirkusu. Odpoledne tam stanul, všecek užaslý, i jeho sedmiletý Vašek.
 
 </section>
+
+[^1]: Vedoucí dělníků. _Pozn. red._
+
+[^2]: Posměšné pojmenování zedníků. _Pozn. red._
+
+[^3]: Křídlovka (z něm. Flügelhorn). _Pozn. red._
+
+[^4]: Jezdecký. _Pozn. red._
+
+[^5]: U muslimů označení jinověrce, též džaur. _Pozn. red._
+
+[^6]: Oblek. _Pozn. red._
+
+[^7]: Zastarale dýka. _Pozn. red._
+
+[^8]: Tři souběžné řeky. _Pozn. red._
+
+[^9]: Heraldická figura, konkrétně sukovitý kmen s odštěpky po oseknutých větvích. _Pozn. red._
+
+[^10]: Vodní růže, leknínový dvojlist. _Pozn. red._
+
+[^11]: „Přítelíčku! Jaká radost! Nebesa, takové překvapení!“ _Pozn. red._
+
+[^12]: Chochol z dlouhých ptačích per. _Pozn. red._
+
+[^13]: Starosta. _Pozn. red._
+
+[^14]: Bože, to víte – jaká slast! _Pozn. red._
+
+[^15]: Vskutku nezemřu (ve významu: něco tu po mne zbude). _Pozn. red._
+
+[^16]: Chystat se, připravovat se, nebo také holedbat se, vychloubat se. _Pozn. red._

@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "bass-cirkus-humberto-aaa33d1",
-  "revision": "aaa33d1",
+  "identifier": "bass-cirkus-humberto-519088e",
+  "revision": "519088e",
   "readingOrder": [
     "promo.html",
     "cirkus_humberto_005.html",
@@ -73,8 +73,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 21 2022 14:43:13 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658414593396
+    "date": "Thu Sep 29 2022 21:18:04 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664486284191
   },
   "documents": [
     {
@@ -132,9 +132,9 @@
     {
       "title": "II",
       "file": "cirkus_humberto_007.html",
-      "words": 4251,
-      "chars": 24642,
-      "ideas": 115,
+      "words": 4269,
+      "chars": 24753,
+      "ideas": 118,
       "role": "chapter",
       "order": 3,
       "prev": "cirkus_humberto_006.html",
@@ -152,9 +152,9 @@
     {
       "title": "III",
       "file": "cirkus_humberto_008.html",
-      "words": 4889,
-      "chars": 30786,
-      "ideas": 27,
+      "words": 4893,
+      "chars": 30807,
+      "ideas": 28,
       "role": "chapter",
       "order": 4,
       "prev": "cirkus_humberto_007.html",
@@ -172,9 +172,9 @@
     {
       "title": "IV",
       "file": "cirkus_humberto_009.html",
-      "words": 4568,
-      "chars": 28718,
-      "ideas": 25,
+      "words": 4577,
+      "chars": 28770,
+      "ideas": 26,
       "role": "chapter",
       "order": 5,
       "prev": "cirkus_humberto_008.html",
@@ -232,9 +232,9 @@
     {
       "title": "VII",
       "file": "cirkus_humberto_012.html",
-      "words": 6496,
-      "chars": 36969,
-      "ideas": 117,
+      "words": 6500,
+      "chars": 36987,
+      "ideas": 118,
       "role": "chapter",
       "order": 8,
       "prev": "cirkus_humberto_011.html",
@@ -452,9 +452,9 @@
     {
       "title": "IX",
       "file": "cirkus_humberto_023.html",
-      "words": 3138,
-      "chars": 18971,
-      "ideas": 98,
+      "words": 3143,
+      "chars": 18998,
+      "ideas": 99,
       "role": "chapter",
       "order": 19,
       "prev": "cirkus_humberto_022.html",
@@ -492,9 +492,9 @@
     {
       "title": "XI",
       "file": "cirkus_humberto_025.html",
-      "words": 2663,
-      "chars": 15755,
-      "ideas": 36,
+      "words": 2689,
+      "chars": 15915,
+      "ideas": 39,
       "role": "chapter",
       "order": 21,
       "prev": "cirkus_humberto_024.html",
@@ -512,9 +512,9 @@
     {
       "title": "XII",
       "file": "cirkus_humberto_026.html",
-      "words": 3751,
-      "chars": 21967,
-      "ideas": 107,
+      "words": 3781,
+      "chars": 22131,
+      "ideas": 111,
       "role": "chapter",
       "order": 22,
       "prev": "cirkus_humberto_025.html",
@@ -712,9 +712,9 @@
     {
       "title": "V",
       "file": "cirkus_humberto_036.html",
-      "words": 5022,
-      "chars": 30205,
-      "ideas": 110,
+      "words": 5034,
+      "chars": 30267,
+      "ideas": 111,
       "role": "chapter",
       "order": 32,
       "prev": "cirkus_humberto_035.html",
@@ -772,9 +772,9 @@
     {
       "title": "VIII",
       "file": "cirkus_humberto_039.html",
-      "words": 5405,
-      "chars": 31913,
-      "ideas": 131,
+      "words": 5418,
+      "chars": 31989,
+      "ideas": 132,
       "role": "chapter",
       "order": 35,
       "prev": "cirkus_humberto_038.html",
@@ -1232,9 +1232,9 @@
     {
       "title": "Poznámky pod čarou",
       "file": "cirkus_humberto_062.html",
-      "words": 124,
-      "chars": 771,
-      "ideas": 17,
+      "words": 245,
+      "chars": 1469,
+      "ideas": 33,
       "role": "chapter",
       "order": 58,
       "prev": "cirkus_humberto_061.html",
@@ -1252,9 +1252,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 122,
-      "chars": 830,
-      "ideas": 14,
+      "words": 113,
+      "chars": 787,
+      "ideas": 13,
       "role": "about",
       "order": null,
       "prev": "cirkus_humberto_062.html",
@@ -1272,14 +1272,14 @@
   ],
   "totals": {
     "all": {
-      "words": 164525,
-      "chars": 974853,
-      "ideas": 3537
+      "words": 164758,
+      "chars": 976199,
+      "ideas": 3568
     },
     "chapters": {
-      "words": 164397,
-      "chars": 973986,
-      "ideas": 3519
+      "words": 164639,
+      "chars": 975375,
+      "ideas": 3551
     }
   }
 }

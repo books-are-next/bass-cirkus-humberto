@@ -19,7 +19,7 @@ Petr zůstal v roli akrobatické krasojezdkyně půldruhého roku. Dalo to někd
 
 Byla to doba, kdy kvetla záliba v jezdeckých cirkusech. Aristokracie stála ještě v čele stavovsky rozvrstvených států a národů, sama většinou odchována anglickými mravy a anglickým vkusem. Renezanční typ šlechtice jako mecenáše věd a umění, který se mohutně přesunul do baroku, vymíral v několika jedincích; mnohem více bylo zájmu o příjemné stránky života, mezi nimiž na prvních místech byla vášeň pro ušlechtilé koně a pro umění jezdecké. Přijel-li do sídelního města dobrý cirkus, sjížděla se za ním šlechta z venkovských zámků a zakupovala si na řadu dní lóže, aby dosyta užila pohledu na vybrané, pečlivě pěstěné hřebce, valachy a klisny, posuzovala umění jejich jezdců a cvičitelů a v přestávce vytvářela z cirkusových koníren svůj společenský promenoár. Velké gesto rytířských turnajů, ona patetická apoteóza dobrodružného hrdinství, jež je ochotno padnout pro nic, jen pro krásu postoje, dávno už vymizelo ze života dohořívající panské slávy, ale znovu se rodilo zde v tomto potulném bratrstvu rejtarském, v tomto chudém rytířstvu bez půdy a erbu. Pokud ještě v umdlévající paměti šlechtických rodů doutnala tucha zaniklého bohatýrství, vábil je zlatý kotouč manéže jako odlesk turnajového placu jejich předků. Šli jako somnambulové za touto lunou své minulosti; přiváděla je k lidem, kteří se jako oni postavili mimo měšťáctví, třebaže na opačném pólu. Vévodové a markýzové obklopovali jezdecké komedianty, kteří pro pár grošů denně hráli o zlámání vlastního vazu. A zlatý déšť přízně a poct se snášel na luzné jezdkyně s vosím pasem, na tyto víly a sylfidy, poletující nad hrdými zvířaty a hledající graciézní dokonalost vyzývavě až na samém pomezí života a smrti. Mnohé z nich skončily svou hru se zlomenými žebry pod tělem převrátivšího se koně, mnohé však se vznesly posledním půvabným skokem do nejvyšších míst společnosti, ke korunkám a k titulům, jejichž nositelé v hloubi duše cítili, že se v očích svých dobyvatelských předků nedopouštějí žádné mezaliance.
 
-Leč i ty méně šťastné byly vždy obklopeny rejem ctitelů; i v malých, zapadlých městech byly jezdecké posádky a jejich důstojnictvo čekalo na příjezd cirkusu jako na největší událost roku. Jízda byla tehdy považována za chloubu a páteř armády; husaři, dragouni, švališéři, kyrysníci, huláni měli aristokratické velitele, a mnohá od světa odloučená garnizóna dovedla uvítat ekvestrické[\[4\]](./resources/undefined) umělce a umělkyně tak bouřlivě, že několik dní pohostinství znamenalo pro některé z nich zadlužení na pár let.
+Leč i ty méně šťastné byly vždy obklopeny rejem ctitelů; i v malých, zapadlých městech byly jezdecké posádky a jejich důstojnictvo čekalo na příjezd cirkusu jako na největší událost roku. Jízda byla tehdy považována za chloubu a páteř armády; husaři, dragouni, švališéři, kyrysníci, huláni měli aristokratické velitele, a mnohá od světa odloučená garnizóna dovedla uvítat ekvestrické[^4] umělce a umělkyně tak bouřlivě, že několik dní pohostinství znamenalo pro některé z nich zadlužení na pár let.
 
 Však se mnohdy slovo cirkus přitom ani nevyslovilo. Od prvních hromadných výprav anglických krasojezdců na pevninu až po takového českého direktora Beránka říkaly si tyto hipické cirkusy prostě Jezdecká společnost, Britská královská krasojízda a podobně. Málokteré z nich měly své stany, většinou vystupovaly v „konstrukcích“, v dřevěných kruhových budovách, které byly už pro ně ve velkých městech zřízeny, nebo si je dávaly postavit, protože pobyly na místě několik měsíců. Jejich program byl sestaven ze standardních čísel královského umění volné drezúry a vysoké školy, z římské jízdy, čikošské pošty, parforsní jízdy, voltižování, z tanečků koní i z tanců a skoků jezdkyň a jezdců. Několik klaunů vyplňovalo přestávky, než se znovu uhrabaly piliny v manéži. Měla-li společnost zvlášť cvičeného koně, bývala vrcholem večera dramatická scéna, například „Arab a jeho věrný oř“, v níž hrál chytrý hřebec hlavní roli. A nakonec se provozovala velká pantomima, jíž se účastnilo všechno koňstvo společnosti a v níž se rozvinul co největší přepych jezdeckých kostýmů.
 
@@ -58,3 +58,35 @@ Ráno se opakovalo v cirkusové kleci cvičení s podstavci. Paša se dlouho vzp
 Paša se sklonil, aby pustil nebohého Berwitze. V té vteřině zazněl výstřel. Paša nějak změkl v kříži, vycenil zuby, ale zapotácel se. Petr Berwitz, který zatím byl doběhl z koníren, nabíjel podruhé. Bylo to zbytečné, tygr se položil. S krmičem zahnali lva do kouta a vytáhli omdlelého otce. Za chvíli s ním ujížděli do nemocnice. Probudil se tam a usmál se, spatřiv nad sebou Antoinette i Anežku. Lékaři ujistili rodinu, že rány nejsou smrtelné a že jim tatínka za pár týdnů vrátí. Cirkus Humberto odjížděl do Curychu bez svého šéfa seniora. A už se s ním neshledal. Bernhard Berwitz dostal z Pašových drápů, plných zetlelého masa, prudkou otravu krve. V Inšpruku obdržel Petr matčin dopis, v němž mu oznamovala, že tatínek umřel, že ho pohřbí na churském hřbitově a pak že odjede za rodiči do Savojska.
 
 </section>
+
+[^1]: Vedoucí dělníků. _Pozn. red._
+
+[^2]: Posměšné pojmenování zedníků. _Pozn. red._
+
+[^3]: Křídlovka (z něm. Flügelhorn). _Pozn. red._
+
+[^4]: Jezdecký. _Pozn. red._
+
+[^5]: U muslimů označení jinověrce, též džaur. _Pozn. red._
+
+[^6]: Oblek. _Pozn. red._
+
+[^7]: Zastarale dýka. _Pozn. red._
+
+[^8]: Tři souběžné řeky. _Pozn. red._
+
+[^9]: Heraldická figura, konkrétně sukovitý kmen s odštěpky po oseknutých větvích. _Pozn. red._
+
+[^10]: Vodní růže, leknínový dvojlist. _Pozn. red._
+
+[^11]: „Přítelíčku! Jaká radost! Nebesa, takové překvapení!“ _Pozn. red._
+
+[^12]: Chochol z dlouhých ptačích per. _Pozn. red._
+
+[^13]: Starosta. _Pozn. red._
+
+[^14]: Bože, to víte – jaká slast! _Pozn. red._
+
+[^15]: Vskutku nezemřu (ve významu: něco tu po mne zbude). _Pozn. red._
+
+[^16]: Chystat se, připravovat se, nebo také holedbat se, vychloubat se. _Pozn. red._
