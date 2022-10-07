@@ -24,7 +24,7 @@ Mariánské nám. 1, 115 72 Praha 1
 [^14]: Bože, to víte – jaká slast! _Pozn. red._  
 [^15]: Vskutku nezemřu (ve významu: něco tu po mne zbude). _Pozn. red._  
 [^16]: Chystat se, připravovat se, nebo také holedbat se, vychloubat se. _Pozn. red._  
-V MKP 2. elektronické vydání z 4. 10. 2022.
+V MKP 2. elektronické vydání z 7. 10. 2022.
 
 ***
 
